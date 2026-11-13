@@ -1,0 +1,51 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Iwan\Documents\Codex\2026-11-13\semak-sama-ada-alat-mcp-chrome\work\audit-e2e\videos\audit-ownvideo-pengurusan-rekod\v002\rendered\silent-full.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf63.1.102
+  Duration: 00:00:09.67, start: 0.000000, bitrate: 126 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 122 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc63.1.102 libx264
+Input #1, wav, from 'C:\Users\Iwan\Documents\Codex\2026-11-13\semak-sama-ada-alat-mcp-chrome\work\audit-e2e\videos\audit-ownvideo-pengurusan-rekod\v002\audio\mix-before-mastering.wav':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Duration: 00:00:09.67, bitrate: 2304 kb/s
+  Stream #1:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (pcm_s24le (native) -> aac (native))
+Output #0, mp4, to 'C:\Users\Iwan\Documents\Codex\2026-11-13\semak-sama-ada-alat-mcp-chrome\work\audit-e2e\videos\audit-ownvideo-pengurusan-rekod\v002\outputs\audit-ownvideo-pengurusan-rekod-v002.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Gemini API / Ludo
+    title           : Audit Ownvideo Pengurusan Rekod
+    encoder         : Lavf63.1.102
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, q=2-31, 122 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc63.1.102 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+    Metadata:
+      encoder         : Lavc63.1.102 aac
+[Parsed_loudnorm_0 @ 00000236aaa61a40] 
+{
+	"input_i" : "-15.10",
+	"input_tp" : "-2.17",
+	"input_lra" : "1.80",
+	"input_thresh" : "-26.06",
+	"output_i" : "-15.66",
+	"output_tp" : "-2.73",
+	"output_lra" : "1.80",
+	"output_thresh" : "-26.62",
+	"normalization_type" : "linear",
+	"target_offset" : "-0.34"
+}
+[mp4 @ 00000236aaa61600] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000236aaa45c80] video:145KiB audio:227KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 3.177464%
+frame=  290 fps=0.0 q=-1.0 Lsize=     384KiB time=00:00:09.66 bitrate= 325.5kbits/s speed=23.2x elapsed=0:00:00.41    
+[aac @ 00000236ac5107c0] Qavg: 1978.153

@@ -1,0 +1,98 @@
+{
+  "fps": 30,
+  "duration_frames": 290,
+  "duration_seconds": 9.666666666666666,
+  "master_audio": {
+    "duration_seconds": 9.666666666666666,
+    "frames": 464000,
+    "sample_rate": 48000,
+    "channels": 1,
+    "sample_width": 2,
+    "bytes": 928044,
+    "sha256": "b96a0f6fe1bb43fedf124b2339ac0a883337760511b16ac0f2c88f0ef076d989"
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "start_seconds": 0.0,
+      "end_seconds": 4.833333333333333,
+      "start_frame": 0,
+      "duration_frames": 145,
+      "duration_seconds": 4.833333333333333,
+      "narration_offset_seconds": 0.25,
+      "narration_text": "Catat tarikh dan tajuk apabila menerima rekod baharu.",
+      "narration_sha256": "1665299eac682d2cda942ce6783ea731abf86fa85ee480fff5cdcb8d5c447802",
+      "original_audio": {
+        "duration_seconds": 4.08,
+        "frames": 97920,
+        "sample_rate": 24000,
+        "channels": 1,
+        "sample_width": 2,
+        "bytes": 195884,
+        "sha256": "0d73619f9e423b5bcdd19fa9ad567259615d74ffb6f49bb3072e7f0bdf77f1a5"
+      },
+      "prepared_audio": {
+        "duration_seconds": 4.833333333333333,
+        "frames": 232000,
+        "sample_rate": 48000,
+        "channels": 1,
+        "sample_width": 2,
+        "bytes": 464078,
+        "sha256": "1103900c9c6a9cf3ba008fa3b739dde7303879471c10b788b51b6879cb767064"
+      },
+      "loudness_before": {
+        "input_i": "-23.14",
+        "input_tp": "-3.15",
+        "input_lra": "1.40",
+        "input_thresh": "-33.47",
+        "output_i": "-19.07",
+        "output_tp": "-3.00",
+        "output_lra": "0.90",
+        "output_thresh": "-29.31",
+        "normalization_type": "dynamic",
+        "target_offset": "1.07"
+      }
+    },
+    {
+      "id": "s02",
+      "start_seconds": 4.833333333333333,
+      "end_seconds": 9.666666666666666,
+      "start_frame": 145,
+      "duration_frames": 145,
+      "duration_seconds": 4.833333333333333,
+      "narration_offset_seconds": 0.25,
+      "narration_text": "Kongsi rekod hanya dengan kakitangan yang diberi kuasa.",
+      "narration_sha256": "7688e808e1d92a1659b806b8f936e567100f19f597b4c98b92460926c9a05626",
+      "original_audio": {
+        "duration_seconds": 4.08,
+        "frames": 97920,
+        "sample_rate": 24000,
+        "channels": 1,
+        "sample_width": 2,
+        "bytes": 195884,
+        "sha256": "14ae9782af9ca562fe66af8a7dde9ff917e4486bc61aa72a6f64238499941cab"
+      },
+      "prepared_audio": {
+        "duration_seconds": 4.833333333333333,
+        "frames": 232000,
+        "sample_rate": 48000,
+        "channels": 1,
+        "sample_width": 2,
+        "bytes": 464078,
+        "sha256": "2da91b2bab45ec4eb00420d1d1ad10837221327fe4ac4995a6f6f317a07aae43"
+      },
+      "loudness_before": {
+        "input_i": "-23.62",
+        "input_tp": "-5.55",
+        "input_lra": "1.90",
+        "input_thresh": "-33.82",
+        "output_i": "-18.68",
+        "output_tp": "-3.00",
+        "output_lra": "1.40",
+        "output_thresh": "-28.68",
+        "normalization_type": "dynamic",
+        "target_offset": "0.68"
+      }
+    }
+  ]
+}

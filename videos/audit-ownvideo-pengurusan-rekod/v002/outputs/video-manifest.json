@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "title": "Audit Ownvideo Pengurusan Rekod",
+  "output_file": "audit-ownvideo-pengurusan-rekod-v002.mp4",
+  "duration_seconds": 9.666666666666666,
+  "fps": 30,
+  "default_voice": "Gemini API / Ludo",
+  "chapters": [
+    {
+      "id": "pegawai_pengelas",
+      "order": 1,
+      "title": "Audit Ownvideo Pengurusan Rekod",
+      "scene_ids": [
+        "s01",
+        "s02"
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "order": 1,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 0.0,
+      "end_seconds": 4.833333333333333,
+      "visual": {
+        "description": "Daftar rekod",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Audit Ownvideo Pengurusan Rekod",
+        "Daftar rekod",
+        "Catat tarikh dan tajuk apabila menerima rekod baharu."
+      ],
+      "narration": {
+        "text": "Catat tarikh dan tajuk apabila menerima rekod baharu.",
+        "voice_id": "Gemini API / Ludo",
+        "audio_file": "audio/s01.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_text",
+          "title": "Bahan ujian pengurusan rekod",
+          "path": "source/Bahan_Ujian_Ownvideo.pdf",
+          "source": "user_text",
+          "section": "Daftar rekod",
+          "page": 1,
+          "reference": "user_text",
+          "claim": "Catat tarikh dan tajuk apabila menerima rekod baharu."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s02",
+      "order": 2,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 4.833333333333333,
+      "end_seconds": 9.666666666666666,
+      "visual": {
+        "description": "Semak akses",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Audit Ownvideo Pengurusan Rekod",
+        "Semak akses",
+        "Kongsi rekod hanya dengan kakitangan yang diberi kuasa."
+      ],
+      "narration": {
+        "text": "Kongsi rekod hanya dengan kakitangan yang diberi kuasa.",
+        "voice_id": "Gemini API / Ludo",
+        "audio_file": "audio/s02.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_text",
+          "title": "Bahan ujian pengurusan rekod",
+          "path": "source/Bahan_Ujian_Ownvideo.pdf",
+          "source": "user_text",
+          "section": "Semak akses",
+          "page": 1,
+          "reference": "user_text",
+          "claim": "Kongsi rekod hanya dengan kakitangan yang diberi kuasa."
+        }
+      ],
+      "claim_ids": []
+    }
+  ],
+  "brand_reference": "assets/brand/brand-notes.md",
+  "palette": "assets/brand/palette.json"
+}

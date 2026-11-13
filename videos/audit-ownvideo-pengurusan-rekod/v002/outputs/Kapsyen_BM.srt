@@ -1,0 +1,7 @@
+1
+00:00:00,250 --> 00:00:04,330
+Catat tarikh dan tajuk apabila menerima rekod baharu.
+
+2
+00:00:05,083 --> 00:00:09,163
+Kongsi rekod hanya dengan kakitangan yang diberi kuasa.

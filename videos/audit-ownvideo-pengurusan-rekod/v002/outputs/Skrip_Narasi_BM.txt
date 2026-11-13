@@ -1,0 +1,5 @@
+Audit Ownvideo Pengurusan Rekod — Daftar rekod
+Catat tarikh dan tajuk apabila menerima rekod baharu.
+
+Audit Ownvideo Pengurusan Rekod — Semak akses
+Kongsi rekod hanya dengan kakitangan yang diberi kuasa.

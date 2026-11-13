@@ -1,0 +1,68 @@
+{
+  "title": "Audit Ownvideo Pengurusan Rekod",
+  "language": "ms-MY",
+  "fps": 30,
+  "sources": [
+    {
+      "id": "user_text",
+      "title": "Bahan ujian pengurusan rekod",
+      "path": "source/Bahan_Ujian_Ownvideo.pdf"
+    }
+  ],
+  "pronunciation": {
+    "UiTM": "yu ai ti em",
+    "CGSO": "si ji es o",
+    "PTj": "pusat tanggungjawab"
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "Daftar rekod",
+      "eyebrow": "Audit Ownvideo Pengurusan Rekod",
+      "layout": "source_cards",
+      "role": 0,
+      "bullets": [
+        "Catat tarikh dan tajuk apabila menerima rekod baharu."
+      ],
+      "narration": "Catat tarikh dan tajuk apabila menerima rekod baharu.",
+      "source_refs": [
+        {
+          "source": "user_text",
+          "section": "Daftar rekod",
+          "page": 1
+        }
+      ],
+      "duration": 4.833333333333333,
+      "duration_frames": 145,
+      "audio_duration": 4.08,
+      "narration_offset": 0.25,
+      "narration_sha256": "1665299eac682d2cda942ce6783ea731abf86fa85ee480fff5cdcb8d5c447802"
+    },
+    {
+      "id": "s02",
+      "title": "Semak akses",
+      "eyebrow": "Audit Ownvideo Pengurusan Rekod",
+      "layout": "source_cards",
+      "role": 0,
+      "bullets": [
+        "Kongsi rekod hanya dengan kakitangan yang diberi kuasa."
+      ],
+      "narration": "Kongsi rekod hanya dengan kakitangan yang diberi kuasa.",
+      "source_refs": [
+        {
+          "source": "user_text",
+          "section": "Semak akses",
+          "page": 1
+        }
+      ],
+      "duration": 4.833333333333333,
+      "duration_frames": 145,
+      "audio_duration": 4.08,
+      "narration_offset": 0.25,
+      "narration_sha256": "7688e808e1d92a1659b806b8f936e567100f19f597b4c98b92460926c9a05626"
+    }
+  ],
+  "duration_seconds": 9.666666666666666,
+  "narration_provider": "Gemini API / Ludo",
+  "narration_status": "recorded_and_timed_from_final_scene_wavs"
+}

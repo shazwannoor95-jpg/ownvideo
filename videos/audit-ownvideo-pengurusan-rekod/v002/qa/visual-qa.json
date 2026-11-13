@@ -1,0 +1,41 @@
+{
+  "stage": "rendered_preview",
+  "samples_per_scene": 9,
+  "scenes": [
+    {
+      "id": "s01",
+      "sample_times": [
+        0.0,
+        0.193,
+        0.483,
+        1.208,
+        2.175,
+        3.142,
+        3.963,
+        4.592,
+        4.829
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s02",
+      "sample_times": [
+        0.0,
+        0.193,
+        0.483,
+        1.208,
+        2.175,
+        3.142,
+        3.963,
+        4.592,
+        4.829
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    }
+  ],
+  "all_text_within_canvas": true,
+  "timing_basis": "actual_narration",
+  "note": "Text-bounds checks are supplemented by visual inspection."
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Audit Ownvideo Pengurusan Rekod",
+  "slug": "audit-ownvideo-pengurusan-rekod",
+  "version": "v002",
+  "branch": "video/audit-ownvideo-pengurusan-rekod/v002",
+  "tag": "audit-ownvideo-pengurusan-rekod-v002",
+  "status": "RENDERED",
+  "voiceover": {
+    "provider": "Gemini API",
+    "voice": "Ludo",
+    "model": "gemini-3.8-flash-tts"
+  },
+  "created_utc": "2026-11-13T23:27:15.639248+08:00",
+  "final_video": "outputs/audit-ownvideo-pengurusan-rekod-v002-kapsyen.mp4",
+  "final_sha256": "3222d83853119583f7cfa4a605fd5e5af4d790d1789061dab9479f145e82d0ee"
+}
