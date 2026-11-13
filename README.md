@@ -4,6 +4,10 @@ Alat dan arkib produksi video Bahasa Melayu. Setiap video mempunyai branch dan v
 
 Video pertama: [Enam Jenis Pelantikan Pegawai — BARU UiTM](https://github.com/shazwannoor95-jpg/ownvideo/tree/video/enam-jenis-pelantikan-pegawai-baru-uitm/v001).
 
+**[Muat turun MP4 — 13 minit 55 saat, 47 babak (36.8 MB)](https://github.com/shazwannoor95-jpg/ownvideo/raw/68aed8891e2b3d0ad330f4dd7b90d8b3e210a09b/videos/enam-jenis-pelantikan-pegawai-baru-uitm/v001/outputs/enam-jenis-pelantikan-pegawai-baru-uitm-v001-kapsyen.mp4?download=1)**
+
+Arahan berterusan untuk agent: muat naik setiap video yang siap bersama fail kerja dan alat yang diperlukan, kemudian berikan pautan muat turun GitHub. Branch serta tag versi dijana mengikut tajuk melalui workflow di bawah. Arahan operasi disimpan dalam `AGENTS.md`.
+
 ## Pasang
 
 Python 3.12+, FFmpeg/FFprobe dengan libx264 dan AAC, serta Git diperlukan. Pada Ubuntu/Debian, pasang pakej sistem melalui pengurus pakej yang dibenarkan oleh mesin anda. Tiada GPU, akaun Google atau API key diperlukan untuk suara Melayu luar talian.
