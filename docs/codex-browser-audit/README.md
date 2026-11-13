@@ -25,3 +25,16 @@ Video ujian meliputi satu babak. Masa visual dilaraskan kepada tempoh audio baha
 4. Jalankan `./video render <folder-projek> --workers 2` di Bash atau `python tools/video.py render <folder-projek> --workers 2` pada Windows. Semak MP4, SRT dan laporan sebelum penerbitan. Untuk mencuba semula video pelantikan v002 dengan aset yang sudah disimpan, ikut [panduan v002](../../videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002/README.md).
 
 [Lihat tetapan browser Codex](https://learn.chatgpt.com/docs/browser)
+
+## Penjanaan automatik melalui Gemini API
+
+Gunakan `tools/jana_ludo.py` untuk menjana rakaman Ludo baharu terus ke fail WAV, tanpa langkah muat turun browser. Sediakan Gemini API key daripada projek Google anda sebagai pemboleh ubah persekitaran `GEMINI_API_KEY`. Gunakan stor rahsia hos untuk kerja automatik dan simpan key di luar Git. Kuota dan bil mengikut projek Google yang digunakan.
+
+```sh
+python -m pip install "google-genai>=2.25.0,<3"
+python tools/jana_ludo.py laluan/skrip_babak.txt laluan/audio/s01.wav
+```
+
+Jalankan sekali bagi setiap babak. Skrip menggunakan `gemini-3.8-flash-tts` dan suara Ludo. Folder sasaran mesti wujud. Fail WAV sedia ada tidak ditimpa. Semak audio dan sediakan cap masa berdasarkan WAV yang baharu sebelum menjalankan arahan render projek.
+
+Ujian langsung dengan skrip babak pembukaan v002 menghasilkan WAV PCM 16-bit sepanjang 15.28 saat. FFmpeg menggabungkannya dengan visual pembukaan. MP4 Full HD pada 30 fps berdurasi 16.30 saat dan lulus nyahkod penuh. Ujian ini meliputi satu babak.
