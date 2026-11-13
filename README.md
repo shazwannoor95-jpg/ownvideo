@@ -58,3 +58,7 @@ Lihat [struktur projek dan pemulihan](docs/WORKFLOW.md). Ujian: `.venv/bin/pytho
 ## Aplikasi Google AI Studio Ludo
 
 Integrasi Electron: `bash tools/setup-ludo.sh`, kemudian `./ludo` pada desktop yang boleh dilihat. Pilih storyboard, login Google sendiri, semak skrip dan luluskan penjanaan WAV Ludo. Fail suara sedia ada tidak ditimpa. Lihat [pemasangan, aliran penggunaan dan status audit](docs/LUDO-DESKTOP.md).
+
+## Alat kawalan Chrome untuk Codex
+
+Chrome DevTools MCP dan setup Windows disediakan untuk klik/taip melalui agent dalam task local. Lihat [cara mendaftar tool pada PC dan batas tab browser Codex](docs/BROWSER-CONTROL.md). Pemasangan di cloud tidak menyambungkan tab Windows secara automatik.

@@ -1,0 +1,6 @@
+{
+  "name": "ownvideo-browser-control",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {"chrome-devtools-mcp": "1.13.0"}
+}
