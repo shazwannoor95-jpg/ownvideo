@@ -12,6 +12,10 @@ Video v002: [Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai](videos/ringk
 
 Arahan berterusan untuk agent: muat naik setiap video yang siap bersama fail kerja dan alat yang diperlukan, kemudian berikan pautan muat turun GitHub. Branch serta tag versi dijana mengikut tajuk melalui workflow di bawah. Arahan operasi disimpan dalam `AGENTS.md`.
 
+## Audit PDF hingga MP4
+
+Ujian dua babak menggunakan PDF contoh, WAV Ludo melalui Gemini API dan render MP4 dengan sari kata Bahasa Melayu. Render penuh lulus di Windows. Penjanaan WAV juga telah lulus dalam ujian berasingan di Codespaces. [Laporan audit dan fail projek](https://github.com/shazwannoor95-jpg/ownvideo/tree/60c963fcf1e0a17b6280753624cc5d710c18905d/videos/audit-ownvideo-pengurusan-rekod/v001).
+
 ## Mula dari chat atau agent baru
 
 Buka repo ini pada `main`, lampirkan bahan dan beri brief. Gunakan prompt berikut jika agent memerlukan titik mula.
