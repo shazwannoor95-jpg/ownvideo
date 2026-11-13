@@ -6,6 +6,10 @@ Video pertama: [Enam Jenis Pelantikan Pegawai — BARU UiTM](https://github.com/
 
 **[Muat turun MP4 — 13 minit 55 saat, 47 babak (36.8 MB)](https://github.com/shazwannoor95-jpg/ownvideo/raw/68aed8891e2b3d0ad330f4dd7b90d8b3e210a09b/videos/enam-jenis-pelantikan-pegawai-baru-uitm/v001/outputs/enam-jenis-pelantikan-pegawai-baru-uitm-v001-kapsyen.mp4?download=1)**
 
+Video v002: [Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai](videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002) · 5 minit 14 saat · 8 babak · Full HD · narasi Ludo.
+
+**[Muat turun MP4 v002](https://github.com/shazwannoor95-jpg/ownvideo/raw/4f242a77c2d3e05a74d12bd7bd494e96d24e9e65/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002/outputs/Video_Pelantikan_Pegawai_UiTM_Final.mp4?download=1)** · [Sari kata Bahasa Melayu](videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002/outputs/Video_Pelantikan_Pegawai_UiTM.srt)
+
 Arahan berterusan untuk agent: muat naik setiap video yang siap bersama fail kerja dan alat yang diperlukan, kemudian berikan pautan muat turun GitHub. Branch serta tag versi dijana mengikut tajuk melalui workflow di bawah. Arahan operasi disimpan dalam `AGENTS.md`.
 
 ## Pasang

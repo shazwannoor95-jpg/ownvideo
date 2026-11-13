@@ -1,0 +1,16 @@
+{
+  "technical_checks_passed": true,
+  "checks": {
+    "h264": true,
+    "full_hd": true,
+    "30fps": true,
+    "aac": true,
+    "duration_300_360": true,
+    "measured_timing": true,
+    "audio_timing": true,
+    "full_decode": true
+  },
+  "duration_seconds": 313.833333,
+  "subtitles": "burned from supplied measured cues; human alignment review remains required",
+  "voice_source": "declared and hash-bound review; not machine identification of speaker"
+}
