@@ -22,7 +22,16 @@ Buka repo ini pada `main`, lampirkan bahan dan beri brief. Gunakan prompt beriku
 
 ## Pasang
 
-Python 3.12+, FFmpeg/FFprobe dengan libx264 dan AAC, serta Git diperlukan. Pada Ubuntu/Debian, pasang pakej sistem melalui pengurus pakej yang dibenarkan oleh mesin anda. Tiada GPU diperlukan. Untuk narasi, ikut setup Gemini API atau UI Google AI Studio di bawah.
+| Cara guna | Keperluan |
+| --- | --- |
+| **GitHub Codespaces atau agent cloud** | Tiada pemasangan pada PC. Hos yang menjalankan repo perlukan Bash, Git, Python 3.12+ dengan `venv` dan `pip`, serta FFmpeg dan FFprobe dengan sokongan enkod H.264 (`libx264`) dan AAC. Untuk narasi API, tetapkan `GEMINI_API_KEY` pada hos tersebut. |
+| **Render pada PC sendiri** | Keperluan yang sama dipasang pada mesin yang menjalankan skrip. Pada Windows, guna terminal Linux seperti WSL untuk aliran `./video` dan pasang alat render di dalamnya. Untuk menjana WAV melalui API, skrip boleh dijalankan terus dari PowerShell seperti di bawah. |
+| **Google AI Studio dalam pelayar** | Pelayar dan akaun Google untuk menjana serta memuat turun WAV. Render MP4 masih berjalan pada hos yang ada alat render. |
+| **Aplikasi desktop Ludo (pilihan)** | Node.js **24+**, npm, FFmpeg dan desktop dengan paparan grafik. Ini untuk aplikasi Electron `./ludo`. [Panduan aplikasi desktop](docs/LUDO-DESKTOP.md). |
+
+Node.js dan npm hanya diperlukan jika menggunakan aplikasi desktop Ludo. Aliran Gemini API dan render menggunakan Python dan FFmpeg. Tiada GPU diperlukan.
+
+Dalam terminal Bash pada hos yang akan menjalankan projek, semak alat yang tersedia dengan `command -v git python3 ffmpeg ffprobe` dan semak versi dengan `python3 --version`. Pasang alat yang tiada pada hos tersebut. Pada Ubuntu/Debian, gunakan pengurus pakej sistem. Kemudian jalankan setup dari akar repo.
 
 ```bash
 bash tools/setup.sh
