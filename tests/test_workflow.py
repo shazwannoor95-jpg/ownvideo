@@ -5,6 +5,10 @@ import subprocess
 import sys
 import tempfile
 import unittest
+import math
+import struct
+import wave
+from unittest.mock import patch
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -43,6 +47,13 @@ class LifecycleTests(unittest.TestCase):
             try:
                 p=video.new('Ujian Video',source)
                 self.assertEqual(git('branch','--show-current').strip(),'video/ujian-video/v001')
+                self.assertEqual(json.loads((p/'project.json').read_text())['voiceover']['voice'],'Ludo')
+                # Test-only tone fixture: no speech provider or Google access is exercised.
+                with wave.open(str(p/'audio/s01.wav'),'wb') as audio:
+                    audio.setnchannels(1);audio.setsampwidth(2);audio.setframerate(24000)
+                    audio.writeframes(b''.join(struct.pack('<h',round(2000*math.sin(2*math.pi*220*n/24000))) for n in range(120000)))
+                (p/'audio/s01.cues.json').write_text(json.dumps([{'start':0,'end':5,
+                    'text':'Ini ujian suara Melayu. Rekod disimpan dengan teratur.'}]))
                 video.render(p,1)
                 info=json.loads((p/'project.json').read_text())
                 self.assertEqual(info['status'],'RENDERED')
@@ -54,5 +65,24 @@ class LifecycleTests(unittest.TestCase):
                 self.assertEqual(p2.name,'v002')
                 self.assertEqual(git('branch','--show-current').strip(),'video/ujian-video/v002')
             finally:video.REPO=old
+
+class VoicePolicyTests(unittest.TestCase):
+    def test_missing_ludo_audio_blocks_render_before_pipeline(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            p=Path(tmp)
+            (p/'storyboard.json').write_text(json.dumps({'scenes':[{'id':'s01'}]}))
+            with patch.object(video,'project',return_value=(p,{})),patch.object(video,'run') as run:
+                with self.assertRaisesRegex(ValueError,'WAV Ludo'):
+                    video.render(p,1)
+                (p/'audio').mkdir();(p/'audio/s01.wav').touch()
+                with self.assertRaisesRegex(ValueError,'s01.cues.json'):
+                    video.render(p,1)
+                run.assert_not_called()
+
+    def test_resynthesis_cannot_fall_back_to_offline_voice(self):
+        with patch.object(video,'project',return_value=(Path('/unused'),{})),patch.object(video,'run') as run:
+            with self.assertRaisesRegex(ValueError,'Google AI Studio'):
+                video.render('/unused',1,resynthesize=True)
+            run.assert_not_called()
 
 if __name__=='__main__':unittest.main()

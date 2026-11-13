@@ -76,7 +76,8 @@ def new(title,source):
     (dest/'source/teks-pengguna.md').write_text(text)
     (dest/'storyboard.json').write_text(json.dumps(story,ensure_ascii=False,indent=2)+'\n')
     info={'title':title,'slug':slug,'version':version,'branch':branch,'tag':f'{slug}-{version}',
-          'status':'DRAFT','created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat()}
+          'status':'DRAFT','voiceover':{'provider':'Google AI Studio','voice':'Ludo'},
+          'created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat()}
     (dest/'project.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n')
     print('Branch:',branch,'\nProjek:',dest.relative_to(REPO),'\nSeterusnya: ./video render',dest.relative_to(REPO))
     return dest
@@ -135,9 +136,12 @@ def package(p,info):
 def render(path,workers,resynthesize=False,frames_only=False):
     p,info=project(path)
     if not 1<=workers<=4:raise ValueError('Pilih 1 hingga 4 worker.')
-    if resynthesize or any(not (p/'audio'/f"{s['id']}.wav").exists() for s in json.loads((p/'storyboard.json').read_text())['scenes']):
-        from synthesize import generate
-        generate(p)
+    if resynthesize:
+        raise ValueError('Jana semula narasi melalui Google AI Studio dengan suara Ludo, gantikan WAV dan cues yang telah disemak, kemudian render tanpa --resynthesize. Tiada fallback suara automatik.')
+    missing=[f"audio/{s['id']}{suffix}" for s in json.loads((p/'storyboard.json').read_text())['scenes']
+             for suffix in ['.wav','.cues.json'] if not (p/'audio'/f"{s['id']}{suffix}").is_file()]
+    if missing:
+        raise ValueError('WAV Ludo dan cap masa kapsyen diperlukan daripada Google AI Studio: '+', '.join(missing))
     run([sys.executable,'produce.py','--prepare'],cwd=p)
     run([sys.executable,'render_video.py','--frames'],cwd=p)
     if frames_only:return

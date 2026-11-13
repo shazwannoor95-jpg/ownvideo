@@ -20,6 +20,8 @@ Selepas clone, jalankan `bash tools/setup.sh`, kemudian checkout branch video un
 
 Semua aset yang diperlukan untuk video pertama dibundel, termasuk logo UiTM, ikon dan fon Outfit dengan lesen berkaitan. Nota sumber dan penggunaan jenama dikekalkan; tiada dakwaan bahawa logo atau bahan sumber adalah domain awam.
 
+Narasi produksi mesti Google AI Studio Ludo. Sediakan WAV dan cues yang telah disemak sebelum render; tiada fallback eSpeak automatik. Panduan dan preset baharu ada dalam [inventori pemasangan](INSTALLED-TOOLS.md).
+
 Pipeline menjana muzik sendiri. Model Whisper, browser, Electron dan pek skill lain tidak diperlukan untuk menghasilkan video ini. Arkib asal yang dimuat naik tidak membundel definisi SKILL.md atau extension; repo ini tidak mendakwa memasang pek tersebut.
 
 Video pertama menggunakan teks pengguna yang meliputi keenam-enam pelantikan. Hasil asal 47 babak dan 834.633 saat serta laporan semakan disertakan. Fail MP4 akhir mengandungi kapsyen pilihan dan sembilan penanda bab; fail SRT berasingan tersedia. Arahan render baharu menghasilkan MP4 serta MP4 berkapsyen; pembinaan bab khusus video asal turut disertakan sebagai skrip provenance.

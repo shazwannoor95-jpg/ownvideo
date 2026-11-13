@@ -10,7 +10,7 @@ Arahan berterusan untuk agent: muat naik setiap video yang siap bersama fail ker
 
 ## Pasang
 
-Python 3.12+, FFmpeg/FFprobe dengan libx264 dan AAC, serta Git diperlukan. Pada Ubuntu/Debian, pasang pakej sistem melalui pengurus pakej yang dibenarkan oleh mesin anda. Tiada GPU, akaun Google atau API key diperlukan untuk suara Melayu luar talian.
+Python 3.12+, FFmpeg/FFprobe dengan libx264 dan AAC, serta Git diperlukan. Pada Ubuntu/Debian, pasang pakej sistem melalui pengurus pakej yang dibenarkan oleh mesin anda. Tiada GPU diperlukan. Narasi produksi mesti menggunakan Google AI Studio dengan suara Ludo melalui akaun Google pengguna; aliran UI ini tidak memerlukan API key.
 
 ```bash
 bash tools/setup.sh
@@ -20,10 +20,13 @@ Pemasangan menggunakan `.venv` berasingan. Fon, ikon, logo, lesen, renderer, pen
 
 ## Video baharu
 
+Skill dan preset: lihat [inventori pemasangan](docs/INSTALLED-TOOLS.md).
+
 Simpan bahan sebagai teks atau Markdown UTF-8. Arahan ini memeriksa versi tempatan dan remote, mencipta branch daripada `origin/main`, serta menyediakan storyboard yang boleh disunting:
 
 ```bash
 ./video new "Nama Video Saya" --source /laluan/bahan.md
+# Jana dan semak WAV Ludo, simpan audio/sXX.wav serta audio/sXX.cues.json.
 ./video render videos/nama-video-saya/v001 --workers 2
 ./video publish videos/nama-video-saya/v001
 ```
@@ -38,15 +41,15 @@ Simpan bahan sebagai teks atau Markdown UTF-8. Arahan ini memeriksa versi tempat
 
 ## Menyunting dan merender semula
 
-Sunting `storyboard.json` dalam folder versi yang baharu: `narration` untuk suara, `title` dan `bullets` untuk visual. Selepas menukar narasi:
+Sunting `storyboard.json` dalam folder versi yang baharu: `narration` untuk suara, `title` dan `bullets` untuk visual. Selepas menukar narasi, jana semula Ludo melalui Google AI Studio, semak rakaman serta kemas kini WAV dan cues sebelum render:
 
 ```bash
-./video render videos/nama-video-saya/v001 --resynthesize
+./video render videos/nama-video-saya/v001
 ```
 
-`--frames-only` menyediakan audio, masa dan pratonton tanpa eksport penuh. Eksport penuh ialah H264/AAC 1280×720, 30fps, dengan muzik prosedural, SRT dan versi MP4 berkapsyen pilihan. Hash render, bilangan bingkai, tempoh, codec, loudness dan nyahkod penuh diperiksa. Semakan sebutan dan ketepatan fakta oleh manusia tetap berasingan daripada semakan teknikal.
+`--frames-only` menggunakan audio sedia ada untuk menyediakan masa dan pratonton tanpa eksport penuh. Eksport penuh ialah H264/AAC 1280×720, 30fps, dengan muzik prosedural, SRT dan versi MP4 berkapsyen pilihan. Hash render, bilangan bingkai, tempoh, codec, loudness dan nyahkod penuh diperiksa. Semakan sebutan dan ketepatan fakta oleh manusia tetap berasingan daripada semakan teknikal.
 
-Narasi lalai ialah suara sintetik eSpeak NG Bahasa Melayu. Projek boleh membekalkan WAV sendiri dengan nama `audio/sXX.wav` serta `audio/sXX.cues.json` untuk kapsyen; gunakan `narration` yang sepadan. Jangan gunakan `--resynthesize` jika mahu mengekalkan suara tersebut.
+Narasi wajib ialah Google AI Studio **Ludo**. Ikut [skill suara](.agents/skills/google-ai-studio-voiceover/SKILL.md), simpan `audio/sXX.wav` serta `audio/sXX.cues.json` dengan `narration` yang sepadan. Tiada fallback automatik. `--resynthesize` kini berhenti dengan panduan menjana semula Ludo. WAV sendiri tidak membuktikan suara Ludo: semak sumber suara dalam UI. Preset Full HD dibundel sebagai brief; ia belum mengubah renderer 720p ini.
 
 MP4, sumber audio asal dan laporan disimpan pada branch video. Fail venv, model besar dan output perantaraan tidak dimuat naik. MP4 melebihi had GitHub 100 MiB ditolak oleh `publish`; gunakan Git LFS atau GitHub Releases bagi projek besar.
 
