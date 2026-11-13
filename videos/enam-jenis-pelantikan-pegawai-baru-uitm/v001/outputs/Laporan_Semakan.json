@@ -1,0 +1,541 @@
+{
+  "checked_at_utc": "2026-11-13T06:29:43.315381+00:00",
+  "file": "/workspace/output/enam-pelantikan/project/outputs/Enam_Pelantikan_Pegawai_BARU_UiTM.mp4",
+  "bytes": 36822302,
+  "sha256": "ec83ef97ca8b8181b356df8c4582ce4ab0cc0ae75624ebc1b9d49bac043aacd3",
+  "duration_seconds": 834.6333333333333,
+  "duration_frames": 25039,
+  "scene_count": 47,
+  "checks": {
+    "h264": true,
+    "aac": true,
+    "1280x720": true,
+    "30fps": true,
+    "yuv420p": true,
+    "frame_count": true,
+    "duration": true,
+    "stereo_48khz": true,
+    "complete_decode": true,
+    "loudness_within_1_lu": true,
+    "true_peak_below_minus_1_db": true
+  },
+  "technical_checks_passed": true,
+  "ffprobe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1280,
+        "height": 720,
+        "coded_width": 1280,
+        "coded_height": 720,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 12819968,
+        "duration": "834.633333",
+        "bit_rate": "145828",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "25039",
+        "extradata_size": 46,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 40062384,
+        "duration": "834.633000",
+        "bit_rate": "198339",
+        "nb_frames": "39125",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/output/enam-pelantikan/project/outputs/Enam_Pelantikan_Pegawai_BARU_UiTM.partial.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "834.633333",
+      "size": "36822302",
+      "bit_rate": "352943",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "Enam Jenis Pelantikan Pegawai — BARU UiTM",
+        "encoder": "Lavf61.7.103",
+        "comment": "eSpeak NG / ms / suara sintetik Melayu luar talian"
+      }
+    }
+  },
+  "final_audio_measurements": {
+    "input_i": "-16.05",
+    "input_tp": "-2.95",
+    "input_lra": "1.80",
+    "input_thresh": "-26.20",
+    "output_i": "-16.01",
+    "output_tp": "-2.77",
+    "output_lra": "1.90",
+    "output_thresh": "-26.16",
+    "normalization_type": "dynamic",
+    "target_offset": "0.01"
+  },
+  "mix_measurements_before_mastering": {
+    "input_i": "-15.40",
+    "input_tp": "-2.37",
+    "input_lra": "1.90",
+    "input_thresh": "-25.55",
+    "output_i": "-16.01",
+    "output_tp": "-2.76",
+    "output_lra": "1.90",
+    "output_thresh": "-26.17",
+    "normalization_type": "dynamic",
+    "target_offset": "0.01"
+  },
+  "decode_log": "",
+  "voice_provider": "eSpeak NG / ms / suara sintetik Melayu luar talian",
+  "voice_clip_hashes": {
+    "s01": "d2f6a89811c5627bd080998114d119b22586b486fc40da5430481bd82edce77e",
+    "s02": "9478c098f61e5e318613773dde025d056bae1047f829410fd911647cbec2f36b",
+    "s03": "c35cfcaea5976ad7f168bb5348c1514be853767f605983b88d16d0743da92f33",
+    "s04": "235db12fe58302f4568c00c1bc4b7a6e569b493148572fc71f327700d2ff84c2",
+    "s05": "83b5068fbe6c4ba5db7e0591bbb2baceed7cbe4c123f38e0edcdfb3ffe1dd3ac",
+    "s06": "cc962bd0cf2ba4b90ef40922d95fa9244a5212c067fa57a2c266e30d17dbe099",
+    "s07": "e700ce9b4061c08edf8e0f4b4878b128bc1666b6eb287a881f9e3185095c9dc7",
+    "s08": "f9010025a8823af1c8255f83a38093e007f536d32222a144c5e611c0cd96db81",
+    "s09": "07f63e3b44eebfb1ab5ce473e5cddd8688e130187ade5d0bcc4df11b20c93075",
+    "s10": "8efee81a47c9c3875e80e6f94ece1e5dc90cf548f6011a32f51f9339a491f892",
+    "s11": "711b4e7560df8b5bddedac51a329c3cfab2c5c995b2e81551132795ecb0f2c71",
+    "s12": "847e34621b2b68ba516501691112426295a409dc362f63074e8e1a261bcc6ab3",
+    "s13": "35a00aab89c7829c7e403d79079933b4295c61ca934b4df82089ae5971fddb4a",
+    "s14": "669d714ed5b476f10f354cccdaa3479e746ba142cdf9dfa877588e0879e18852",
+    "s15": "a372f7f05781fee454a2242158645ed6d017c20882f40b054c650ffff27d969f",
+    "s16": "ce94c1ba99377cb467b52e0a9d0b778779c484097480798a5b2930d0e3dec24c",
+    "s17": "63958100c8529f462072978215a3f94732575a087e705f15576946820d661889",
+    "s18": "f712c0ff441f2263f0fe7de44a1af8ab983b241e26bb498e6339477ea8b5a6a9",
+    "s19": "e70bc0f038a0ab93f2adde394540bc5d312d5c25402ebc6864428847caea4c76",
+    "s20": "812d54b52c0903a3f4175694871d5b7885735ca9562c8f57640228a4fa73bcd2",
+    "s21": "fd0e5b3559ab4444d486a6e0b44a5a3418e440dde3f11e035738b9a04b6dfd8d",
+    "s22": "d16cc7db5a6667f08a76c292fb8b990bbcc4c43a14824dbbf0f723a36ffab3f7",
+    "s23": "4c7da782781b4297734a616da95ac3852ff2933729f2b65dbf892e3fa8a7eaa3",
+    "s24": "ab70fb3767d2c91e92d0cd2980aa879ae1e6ddbcb0a385f3f19546eef9b9a715",
+    "s25": "132b950075928b9fa2238382408db16c7b09a5c24a852e12586c151440c5cc8b",
+    "s26": "a17a9f19ab8bce5961fa84f7f545552124b79d738f6734212570c6487bf33b87",
+    "s27": "8f11ad7571ff0f859189c19740395a020f4b079f58710f51654a0b2226375cf6",
+    "s28": "c8823fa223b653474b7dcc8553968bc39419e0f285bfed33515e3869479b40c3",
+    "s29": "2c41bb0f56812344722676febb8d6370ec9ea00cc6ec19c02bba30727c9b03d5",
+    "s30": "c56a5c90bc60559cec5f9408a95eb3e7db64f7eb0219ee196fe6acd6b18643fd",
+    "s31": "ff09a9dc4a4e922fb9b6b8f947d28038baf8aa9d1ad8938df2ccab74ee34f2ef",
+    "s32": "381a737c2a310721a64de081f7581949685079a078dafb34b45048e92dbf5594",
+    "s33": "949dac0831f66819cee81e92269f1848ffdb3e6b2cd9f9f5068495c1894e738a",
+    "s34": "82a1db1e0c7584b4ab0445ea53bbd5e59b1f8006b17bc63ce5d9581ddb1c3222",
+    "s35": "3c7366e4652ece20b906b31da908ce7b6a96e9618106aa1c4ef59197f1df1c3f",
+    "s36": "32bc3d77a64c75bb9377d75f21ea7e4761c6d08b8c11588885ddea9f4fdcb147",
+    "s37": "aa27ee02b0105aeb74ba6472d45067f457b4a0e804a179cbb7d8da26342dfc78",
+    "s38": "7478aaf8d850d396b047f0dfe470f7695e720817ebacad936c9948160cd40b8f",
+    "s39": "7cb91b17f467f4e0a6aebacf07b05032331a4f85f588785727eea8fb183873dd",
+    "s40": "38c6231c8ac55d3ef15376b8fc3cfa7d5929e72aad74dbbf5e445dae13a800e2",
+    "s41": "b03772b231a7046977380f17ea483d92b1c28cbbbbefbed8f9a443882c922327",
+    "s42": "9ff9e6b63ed09ced8c7a5f98626caa500d6184d12cbc446c03894a2ced85c4c7",
+    "s43": "7ac7217d939cdedc88d81daa678e8dffe093097ab2814269f018d7e5f647002d",
+    "s44": "672dd8dfc36b53182cec75e67a5a97e873971e6b13f74f498f7f24ce8a692966",
+    "s45": "274da851172518e220d15a013552f31f6cd40aa8dc912b7c5bccd5917d9b40ec",
+    "s46": "81673cfaa079c88d754093182640d18ce2efaaba88fe1eb8d0a187ed7aed6b6f",
+    "s47": "8cda94af46eb6b21575bd1c42205a4efbec712b9a79fc457f126d25708944377"
+  },
+  "render_provenance": {
+    "s01": {
+      "scene_id": "s01",
+      "visual_signature": "2daad9bcc2983b4a8f17429820224ab21a0c21ea9cfd2f1fb4208bdc1e7d8107",
+      "output_sha256": "261afad358af950804fa064dd335db17ce7d2a8f3e8cd7ecfa3fbc1b5f42b191",
+      "duration_frames": 520
+    },
+    "s02": {
+      "scene_id": "s02",
+      "visual_signature": "33214bd19a866d3715eef9c364f94e6debf9b06b2643460da33b6dbed91b7d82",
+      "output_sha256": "a58fc13554f09a8d879c9cb4253d766eef89efa98a9a34897dd37c5f86691b86",
+      "duration_frames": 1032
+    },
+    "s03": {
+      "scene_id": "s03",
+      "visual_signature": "4597c751d7a91fcc8a8a72f5d37a7398065585cfaffd9bb8746cd09cc2b9dcdd",
+      "output_sha256": "6f90fecc854bd76613c5b7f648876e6906d37324627726e3de1fe43b83d20de9",
+      "duration_frames": 686
+    },
+    "s04": {
+      "scene_id": "s04",
+      "visual_signature": "d03d752233a59d6142ff24b7f9507abacb979403c32646532dbc3efd04175414",
+      "output_sha256": "43fdcc0433c4148e0ac54b5ecf74c7c9f5ff9b78ffb5ec940c008911cef12f97",
+      "duration_frames": 384
+    },
+    "s05": {
+      "scene_id": "s05",
+      "visual_signature": "01ddc76ad3b545a13b9cf4748840f517026daa9bf70e732078f266a4fe75dfc0",
+      "output_sha256": "941a84a045a9f2c9a788dc9c21e6cc183bb8a9825c7cabee30e3249f0b44c4c3",
+      "duration_frames": 422
+    },
+    "s06": {
+      "scene_id": "s06",
+      "visual_signature": "fb6216ac0ba9e6b808c8338f517bc1b3d9ce74652605d091c16ddc304a0c4def",
+      "output_sha256": "60eb967744c0922cc88010e2a699e8efcf563175b536bda4db5732ccb5dfbd7e",
+      "duration_frames": 192
+    },
+    "s07": {
+      "scene_id": "s07",
+      "visual_signature": "35baeea7940b1855cc709d4e437b6072f980c3d2c3b5b20a11d7c811e19b5208",
+      "output_sha256": "7d38a6dafa6715f2a447bdb5bec192b1d9ca1bf85086fd80b478a0fe73771808",
+      "duration_frames": 862
+    },
+    "s08": {
+      "scene_id": "s08",
+      "visual_signature": "971f5012187739e6400ee8daf0e074095ef62ed50e29816518044324f0b50176",
+      "output_sha256": "0ad5559794e701c1b674a231e66c5392536b9dee4317713c7c01e7d35e2cb5ea",
+      "duration_frames": 297
+    },
+    "s09": {
+      "scene_id": "s09",
+      "visual_signature": "998fcef248f2a7aeb523d8d6f71e0b42d8e4079d530bac583d59e84c2cefd615",
+      "output_sha256": "dec931728bf49ba3b97e1b4c9b5c59612dfd02b5e6609d72cf8e007182d970e0",
+      "duration_frames": 518
+    },
+    "s10": {
+      "scene_id": "s10",
+      "visual_signature": "2c1a87eac0d063230426c16899d9388bb39f6e56f5896baa6a76f6045f93e335",
+      "output_sha256": "89cbba13bcec691c309578ff4807b5a688b2ee2d5d6d3e95c343ac8cae64932b",
+      "duration_frames": 431
+    },
+    "s11": {
+      "scene_id": "s11",
+      "visual_signature": "d2ea3637e1dab87ef1d9c98503424fce391c9ca4096f3fd8ed4369f50233cb58",
+      "output_sha256": "8f079d1d035127e2dd6929d327251b9a4809446dada0731c7a4ad59a706fb000",
+      "duration_frames": 418
+    },
+    "s12": {
+      "scene_id": "s12",
+      "visual_signature": "6450bb57f4ae31abdacac85a507198808d455fc76d67ec8957a59a0f8bd73a28",
+      "output_sha256": "af75444d3f0589bb789667d5848f91d0f6996b8cc8b2fd7b71c52f6e64881048",
+      "duration_frames": 372
+    },
+    "s13": {
+      "scene_id": "s13",
+      "visual_signature": "0951a35806aac05860f02ea25f4006ccf7d558144f27d53ff0f9ced0c6275b7f",
+      "output_sha256": "a94afb2bc41c6c1f7577cd5aad26c04062e3a3ad641d633f35ea30157fa04f58",
+      "duration_frames": 819
+    },
+    "s14": {
+      "scene_id": "s14",
+      "visual_signature": "a269a00bdc02f2f6a6b05fe45f9ed57bf9116ab581329d79deeaecc86e310722",
+      "output_sha256": "765e81b9917594a672d27f4bbddc5d27e086f0a2e34a2c4869beb253f6f08196",
+      "duration_frames": 284
+    },
+    "s15": {
+      "scene_id": "s15",
+      "visual_signature": "cc1eca9964cfdbcab382913053ca541dea7efebf38a913a8309e7a8537befa28",
+      "output_sha256": "8d0a4725a72ec831a8b567d3a737178026e537479a169ba34be1e71e53bf3974",
+      "duration_frames": 1042
+    },
+    "s16": {
+      "scene_id": "s16",
+      "visual_signature": "2a71f39c89638c3daca407b5ec29f4ab8b6ced3c82dea0ca748c6f31b2615d5b",
+      "output_sha256": "4f543a7065259eb557b233a719f3d250ba352abec7afb718f44c1d0e4339dd6c",
+      "duration_frames": 578
+    },
+    "s17": {
+      "scene_id": "s17",
+      "visual_signature": "7c567327c3d20c34360e0bb31ecccea92be27844f52dab6db2fc4a9a2ecd695f",
+      "output_sha256": "76b82804bb4311c79cbaea8b4fb923746886e286cc494acc8daca181d40270f0",
+      "duration_frames": 402
+    },
+    "s18": {
+      "scene_id": "s18",
+      "visual_signature": "45104fec722625c4a47cb18b04db868dd444783c6e010e576f269d2c58750dc4",
+      "output_sha256": "84c9d1e5459442ee1aac58993d64e4cddd191bc7ad105c95bb5f34c044a3da07",
+      "duration_frames": 472
+    },
+    "s19": {
+      "scene_id": "s19",
+      "visual_signature": "de01cd3eaa2690662b748dc5765764c5593d996ae91d2cfb7af2c6b96db07965",
+      "output_sha256": "9432b4d5c87b68f6f6340859a8b53723b7a38a91a1b88cbb03a19a561439d848",
+      "duration_frames": 147
+    },
+    "s20": {
+      "scene_id": "s20",
+      "visual_signature": "84c43a7aa48b7a45f9ea554297b1c6a8aeb53afbef1c0d17359c92a9e76947da",
+      "output_sha256": "5ff09d88abfac937c00720820bb0582dc285c080cca94bc0d7e9e4b1fa09695b",
+      "duration_frames": 416
+    },
+    "s21": {
+      "scene_id": "s21",
+      "visual_signature": "8ae80bf240d0b943d7447bd3df49cb5559e05c4ceb9fd68d6ffb66a98ba8545e",
+      "output_sha256": "e26518fcac0cf72e8d1cb93c3a3d70e9ef8e3d07248f5ea5737fb2f37380e6ec",
+      "duration_frames": 377
+    },
+    "s22": {
+      "scene_id": "s22",
+      "visual_signature": "e948d64a5947725d7dbc0d58fac11e8112f526690d3fb6aa94e58ff9f5700f70",
+      "output_sha256": "fb0eb90d77b58c6f8a2e56fe94bec847c774b1c22b829b2993c7042d9b19b887",
+      "duration_frames": 616
+    },
+    "s23": {
+      "scene_id": "s23",
+      "visual_signature": "9114bfca97bcd14819c6c0c102339c8fbf94cf4258bf5a4a5d59e8a65f3a99b1",
+      "output_sha256": "b15889405432f88ce516a27b9b63309a648de21ca3fc4f6db817db385afd4e11",
+      "duration_frames": 838
+    },
+    "s24": {
+      "scene_id": "s24",
+      "visual_signature": "a451dc65a67805b4c76ace847af985a90b710fd445e03e102b925ce1a603d75b",
+      "output_sha256": "611f897e62cfaf4a17aa67c57835d5cc393b9466036a08476909da327ea8158d",
+      "duration_frames": 691
+    },
+    "s25": {
+      "scene_id": "s25",
+      "visual_signature": "fd9804cdb1cc44895833123a1e3bbaa56a34f6a2f2a4e34b9a214e252dfeda59",
+      "output_sha256": "13f2ead11f44aebd320535acaea18165880a4cf251f857836d9acd7220382109",
+      "duration_frames": 250
+    },
+    "s26": {
+      "scene_id": "s26",
+      "visual_signature": "15a9d277006e6e9807b75d2771e76ecdbd2a84bae6f2b8c40277e37f7b4b7561",
+      "output_sha256": "2bed150bcad1876af31172d38b5d63928c15a610025442a61eb166d186e0f861",
+      "duration_frames": 562
+    },
+    "s27": {
+      "scene_id": "s27",
+      "visual_signature": "ea61f0b9217bc5b91e2aaaf0ef6ea4937ea75004807af03bf579150b45765d8b",
+      "output_sha256": "ac96802faa9ca6f45e95ad920da8a32c082bd70a69d0485564a5bdee44ffb9fe",
+      "duration_frames": 147
+    },
+    "s28": {
+      "scene_id": "s28",
+      "visual_signature": "0f62fd968949a95b320252dee084ae90e9e91f865eed8f2f26c18a02c0648105",
+      "output_sha256": "df905a3d9abc57528b69e93fd903d288d644ce55be69ec3b6f8002c2844e6db7",
+      "duration_frames": 443
+    },
+    "s29": {
+      "scene_id": "s29",
+      "visual_signature": "63b0dfe3ae4984eb523e4a0a8dfbda9f6daa3ba4db4bd6f62027275b237cc735",
+      "output_sha256": "6f6ebc465db0339864580660c6b564dbd35c9b9bc6e93dbdb8c3f03bd8c8171e",
+      "duration_frames": 396
+    },
+    "s30": {
+      "scene_id": "s30",
+      "visual_signature": "d25ac795c454bfc7e6a9c07d56a4451afcfd04b06475b69bf7c89954d91a827e",
+      "output_sha256": "0d0b0e2cfdc46b5504416a26e2b637d3997100bcb6a157a43ba99b570ac41f5a",
+      "duration_frames": 617
+    },
+    "s31": {
+      "scene_id": "s31",
+      "visual_signature": "f89dd6f422a18e66efee99b3c1b426576224b50dcf6bb46b7d07240929a423a2",
+      "output_sha256": "ae8c2d68c4abc4062f9752994cd927f80af7b7ffdc463babd22d2d1c1e1698ab",
+      "duration_frames": 838
+    },
+    "s32": {
+      "scene_id": "s32",
+      "visual_signature": "02e6be360005782945349f5ac124f48482c30c5d83354a87a3c1524b8cb99a1e",
+      "output_sha256": "4da17d4b6f401f2684e2c8314854ee4a8f711add0d110cd306841f3e34cf5e13",
+      "duration_frames": 716
+    },
+    "s33": {
+      "scene_id": "s33",
+      "visual_signature": "ae193aedc11221743b7fc3c4811db4a4ceb5eae4cabb7ed2f4b2d3b6427c1828",
+      "output_sha256": "c069da0ea73e481d8e8a04b4fdbc1e834234867fdd1ed31cee4a4e0ad1d67c49",
+      "duration_frames": 250
+    },
+    "s34": {
+      "scene_id": "s34",
+      "visual_signature": "f9d2aaee330c94e77d8bb9b1140737277a189e1f3589e0e4a70ebe167e19d363",
+      "output_sha256": "4227b39bc2130b918a9609ce298d584d60bc7d1019128f6ee42d3fed79932b58",
+      "duration_frames": 676
+    },
+    "s35": {
+      "scene_id": "s35",
+      "visual_signature": "80de9d797eb72072621108f42125b12d0bdc91cf4687d54ff6d1b4a9ce383d33",
+      "output_sha256": "83f5a727e162e29926268086686e0afda563ea1ba8c94ae1a3d33a53917a74e3",
+      "duration_frames": 193
+    },
+    "s36": {
+      "scene_id": "s36",
+      "visual_signature": "2ddb225a0e582b4882e37e2b14fcb465a15f238fab769ae30ad5a8084e243cad",
+      "output_sha256": "bf908d8adc2e7339d0a288f86270b23c9826b9745a4b325236d28abbdb335402",
+      "duration_frames": 660
+    },
+    "s37": {
+      "scene_id": "s37",
+      "visual_signature": "7583ef28001f07405f1f62d97c92564c5491f1dc4204ddec2f3cf0d2130a235e",
+      "output_sha256": "8fa83b3fa84a9ff614298eb8b245603b4f53618ae5066808480dcd9c6c1ad033",
+      "duration_frames": 404
+    },
+    "s38": {
+      "scene_id": "s38",
+      "visual_signature": "41d9dd78c8fffabfb0a66606a7858ce6b27dfd8e0e588eb9425041bb089d48af",
+      "output_sha256": "e45b579e00cb6c7a54d5d0fd7509c94a81ac215f7849d53beb360389c45e2f9e",
+      "duration_frames": 962
+    },
+    "s39": {
+      "scene_id": "s39",
+      "visual_signature": "06b3a05a7d3754ff8e6e4d4a43df8df90036cc83307978ee4deb61a0764c241b",
+      "output_sha256": "fe1f5a61ef812e8896b5846c8fdbc8d336667033b23d07c3ae92bf7977f84ba0",
+      "duration_frames": 277
+    },
+    "s40": {
+      "scene_id": "s40",
+      "visual_signature": "7b6693a7968816b72a42de2e758aefad056f6b07d2b43e2b5612c3233cbb0a9b",
+      "output_sha256": "2139bc953b57668ce807dbe2be4366a2fa7409396d90e8964a3291adc9347180",
+      "duration_frames": 794
+    },
+    "s41": {
+      "scene_id": "s41",
+      "visual_signature": "592f6231a9fb8e631f856bb058ffdf43505bd84aab5ebce06b5e69e31c9bc7cb",
+      "output_sha256": "76a99bd94de414cdf0ab5a92d446d1072ee3fd8923c3ab459b83ed816b838abd",
+      "duration_frames": 853
+    },
+    "s42": {
+      "scene_id": "s42",
+      "visual_signature": "83634b35dfedd53cf79c8df31a9ad5561b1f16ec4516adf8563f3b59f21e242b",
+      "output_sha256": "cfa7fa305f0ece883415961326ebfba770131a6a14e8a5124438b444d88386d3",
+      "duration_frames": 194
+    },
+    "s43": {
+      "scene_id": "s43",
+      "visual_signature": "fd25c22a88967200e3047a68a9e17715fcd62abaa473ffa9aee8b76fc5c71f0f",
+      "output_sha256": "27cd77825eb6ea2f5d3dca5a23e7a74e8949e221a8ce9db98309d6f567f60165",
+      "duration_frames": 448
+    },
+    "s44": {
+      "scene_id": "s44",
+      "visual_signature": "94c650e9b6e730116a270b7e262d85dc321df54eccbe19ab2d45b13d7398a16f",
+      "output_sha256": "8d6ea2e70c4b348ae0aab6e5ef518e9534b6eefd35ff7456ee9c773ebd411f80",
+      "duration_frames": 730
+    },
+    "s45": {
+      "scene_id": "s45",
+      "visual_signature": "49835d63ae5883c389b2489dcf53cb20eed9b8572e837e80eea7bd69c55e2007",
+      "output_sha256": "b6884492cdb103340388707f2c1430bbba5ab94462ed9462236c3ba2fc3e387c",
+      "duration_frames": 697
+    },
+    "s46": {
+      "scene_id": "s46",
+      "visual_signature": "df4ee8dff8983c451e4bfd10caef20b042991610bbc259748943aa5f7d25744b",
+      "output_sha256": "2312c731cb1d7ef4cc3da3b604f7aa7d5525b56a79f49a0bd258ff59cf508343",
+      "duration_frames": 200
+    },
+    "s47": {
+      "scene_id": "s47",
+      "visual_signature": "85f573a889cf84656f41c572231063b3202b5622c2b7030f22ee6504c9c3af76",
+      "output_sha256": "836ef5bd989a3ed68c24167e1bf042bdc272fcadebfc5f0dd8486fb309cf0645",
+      "duration_frames": 916
+    }
+  },
+  "review_limit": "Automated technical verification does not establish factual accuracy or perfect pronunciation. Refer to the separate content, visual and audio transcript reviews.",
+  "delivered_file": "/workspace/output/enam-pelantikan/project/../hasil/Enam_Pelantikan_Pegawai_BARU_UiTM.mp4",
+  "delivered_sha256": "f49962ed6a7eb8f82371a4519c496c92da0f7d3a3be5d5a460a5137936bb9b59",
+  "embedded_malay_captions": true,
+  "chapter_count": 9,
+  "delivered_full_decode": "passed",
+  "source_coverage": {
+    "substantive_source_lines_checked": 73,
+    "missing_lines": [],
+    "all_substantive_lines_covered": true,
+    "scope": "Supplied introduction and all six role sections; duplicate summary table excluded from line matching.",
+    "identity_equivalences": [
+      {
+        "source": "Universiti Teknologi MARA (UiTM)",
+        "narration": "Universiti Teknologi MARA",
+        "visual": "UiTM logo and eyebrow"
+      }
+    ]
+  },
+  "visual_bounds_all_passed": true
+}

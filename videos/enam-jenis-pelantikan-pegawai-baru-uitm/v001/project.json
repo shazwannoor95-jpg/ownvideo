@@ -1,0 +1,14 @@
+{
+  "title": "Enam Jenis Pelantikan Pegawai BARU UiTM",
+  "slug": "enam-jenis-pelantikan-pegawai-baru-uitm",
+  "version": "v001",
+  "branch": "video/enam-jenis-pelantikan-pegawai-baru-uitm/v001",
+  "tag": "enam-jenis-pelantikan-pegawai-baru-uitm-v001",
+  "status": "RENDERED",
+  "created_utc": "2026-11-13T06:44:22.991275+00:00",
+  "final_video": "outputs/enam-jenis-pelantikan-pegawai-baru-uitm-v001-kapsyen.mp4",
+  "final_sha256": "f49962ed6a7eb8f82371a4519c496c92da0f7d3a3be5d5a460a5137936bb9b59",
+  "duration_seconds": 834.6333333333333,
+  "scene_count": 47,
+  "voice_provider": "eSpeak NG / ms / suara sintetik Melayu luar talian"
+}

@@ -1,0 +1,13 @@
+{
+  "substantive_source_lines_checked": 73,
+  "missing_lines": [],
+  "all_substantive_lines_covered": true,
+  "scope": "Supplied introduction and all six role sections; duplicate summary table excluded from line matching.",
+  "identity_equivalences": [
+    {
+      "source": "Universiti Teknologi MARA (UiTM)",
+      "narration": "Universiti Teknologi MARA",
+      "visual": "UiTM logo and eyebrow"
+    }
+  ]
+}

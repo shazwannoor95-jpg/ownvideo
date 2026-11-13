@@ -1,0 +1,1106 @@
+{
+  "title": "Enam Jenis Pelantikan Pegawai — BARU UiTM",
+  "language": "ms-MY",
+  "fps": 30,
+  "sources": [
+    {
+      "id": "teks_pengguna",
+      "title": "Ringkasan tugas utama dan prosedur pelantikan pegawai — teks dibekalkan pengguna",
+      "path": "source/teks-pengguna.md",
+      "sha256": "c8059eaf79d2cbda5a6b3a06456b02990d292703de7aefd31d57fb20a3ad6b0d"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "Enam pelantikan. Peranan yang jelas.",
+      "eyebrow": "BAHAGIAN ARKIB UNIVERSITI • UiTM",
+      "layout": "source_cards",
+      "bullets": [
+        "Tugas utama dan prosedur pelantikan pegawai",
+        "Pengelasan • Keselamatan dokumen • Pengurusan rekod",
+        "Narasi: suara sintetik Bahasa Melayu"
+      ],
+      "narration": "Ringkasan tugas utama dan prosedur pelantikan pegawai. Bahagian Arkib Universiti, Universiti Teknologi MARA. Video ini berdasarkan teks yang anda bekalkan dan menerangkan enam jenis pelantikan. Narasi menggunakan suara sintetik Bahasa Melayu.",
+      "role": 0,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "BAHAGIAN ARKIB UNIVERSITI • UiTM"
+        }
+      ],
+      "duration": 17.333333333333332,
+      "duration_frames": 520,
+      "audio_duration": 16.579591836734693,
+      "narration_offset": 0.25,
+      "narration_sha256": "0b7f0b8e219864458094bf863147df79adfbeba4234afda765cb2159ede50329"
+    },
+    {
+      "id": "s02",
+      "title": "Pihak yang terlibat",
+      "eyebrow": "PENGENALAN",
+      "layout": "source_cards",
+      "bullets": [
+        "BARU dan Pusat Tanggungjawab (PTj)",
+        "KPT • JPT • ANM • CGSO"
+      ],
+      "narration": "Terdapat enam (6) jenis pelantikan pegawai yang terlibat dalam urusan pengelasan Rahsia Rasmi, keselamatan dokumen dan pengurusan rekod jabatan.\n\nPelantikan ini melibatkan Bahagian Arkib Universiti (BARU), Pusat Tanggungjawab (PTj) serta agensi luar seperti Kementerian Pendidikan Tinggi (KPT), Jabatan Pendidikan Tinggi (JPT), Arkib Negara Malaysia (ANM) dan Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO).",
+      "role": 0,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "PENGENALAN"
+        }
+      ],
+      "duration": 34.4,
+      "duration_frames": 1032,
+      "audio_duration": 33.62888888888889,
+      "narration_offset": 0.25,
+      "narration_sha256": "cee554516fa4dc026d8cb5bcc014ca54b1ee195c6b5aacb4fb8355ac191fd0b8"
+    },
+    {
+      "id": "s03",
+      "title": "Asas dan pihak berkaitan (1/2)",
+      "eyebrow": "1. PEGAWAI PENGELAS SEMULA",
+      "layout": "source_cards",
+      "bullets": [
+        "Sumber Kuasa: Seksyen 2C, Akta Rahsia Rasmi 1972 (Akta 88).",
+        "Pegawai Berkaitan: Naib Canselor dan Rektor, tertakluk kepada kuasa jawatan atau pewakilan kuasa yang berkenaan.",
+        "Pemberi Kuasa: Kuasa di bawah Seksyen 2C atau melalui pewakilan kuasa yang sah."
+      ],
+      "narration": "Sumber Kuasa: Seksyen 2C, Akta Rahsia Rasmi 1972 (Akta 88). Pegawai Berkaitan: Naib Canselor dan Rektor, tertakluk kepada kuasa jawatan atau pewakilan kuasa yang berkenaan. Pemberi Kuasa: Kuasa di bawah Seksyen 2C atau melalui pewakilan kuasa yang sah.",
+      "role": 1,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "1. PEGAWAI PENGELAS SEMULA"
+        }
+      ],
+      "duration": 22.866666666666667,
+      "duration_frames": 686,
+      "audio_duration": 22.096643990929707,
+      "narration_offset": 0.25,
+      "narration_sha256": "70e1e45d7c0de0d1387b5e168a4c7ac1e6fc6a999e003db36534343bef50adb2"
+    },
+    {
+      "id": "s04",
+      "title": "Asas dan pihak berkaitan (2/2)",
+      "eyebrow": "1. PEGAWAI PENGELAS SEMULA",
+      "layout": "source_cards",
+      "bullets": [
+        "Agensi Terlibat: Kementerian Pendidikan Tinggi (KPT) dan Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO), mengikut urusan yang berkenaan."
+      ],
+      "narration": "Agensi Terlibat: Kementerian Pendidikan Tinggi (KPT) dan Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO), mengikut urusan yang berkenaan.",
+      "role": 1,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "1. PEGAWAI PENGELAS SEMULA"
+        }
+      ],
+      "duration": 12.8,
+      "duration_frames": 384,
+      "audio_duration": 12.026213151927438,
+      "narration_offset": 0.25,
+      "narration_sha256": "8ec709d8af08f64f0a28ec3d19dac13cc9fb900160d64456236e639882f41aec"
+    },
+    {
+      "id": "s05",
+      "title": "Tugas Utama (1/2)",
+      "eyebrow": "1. PEGAWAI PENGELAS SEMULA",
+      "layout": "source_cards",
+      "bullets": [
+        "Menyemak dokumen Rahsia Rasmi yang dikeluarkan oleh jabatan sendiri.",
+        "Menilai kandungan dan status keselamatan dokumen.",
+        "Memastikan pengelasan semula tidak menjejaskan keselamatan dan kepentingan negara."
+      ],
+      "narration": "Menyemak dokumen Rahsia Rasmi yang dikeluarkan oleh jabatan sendiri. Menilai kandungan dan status keselamatan dokumen. Memastikan pengelasan semula tidak menjejaskan keselamatan dan kepentingan negara.",
+      "role": 1,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "1. PEGAWAI PENGELAS SEMULA"
+        }
+      ],
+      "duration": 14.066666666666666,
+      "duration_frames": 422,
+      "audio_duration": 13.291383219954648,
+      "narration_offset": 0.25,
+      "narration_sha256": "20076bff3162196c0843f7c806a23a392b510bd698ccac7bde03891fbd3f1abb"
+    },
+    {
+      "id": "s06",
+      "title": "Tugas Utama (2/2)",
+      "eyebrow": "1. PEGAWAI PENGELAS SEMULA",
+      "layout": "source_cards",
+      "bullets": [
+        "Menentukan dokumen yang layak dikelaskan semula supaya tidak lagi menjadi Rahsia Rasmi."
+      ],
+      "narration": "Menentukan dokumen yang layak dikelaskan semula supaya tidak lagi menjadi Rahsia Rasmi.",
+      "role": 1,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "1. PEGAWAI PENGELAS SEMULA"
+        }
+      ],
+      "duration": 6.4,
+      "duration_frames": 192,
+      "audio_duration": 5.649115646258504,
+      "narration_offset": 0.25,
+      "narration_sha256": "760626a0de245b114c50f967318502bc87a3683ed488339ffec901cbb964f584"
+    },
+    {
+      "id": "s07",
+      "title": "Prosedur Berkaitan (1/2)",
+      "eyebrow": "1. PEGAWAI PENGELAS SEMULA",
+      "layout": "source_cards",
+      "bullets": [
+        "Pegawai yang telah diberikan kuasa secara langsung di bawah Seksyen 2C tidak memerlukan pelantikan berasingan.",
+        "Bagi pegawai yang menerima pewakilan kuasa, urusan tersebut hendaklah dilaksanakan mengikut peruntukan dan prosedur yang ditetapkan.",
+        "Borang Berkaitan: Borang Maklumat Pegawai Pengelas Semula di Bawah Seksyen 2C Akta Rahsia Rasmi 1972 (Borang KPKK 9(A))."
+      ],
+      "narration": "Pegawai yang telah diberikan kuasa secara langsung di bawah Seksyen 2C tidak memerlukan pelantikan berasingan. Bagi pegawai yang menerima pewakilan kuasa, urusan tersebut hendaklah dilaksanakan mengikut peruntukan dan prosedur yang ditetapkan. Borang Berkaitan: Borang Maklumat Pegawai Pengelas Semula di Bawah Seksyen 2C Akta Rahsia Rasmi 1972 (Borang KPKK 9(A)).",
+      "role": 1,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "1. PEGAWAI PENGELAS SEMULA"
+        }
+      ],
+      "duration": 28.733333333333334,
+      "duration_frames": 862,
+      "audio_duration": 27.950748299319727,
+      "narration_offset": 0.25,
+      "narration_sha256": "dec8942fa0a85955d63055debb51fe5bb46a14c1f9e10642e9d8a4f3dfba7b7e"
+    },
+    {
+      "id": "s08",
+      "title": "Prosedur Berkaitan (2/2)",
+      "eyebrow": "1. PEGAWAI PENGELAS SEMULA",
+      "layout": "source_cards",
+      "bullets": [
+        "Nota: Prosedur permohonan khusus melalui PTj dan BARU bagi jawatan ini belum dinyatakan dalam aliran kerja yang dibekalkan."
+      ],
+      "narration": "Nota: Prosedur permohonan khusus melalui PTj dan BARU bagi jawatan ini belum dinyatakan dalam aliran kerja yang dibekalkan.",
+      "role": 1,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "1. PEGAWAI PENGELAS SEMULA"
+        }
+      ],
+      "duration": 9.9,
+      "duration_frames": 297,
+      "audio_duration": 9.1378231292517,
+      "narration_offset": 0.25,
+      "narration_sha256": "1b4ed138063af927c6c3bd17c65ac3cb2d4cf068f73cdcef539ecb9511bca561"
+    },
+    {
+      "id": "s09",
+      "title": "Asas dan pihak berkaitan (1/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Sumber Pelantikan: Seksyen 2B, Akta Rahsia Rasmi 1972 (Akta 88).",
+        "Pegawai yang Layak Dilantik: Ketua Jabatan / Bahagian / Unit yang berkenaan.",
+        "Pelantik: Menteri Pendidikan Tinggi."
+      ],
+      "narration": "Sumber Pelantikan: Seksyen 2B, Akta Rahsia Rasmi 1972 (Akta 88). Pegawai yang Layak Dilantik: Ketua Jabatan / Bahagian / Unit yang berkenaan. Pelantik: Menteri Pendidikan Tinggi.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 17.266666666666666,
+      "duration_frames": 518,
+      "audio_duration": 16.504943310657595,
+      "narration_offset": 0.25,
+      "narration_sha256": "4d655666fb075c5642bf99b99f28d0c13c73c93503d02138973533fa768be400"
+    },
+    {
+      "id": "s10",
+      "title": "Asas dan pihak berkaitan (2/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Agensi Terlibat: Jabatan Pendidikan Tinggi (JPT), Kementerian Pendidikan Tinggi (KPT) dan Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO)."
+      ],
+      "narration": "Agensi Terlibat: Jabatan Pendidikan Tinggi (JPT), Kementerian Pendidikan Tinggi (KPT) dan Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO).",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 14.366666666666667,
+      "duration_frames": 431,
+      "audio_duration": 13.607120181405895,
+      "narration_offset": 0.25,
+      "narration_sha256": "9682e53642b819aca45dcbeebe842727c502e80fbff1e22ced9cee5b02377748"
+    },
+    {
+      "id": "s11",
+      "title": "Tugas Utama (1/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Menyemak dan menilai dokumen bagi menentukan peringkat keselamatan.",
+        "Mengelaskan serta menandakan dokumen mengikut peringkat keselamatan yang ditetapkan.",
+        "Mendaftarkan dan merekodkan dokumen Rahsia Rasmi."
+      ],
+      "narration": "Menyemak dan menilai dokumen bagi menentukan peringkat keselamatan. Mengelaskan serta menandakan dokumen mengikut peringkat keselamatan yang ditetapkan. Mendaftarkan dan merekodkan dokumen Rahsia Rasmi.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 13.933333333333334,
+      "duration_frames": 418,
+      "audio_duration": 13.179863945578232,
+      "narration_offset": 0.25,
+      "narration_sha256": "b2b09ca4b9fe17f251970a875b8c55a965764bef156476ac70c0d483398de3b1"
+    },
+    {
+      "id": "s12",
+      "title": "Tugas Utama (2/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Memastikan keselamatan dan penyimpanan daftar pengelasan.",
+        "Memaklumkan pengelasan semula kepada pihak berkaitan apabila dokumen telah dikelaskan semula oleh pegawai yang berkuasa."
+      ],
+      "narration": "Memastikan keselamatan dan penyimpanan daftar pengelasan. Memaklumkan pengelasan semula kepada pihak berkaitan apabila dokumen telah dikelaskan semula oleh pegawai yang berkuasa.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 12.4,
+      "duration_frames": 372,
+      "audio_duration": 11.635192743764172,
+      "narration_offset": 0.25,
+      "narration_sha256": "fd175206dc00539fc7f593dad4cd0c4e1830128ead3d9e535bb63aa5ae6fa6a2"
+    },
+    {
+      "id": "s13",
+      "title": "Prosedur Permohonan oleh PTj (1/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: PTj melengkapkan dokumen berikut:",
+        "Borang Pelantikan sebagai Pegawai Pengelas Mengikut Seksyen 2B Akta Rahsia Rasmi 1972.",
+        "Dua (2) salinan Borang Maklumat Pegawai Pengelasan yang Telah Dilantik di Bawah Seksyen 2B Akta Rahsia Rasmi 1972 (Akta 88), iaitu Borang KPKK 9."
+      ],
+      "narration": "Langkah 1: PTj melengkapkan dokumen berikut: Borang Pelantikan sebagai Pegawai Pengelas Mengikut Seksyen 2B Akta Rahsia Rasmi 1972. Dua (2) salinan Borang Maklumat Pegawai Pengelasan yang Telah Dilantik di Bawah Seksyen 2B Akta Rahsia Rasmi 1972 (Akta 88), iaitu Borang KPKK 9.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 27.3,
+      "duration_frames": 819,
+      "audio_duration": 26.53578231292517,
+      "narration_offset": 0.25,
+      "narration_sha256": "51bf230eeea018c4d14125603c71b78afc0bc2ab6e2f3deeb7181e710e0cabe7"
+    },
+    {
+      "id": "s14",
+      "title": "Prosedur Permohonan oleh PTj (2/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 2: PTj mengemukakan borang-borang yang lengkap berserta surat iringan kepada Bahagian Arkib Universiti (BARU)."
+      ],
+      "narration": "Langkah 2: PTj mengemukakan borang-borang yang lengkap berserta surat iringan kepada Bahagian Arkib Universiti (BARU).",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 9.466666666666667,
+      "duration_frames": 284,
+      "audio_duration": 8.708979591836735,
+      "narration_offset": 0.25,
+      "narration_sha256": "47bd303401b70ded99cde6c40081cf3c8c0125589e2203bc9b0d649e94a84456"
+    },
+    {
+      "id": "s15",
+      "title": "Tindakan BARU (1/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: BARU mengemukakan surat iringan, borang pelantikan di bawah Seksyen 2B serta dua (2) salinan Borang KPKK 9 kepada JPT untuk tindakan selanjutnya.",
+        "Langkah 2: BARU menerima surat maklum balas dan dokumen berkaitan pelantikan daripada JPT.",
+        "Langkah 3: BARU mengemukakan surat Pengesahan Pelantikan sebagai Pegawai Pengelas kepada pegawai yang dilantik, berserta sijil pelantikan serta senarai peranan dan tanggungjawab."
+      ],
+      "narration": "Langkah 1: BARU mengemukakan surat iringan, borang pelantikan di bawah Seksyen 2B serta dua (2) salinan Borang KPKK 9 kepada JPT untuk tindakan selanjutnya. Langkah 2: BARU menerima surat maklum balas dan dokumen berkaitan pelantikan daripada JPT. Langkah 3: BARU mengemukakan surat Pengesahan Pelantikan sebagai Pegawai Pengelas kepada pegawai yang dilantik, berserta sijil pelantikan serta senarai peranan dan tanggungjawab.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 34.733333333333334,
+      "duration_frames": 1042,
+      "audio_duration": 33.964671201814056,
+      "narration_offset": 0.25,
+      "narration_sha256": "965becc1b484e39fa7bfcc9592acc8c67d24793fca979370aeace49d1e9d5cdd"
+    },
+    {
+      "id": "s16",
+      "title": "Tindakan BARU (2/2)",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 4: BARU mengemukakan Borang KPKK 9 yang lengkap berserta salinan sijil pelantikan kepada CGSO bagi tujuan pemakluman dan rekod pelantikan.",
+        "Tempoh Pemakluman: Dalam tempoh 30 hari bekerja dari tarikh sijil perakuan pelantikan diterima."
+      ],
+      "narration": "Langkah 4: BARU mengemukakan Borang KPKK 9 yang lengkap berserta salinan sijil pelantikan kepada CGSO bagi tujuan pemakluman dan rekod pelantikan. Tempoh Pemakluman: Dalam tempoh 30 hari bekerja dari tarikh sijil perakuan pelantikan diterima.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 19.266666666666666,
+      "duration_frames": 578,
+      "audio_duration": 18.509478458049887,
+      "narration_offset": 0.25,
+      "narration_sha256": "03a7ef8707d3d0d3aeed4b36fc22e55a83bf812dcd8cd558b3dc1f2b805f4727"
+    },
+    {
+      "id": "s17",
+      "title": "Carta Alir",
+      "eyebrow": "2. PEGAWAI PENGELAS",
+      "layout": "source_cards",
+      "bullets": [
+        "PTj → BARU → JPT → BARU → Pegawai Dilantik",
+        "Seterusnya, BARU mengemukakan maklumat pelantikan kepada CGSO."
+      ],
+      "narration": "PTj → BARU → JPT → BARU → Pegawai Dilantik Seterusnya, BARU mengemukakan maklumat pelantikan kepada CGSO.",
+      "role": 2,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "2. PEGAWAI PENGELAS"
+        }
+      ],
+      "duration": 13.4,
+      "duration_frames": 402,
+      "audio_duration": 12.621179138321995,
+      "narration_offset": 0.25,
+      "narration_sha256": "876b54e52049d12f29238375549683fae555346fa77b2311eaf8332f3a548c3a"
+    },
+    {
+      "id": "s18",
+      "title": "Asas dan pihak berkaitan (1/2)",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Sumber Pelantikan: Panduan Pengurusan Rekod Sektor Awam, Arkib Negara Malaysia.",
+        "Pegawai yang Layak Dilantik: Pegawai Gred 5 dan ke atas.",
+        "Pihak yang Membuat Pelantikan: Ketua Jabatan / Ketua Pejabat Awam."
+      ],
+      "narration": "Sumber Pelantikan: Panduan Pengurusan Rekod Sektor Awam, Arkib Negara Malaysia. Pegawai yang Layak Dilantik: Pegawai Gred 5 dan ke atas. Pihak yang Membuat Pelantikan: Ketua Jabatan / Ketua Pejabat Awam.",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 15.733333333333333,
+      "duration_frames": 472,
+      "audio_duration": 14.970612244897959,
+      "narration_offset": 0.25,
+      "narration_sha256": "bee8a1419f89491d92f489b91ed72249f46a5924dcbbd17ff51c03cc4cb6fb13"
+    },
+    {
+      "id": "s19",
+      "title": "Asas dan pihak berkaitan (2/2)",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Agensi Terlibat: Arkib Negara Malaysia (ANM)."
+      ],
+      "narration": "Agensi Terlibat: Arkib Negara Malaysia (ANM).",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 4.9,
+      "duration_frames": 147,
+      "audio_duration": 4.139863945578231,
+      "narration_offset": 0.25,
+      "narration_sha256": "970ef46461e3c9614e7e12f3cacad22624e33af832457982c2ad72d1955364b0"
+    },
+    {
+      "id": "s20",
+      "title": "Tugas Utama (1/2)",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Menjadi pegawai penghubung antara jabatan dengan ANM.",
+        "Menyelaras program, latihan dan aktiviti pengurusan rekod jabatan.",
+        "Memantau keselamatan, penjagaan dan penyimpanan rekod awam."
+      ],
+      "narration": "Menjadi pegawai penghubung antara jabatan dengan ANM. Menyelaras program, latihan dan aktiviti pengurusan rekod jabatan. Memantau keselamatan, penjagaan dan penyimpanan rekod awam.",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 13.866666666666667,
+      "duration_frames": 416,
+      "audio_duration": 13.091201814058957,
+      "narration_offset": 0.25,
+      "narration_sha256": "4964aee80aaf041c1dff1d449be6285189179546a9debbbb2d90d4ea119a1905"
+    },
+    {
+      "id": "s21",
+      "title": "Tugas Utama (2/2)",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Memastikan pelupusan serta pemindahan rekod dilaksanakan mengikut undang-undang dan peraturan.",
+        "Menyelia kerja pengurusan rekod, termasuk urusan pinjaman dan penyimpanan rekod."
+      ],
+      "narration": "Memastikan pelupusan serta pemindahan rekod dilaksanakan mengikut undang-undang dan peraturan. Menyelia kerja pengurusan rekod, termasuk urusan pinjaman dan penyimpanan rekod.",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 12.566666666666666,
+      "duration_frames": 377,
+      "audio_duration": 11.801269841269841,
+      "narration_offset": 0.25,
+      "narration_sha256": "551766af11a0199077a57a1590097fd0b6a58d02de7bbe7c32e45cf5ed3a79fd"
+    },
+    {
+      "id": "s22",
+      "title": "Prosedur Permohonan oleh PTj",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: PTj melengkapkan Borang Pelantikan Pegawai Rekod Jabatan (PRJ) / Pembantu Tadbir Rekod Jabatan (PTRJ), iaitu Borang SKL 8.",
+        "Langkah 2: PTj mengemukakan Borang SKL 8 yang lengkap berserta surat iringan kepada BARU."
+      ],
+      "narration": "Langkah 1: PTj melengkapkan Borang Pelantikan Pegawai Rekod Jabatan (PRJ) / Pembantu Tadbir Rekod Jabatan (PTRJ), iaitu Borang SKL 8. Langkah 2: PTj mengemukakan Borang SKL 8 yang lengkap berserta surat iringan kepada BARU.",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 20.533333333333335,
+      "duration_frames": 616,
+      "audio_duration": 19.780589569161,
+      "narration_offset": 0.25,
+      "narration_sha256": "b4441f8243ecae22c856e55e820f343e0f37810e879fda64db2bcff01be17ad0"
+    },
+    {
+      "id": "s23",
+      "title": "Tindakan BARU (1/2)",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: BARU mengeluarkan surat akuan penerimaan kepada PTj sebagai pengesahan penerimaan surat iringan dan Borang SKL 8.",
+        "Langkah 2: BARU mengemukakan Borang SKL 8 berserta surat iringan kepada ANM untuk urusan pengesahan pelantikan.",
+        "Langkah 3: BARU menerima surat maklum balas daripada ANM berhubung pelantikan tersebut."
+      ],
+      "narration": "Langkah 1: BARU mengeluarkan surat akuan penerimaan kepada PTj sebagai pengesahan penerimaan surat iringan dan Borang SKL 8. Langkah 2: BARU mengemukakan Borang SKL 8 berserta surat iringan kepada ANM untuk urusan pengesahan pelantikan. Langkah 3: BARU menerima surat maklum balas daripada ANM berhubung pelantikan tersebut.",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 27.933333333333334,
+      "duration_frames": 838,
+      "audio_duration": 27.166303854875284,
+      "narration_offset": 0.25,
+      "narration_sha256": "263a03bd629fd4df449eda847e97df8203477e27721154b0ded808a90d79ba58"
+    },
+    {
+      "id": "s24",
+      "title": "Tindakan BARU (2/2)",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 4: BARU mengemukakan surat Pengesahan Pelantikan sebagai Pegawai Rekod Jabatan (PRJ) kepada pegawai yang dilantik, berserta senarai tugas dan tanggungjawab.",
+        "Nota Penting: Sijil pelantikan PRJ akan dikeluarkan oleh ANM setelah pegawai berkenaan mengikuti Kursus Pengurusan Rekod yang ditetapkan."
+      ],
+      "narration": "Langkah 4: BARU mengemukakan surat Pengesahan Pelantikan sebagai Pegawai Rekod Jabatan (PRJ) kepada pegawai yang dilantik, berserta senarai tugas dan tanggungjawab. Nota Penting: Sijil pelantikan PRJ akan dikeluarkan oleh ANM setelah pegawai berkenaan mengikuti Kursus Pengurusan Rekod yang ditetapkan.",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 23.033333333333335,
+      "duration_frames": 691,
+      "audio_duration": 22.250521541950114,
+      "narration_offset": 0.25,
+      "narration_sha256": "d5ad7f991600499fa54e59ebf4fb360adaeb1f8d5b8e81d3fdea46e21667fecb"
+    },
+    {
+      "id": "s25",
+      "title": "Carta Alir",
+      "eyebrow": "3. PEGAWAI REKOD JABATAN (PRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "PTj → BARU → ANM → BARU → Pegawai Dilantik"
+      ],
+      "narration": "PTj → BARU → ANM → BARU → Pegawai Dilantik",
+      "role": 3,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "3. PEGAWAI REKOD JABATAN (PRJ)"
+        }
+      ],
+      "duration": 8.333333333333334,
+      "duration_frames": 250,
+      "audio_duration": 7.577006802721089,
+      "narration_offset": 0.25,
+      "narration_sha256": "9001cf78b1d4d191b45556a0f70319e180a4d5340ca4197a72d435672a70d5ff"
+    },
+    {
+      "id": "s26",
+      "title": "Asas dan pihak berkaitan (1/2)",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Sumber Pelantikan: Panduan Pengurusan Rekod Sektor Awam, Arkib Negara Malaysia.",
+        "Pegawai yang Layak Dilantik: Pegawai Gred 1 dan ke atas, mengikut ketetapan jabatan yang berkenaan.",
+        "Pihak yang Membuat Pelantikan: Ketua Jabatan / Ketua Pejabat Awam."
+      ],
+      "narration": "Sumber Pelantikan: Panduan Pengurusan Rekod Sektor Awam, Arkib Negara Malaysia. Pegawai yang Layak Dilantik: Pegawai Gred 1 dan ke atas, mengikut ketetapan jabatan yang berkenaan. Pihak yang Membuat Pelantikan: Ketua Jabatan / Ketua Pejabat Awam.",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 18.733333333333334,
+      "duration_frames": 562,
+      "audio_duration": 17.973560090702946,
+      "narration_offset": 0.25,
+      "narration_sha256": "d137780e6a0718cb30a46131ff5e9bc47dac30da9bf8c3cf69f27a74cc80e675"
+    },
+    {
+      "id": "s27",
+      "title": "Asas dan pihak berkaitan (2/2)",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Agensi Terlibat: Arkib Negara Malaysia (ANM)."
+      ],
+      "narration": "Agensi Terlibat: Arkib Negara Malaysia (ANM).",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 4.9,
+      "duration_frames": 147,
+      "audio_duration": 4.14031746031746,
+      "narration_offset": 0.25,
+      "narration_sha256": "970ef46461e3c9614e7e12f3cacad22624e33af832457982c2ad72d1955364b0"
+    },
+    {
+      "id": "s28",
+      "title": "Tugas Utama (1/2)",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Membantu PRJ melaksanakan pengurusan rekod dan fail jabatan.",
+        "Membantu menyelaras program, latihan dan aktiviti pengurusan rekod.",
+        "Membantu memantau keselamatan, penjagaan dan penyimpanan rekod awam."
+      ],
+      "narration": "Membantu PRJ melaksanakan pengurusan rekod dan fail jabatan. Membantu menyelaras program, latihan dan aktiviti pengurusan rekod. Membantu memantau keselamatan, penjagaan dan penyimpanan rekod awam.",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 14.766666666666667,
+      "duration_frames": 443,
+      "audio_duration": 13.991700680272109,
+      "narration_offset": 0.25,
+      "narration_sha256": "8b3b5735e5676827edfa6b3f0a0e78968ba4b061f349570e0743c56c1c992a84"
+    },
+    {
+      "id": "s29",
+      "title": "Tugas Utama (2/2)",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Membantu memastikan pelupusan rekod dilaksanakan mengikut undang-undang dan peraturan.",
+        "Berhubung dengan ANM bagi mendapatkan maklumat dan panduan berkaitan pengurusan rekod."
+      ],
+      "narration": "Membantu memastikan pelupusan rekod dilaksanakan mengikut undang-undang dan peraturan. Berhubung dengan ANM bagi mendapatkan maklumat dan panduan berkaitan pengurusan rekod.",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 13.2,
+      "duration_frames": 396,
+      "audio_duration": 12.444716553287982,
+      "narration_offset": 0.25,
+      "narration_sha256": "8238b66d11439dbfdd4b5f16e35ef357374346bed9f1c82dfb4f84023f6b11ed"
+    },
+    {
+      "id": "s30",
+      "title": "Prosedur Permohonan oleh PTj",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: PTj melengkapkan Borang Pelantikan Pegawai Rekod Jabatan (PRJ) / Pembantu Tadbir Rekod Jabatan (PTRJ), iaitu Borang SKL 8.",
+        "Langkah 2: PTj mengemukakan Borang SKL 8 yang lengkap berserta surat iringan kepada BARU."
+      ],
+      "narration": "Langkah 1: PTj melengkapkan Borang Pelantikan Pegawai Rekod Jabatan (PRJ) / Pembantu Tadbir Rekod Jabatan (PTRJ), iaitu Borang SKL 8. Langkah 2: PTj mengemukakan Borang SKL 8 yang lengkap berserta surat iringan kepada BARU.",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 20.566666666666666,
+      "duration_frames": 617,
+      "audio_duration": 19.80263038548753,
+      "narration_offset": 0.25,
+      "narration_sha256": "b4441f8243ecae22c856e55e820f343e0f37810e879fda64db2bcff01be17ad0"
+    },
+    {
+      "id": "s31",
+      "title": "Tindakan BARU (1/2)",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: BARU mengeluarkan surat akuan penerimaan kepada PTj sebagai pengesahan penerimaan surat iringan dan Borang SKL 8.",
+        "Langkah 2: BARU mengemukakan Borang SKL 8 berserta surat iringan kepada ANM untuk urusan pengesahan pelantikan.",
+        "Langkah 3: BARU menerima surat maklum balas daripada ANM berhubung pelantikan tersebut."
+      ],
+      "narration": "Langkah 1: BARU mengeluarkan surat akuan penerimaan kepada PTj sebagai pengesahan penerimaan surat iringan dan Borang SKL 8. Langkah 2: BARU mengemukakan Borang SKL 8 berserta surat iringan kepada ANM untuk urusan pengesahan pelantikan. Langkah 3: BARU menerima surat maklum balas daripada ANM berhubung pelantikan tersebut.",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 27.933333333333334,
+      "duration_frames": 838,
+      "audio_duration": 27.178820861678005,
+      "narration_offset": 0.25,
+      "narration_sha256": "263a03bd629fd4df449eda847e97df8203477e27721154b0ded808a90d79ba58"
+    },
+    {
+      "id": "s32",
+      "title": "Tindakan BARU (2/2)",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 4: BARU mengemukakan surat Pengesahan Pelantikan sebagai Pembantu Tadbir Rekod Jabatan (PTRJ) kepada pegawai yang dilantik, berserta senarai tugas dan tanggungjawab.",
+        "Nota Penting: PTRJ dikehendaki mengikuti Kursus Pengurusan Rekod yang ditetapkan oleh ANM bagi tujuan latihan dan pensijilan pelantikan."
+      ],
+      "narration": "Langkah 4: BARU mengemukakan surat Pengesahan Pelantikan sebagai Pembantu Tadbir Rekod Jabatan (PTRJ) kepada pegawai yang dilantik, berserta senarai tugas dan tanggungjawab. Nota Penting: PTRJ dikehendaki mengikuti Kursus Pengurusan Rekod yang ditetapkan oleh ANM bagi tujuan latihan dan pensijilan pelantikan.",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 23.866666666666667,
+      "duration_frames": 716,
+      "audio_duration": 23.096780045351473,
+      "narration_offset": 0.25,
+      "narration_sha256": "119e88c75f8a5a155329a5b65a31340eb3bb2b1eaeb3236cc7f9b274ad9d46b1"
+    },
+    {
+      "id": "s33",
+      "title": "Carta Alir",
+      "eyebrow": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)",
+      "layout": "source_cards",
+      "bullets": [
+        "PTj → BARU → ANM → BARU → Pegawai Dilantik"
+      ],
+      "narration": "PTj → BARU → ANM → BARU → Pegawai Dilantik",
+      "role": 4,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "4. PEMBANTU TADBIR REKOD JABATAN (PTRJ)"
+        }
+      ],
+      "duration": 8.333333333333334,
+      "duration_frames": 250,
+      "audio_duration": 7.577324263038549,
+      "narration_offset": 0.25,
+      "narration_sha256": "9001cf78b1d4d191b45556a0f70319e180a4d5340ca4197a72d435672a70d5ff"
+    },
+    {
+      "id": "s34",
+      "title": "Asas dan pihak berkaitan (1/2)",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Sumber Pelantikan: Perenggan 79, Arahan Keselamatan (Semakan dan Pindaan 2017).",
+        "Pegawai yang Layak Dilantik: Pegawai berjawatan tetap Gred 1 dan ke atas yang berkenaan, tertakluk kepada syarat keselamatan dan latihan.",
+        "Pelantik: Ketua Jabatan / pihak yang diberi kuasa."
+      ],
+      "narration": "Sumber Pelantikan: Perenggan 79, Arahan Keselamatan (Semakan dan Pindaan 2017). Pegawai yang Layak Dilantik: Pegawai berjawatan tetap Gred 1 dan ke atas yang berkenaan, tertakluk kepada syarat keselamatan dan latihan. Pelantik: Ketua Jabatan / pihak yang diberi kuasa.",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 22.533333333333335,
+      "duration_frames": 676,
+      "audio_duration": 21.75795918367347,
+      "narration_offset": 0.25,
+      "narration_sha256": "3e674ef95c557f89385b009708495c86c630dc4e598065168ae751dda17c8a2d"
+    },
+    {
+      "id": "s35",
+      "title": "Asas dan pihak berkaitan (2/2)",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Agensi Terlibat: Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO)."
+      ],
+      "narration": "Agensi Terlibat: Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO).",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 6.433333333333334,
+      "duration_frames": 193,
+      "audio_duration": 5.680997732426304,
+      "narration_offset": 0.25,
+      "narration_sha256": "379f18f316ba128933dc8951a4739d4de6d4d190c4112cdc66ed27558ffec78d"
+    },
+    {
+      "id": "s36",
+      "title": "Tugas Utama (1/2)",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Menyelia Bahagian Pendaftaran Rahsia sebagaimana yang dinyatakan dalam perenggan 81 Arahan Keselamatan.",
+        "Memastikan keselamatan, penyimpanan dan pengurusan dokumen Rahsia Rasmi dilaksanakan dengan teratur.",
+        "Memantau penerimaan, pendaftaran, pemprosesan, pengedaran dan pergerakan dokumen Rahsia Rasmi."
+      ],
+      "narration": "Menyelia Bahagian Pendaftaran Rahsia sebagaimana yang dinyatakan dalam perenggan 81 Arahan Keselamatan. Memastikan keselamatan, penyimpanan dan pengurusan dokumen Rahsia Rasmi dilaksanakan dengan teratur. Memantau penerimaan, pendaftaran, pemprosesan, pengedaran dan pergerakan dokumen Rahsia Rasmi.",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 22.0,
+      "duration_frames": 660,
+      "audio_duration": 21.237414965986396,
+      "narration_offset": 0.25,
+      "narration_sha256": "92ce1bc01acf435695f227712a188d2daeb29b9cc8ee9d7fbc284f2f648779c2"
+    },
+    {
+      "id": "s37",
+      "title": "Tugas Utama (2/2)",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Memastikan pengendalian dokumen Rahsia Rasmi mematuhi arahan dan peraturan keselamatan.",
+        "Bertanggungjawab kepada Ketua Jabatan terhadap keselamatan dan pengurusan Bahagian Pendaftaran Rahsia."
+      ],
+      "narration": "Memastikan pengendalian dokumen Rahsia Rasmi mematuhi arahan dan peraturan keselamatan. Bertanggungjawab kepada Ketua Jabatan terhadap keselamatan dan pengurusan Bahagian Pendaftaran Rahsia.",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 13.466666666666667,
+      "duration_frames": 404,
+      "audio_duration": 12.69732426303855,
+      "narration_offset": 0.25,
+      "narration_sha256": "f9e54594efa60d3225a3cfd64ec601b9e5d982767306de46c3f15bc472adebdc"
+    },
+    {
+      "id": "s38",
+      "title": "Prosedur Pelantikan (1/2)",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: Ketua Jabatan mengeluarkan surat pelantikan rasmi kepada pegawai yang dilantik sebagai Pendaftar Rahsia selaras dengan perenggan 79 Arahan Keselamatan.",
+        "Langkah 2: Pelantikan berkuat kuasa mulai tarikh surat pelantikan dikeluarkan.",
+        "Langkah 3: Jabatan melengkapkan dua (2) salinan Borang Maklumat Pegawai yang Telah Dilantik sebagai Pendaftar Rahsia/Pendaftar Kecil Rahsia/Petugas (Borang KPKK 22)."
+      ],
+      "narration": "Langkah 1: Ketua Jabatan mengeluarkan surat pelantikan rasmi kepada pegawai yang dilantik sebagai Pendaftar Rahsia selaras dengan perenggan 79 Arahan Keselamatan. Langkah 2: Pelantikan berkuat kuasa mulai tarikh surat pelantikan dikeluarkan. Langkah 3: Jabatan melengkapkan dua (2) salinan Borang Maklumat Pegawai yang Telah Dilantik sebagai Pendaftar Rahsia/Pendaftar Kecil Rahsia/Petugas (Borang KPKK 22).",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 32.06666666666667,
+      "duration_frames": 962,
+      "audio_duration": 31.28467120181406,
+      "narration_offset": 0.25,
+      "narration_sha256": "abd4734765a5ad9011bdb70111f11a9f397b5492b73314d8babd2832bcd34273"
+    },
+    {
+      "id": "s39",
+      "title": "Prosedur Pelantikan (2/2)",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 4: Maklumat pelantikan dikemukakan kepada CGSO bagi tujuan pemakluman dan pengemaskinian rekod pelantikan."
+      ],
+      "narration": "Langkah 4: Maklumat pelantikan dikemukakan kepada CGSO bagi tujuan pemakluman dan pengemaskinian rekod pelantikan.",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 9.233333333333333,
+      "duration_frames": 277,
+      "audio_duration": 8.45501133786848,
+      "narration_offset": 0.25,
+      "narration_sha256": "575a136783e0c29a5cd0b5d732f1682b7b01a3c2ae092d92a339b5b9d19783ca"
+    },
+    {
+      "id": "s40",
+      "title": "Carta Alir",
+      "eyebrow": "5. PENDAFTAR RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Ketua Jabatan → Surat Pelantikan → Pegawai Dilantik → Borang KPKK 22 → CGSO",
+        "Nota Penting: Perenggan 79 merupakan rujukan pelantikan Pendaftar Rahsia, manakala perenggan 81 menjelaskan tanggungjawab berkaitan Pendaftaran Rahsia.",
+        "Aliran kerja khusus penghantaran melalui BARU belum disahkan."
+      ],
+      "narration": "Ketua Jabatan → Surat Pelantikan → Pegawai Dilantik → Borang KPKK 22 → CGSO Nota Penting: Perenggan 79 merupakan rujukan pelantikan Pendaftar Rahsia, manakala perenggan 81 menjelaskan tanggungjawab berkaitan Pendaftaran Rahsia. Aliran kerja khusus penghantaran melalui BARU belum disahkan.",
+      "role": 5,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "5. PENDAFTAR RAHSIA"
+        }
+      ],
+      "duration": 26.466666666666665,
+      "duration_frames": 794,
+      "audio_duration": 25.716009070294785,
+      "narration_offset": 0.25,
+      "narration_sha256": "9895c530ccb4379b5863facd0e63c77f77edbd100dff13d400737b6e8253b910"
+    },
+    {
+      "id": "s41",
+      "title": "Asas dan pihak berkaitan (1/2)",
+      "eyebrow": "6. PENDAFTAR KECIL RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Sumber Pelantikan: Perenggan 80, Arahan Keselamatan (Semakan dan Pindaan 2017), serta Surat Pekeliling Am Bilangan 8 Tahun 2024.",
+        "Pegawai yang Layak Dilantik: Pegawai berjawatan tetap Gred 1 dan ke atas yang berkenaan, tertakluk kepada syarat keselamatan dan latihan.",
+        "Pelantik: Ketua Jabatan / Bahagian / Unit mengikut kuasa yang diberikan."
+      ],
+      "narration": "Sumber Pelantikan: Perenggan 80, Arahan Keselamatan (Semakan dan Pindaan 2017), serta Surat Pekeliling Am Bilangan 8 Tahun 2024. Pegawai yang Layak Dilantik: Pegawai berjawatan tetap Gred 1 dan ke atas yang berkenaan, tertakluk kepada syarat keselamatan dan latihan. Pelantik: Ketua Jabatan / Bahagian / Unit mengikut kuasa yang diberikan.",
+      "role": 6,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "6. PENDAFTAR KECIL RAHSIA"
+        }
+      ],
+      "duration": 28.433333333333334,
+      "duration_frames": 853,
+      "audio_duration": 27.682448979591836,
+      "narration_offset": 0.25,
+      "narration_sha256": "24d6a6d4013caa3a2c99412ee6054e2277cebe678f7f1f246dd484617314e415"
+    },
+    {
+      "id": "s42",
+      "title": "Asas dan pihak berkaitan (2/2)",
+      "eyebrow": "6. PENDAFTAR KECIL RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Agensi Terlibat: Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO)."
+      ],
+      "narration": "Agensi Terlibat: Pejabat Ketua Pegawai Keselamatan Kerajaan Malaysia (CGSO).",
+      "role": 6,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "6. PENDAFTAR KECIL RAHSIA"
+        }
+      ],
+      "duration": 6.466666666666667,
+      "duration_frames": 194,
+      "audio_duration": 5.691836734693878,
+      "narration_offset": 0.25,
+      "narration_sha256": "379f18f316ba128933dc8951a4739d4de6d4d190c4112cdc66ed27558ffec78d"
+    },
+    {
+      "id": "s43",
+      "title": "Tugas Utama",
+      "eyebrow": "6. PENDAFTAR KECIL RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Menguruskan fail-fail Rahsia Rasmi di peringkat jabatan, bahagian atau unit.",
+        "Membantu melaksanakan tugas berkaitan Pendaftaran Rahsia sebagaimana yang dinyatakan dalam perenggan 81 Arahan Keselamatan."
+      ],
+      "narration": "Menguruskan fail-fail Rahsia Rasmi di peringkat jabatan, bahagian atau unit. Membantu melaksanakan tugas berkaitan Pendaftaran Rahsia sebagaimana yang dinyatakan dalam perenggan 81 Arahan Keselamatan.",
+      "role": 6,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "6. PENDAFTAR KECIL RAHSIA"
+        }
+      ],
+      "duration": 14.933333333333334,
+      "duration_frames": 448,
+      "audio_duration": 14.166757369614512,
+      "narration_offset": 0.25,
+      "narration_sha256": "b3f8f7d38538c1745218a255b383a84212bf7cc1d2f89710eb2794fac38636ce"
+    },
+    {
+      "id": "s44",
+      "title": "Prosedur Permohonan oleh PTj",
+      "eyebrow": "6. PENDAFTAR KECIL RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: Setelah pelantikan dibuat oleh Ketua Jabatan, PTj melengkapkan dua (2) salinan Borang Maklumat Pegawai yang Telah Dilantik sebagai Pendaftar Kecil Rahsia (Borang KPKK 22).",
+        "Langkah 2: PTj mengemukakan Borang KPKK 22 yang lengkap berserta surat iringan kepada BARU."
+      ],
+      "narration": "Langkah 1: Setelah pelantikan dibuat oleh Ketua Jabatan, PTj melengkapkan dua (2) salinan Borang Maklumat Pegawai yang Telah Dilantik sebagai Pendaftar Kecil Rahsia (Borang KPKK 22). Langkah 2: PTj mengemukakan Borang KPKK 22 yang lengkap berserta surat iringan kepada BARU.",
+      "role": 6,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "6. PENDAFTAR KECIL RAHSIA"
+        }
+      ],
+      "duration": 24.333333333333332,
+      "duration_frames": 730,
+      "audio_duration": 23.57092970521542,
+      "narration_offset": 0.25,
+      "narration_sha256": "e212393467b0e1c9094d32e037a6e961020a4d71cb2f7279b4eda3f7a715bdc2"
+    },
+    {
+      "id": "s45",
+      "title": "Tindakan BARU",
+      "eyebrow": "6. PENDAFTAR KECIL RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Langkah 1: BARU mengeluarkan surat akuan penerimaan kepada PTj sebagai pengesahan penerimaan surat iringan dan Borang KPKK 22.",
+        "Langkah 2: BARU mengemukakan surat iringan berserta Borang KPKK 22 kepada CGSO bagi tujuan pemakluman dan pengemaskinian rekod pelantikan."
+      ],
+      "narration": "Langkah 1: BARU mengeluarkan surat akuan penerimaan kepada PTj sebagai pengesahan penerimaan surat iringan dan Borang KPKK 22. Langkah 2: BARU mengemukakan surat iringan berserta Borang KPKK 22 kepada CGSO bagi tujuan pemakluman dan pengemaskinian rekod pelantikan.",
+      "role": 6,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "6. PENDAFTAR KECIL RAHSIA"
+        }
+      ],
+      "duration": 23.233333333333334,
+      "duration_frames": 697,
+      "audio_duration": 22.47514739229025,
+      "narration_offset": 0.25,
+      "narration_sha256": "017e1faff1ebbb8e9b209754e3bb227acbefe403915cb282f1d1b52ba5d121e8"
+    },
+    {
+      "id": "s46",
+      "title": "Carta Alir",
+      "eyebrow": "6. PENDAFTAR KECIL RAHSIA",
+      "layout": "source_cards",
+      "bullets": [
+        "Ketua Jabatan → PTj → BARU → CGSO"
+      ],
+      "narration": "Ketua Jabatan → PTj → BARU → CGSO",
+      "role": 6,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "6. PENDAFTAR KECIL RAHSIA"
+        }
+      ],
+      "duration": 6.666666666666667,
+      "duration_frames": 200,
+      "audio_duration": 5.896326530612245,
+      "narration_offset": 0.25,
+      "narration_sha256": "51632b92a4c1299d6244245fa7833b093c31730b57c82a7d5d651a822b42037c"
+    },
+    {
+      "id": "s47",
+      "title": "Lengkap. Tepat. Ikut kuasa yang sah.",
+      "eyebrow": "PENUTUP",
+      "layout": "source_cards",
+      "bullets": [
+        "Lengkapkan borang dan dokumen sokongan",
+        "Pastikan maklumat pelantikan tepat",
+        "Patuhi peraturan dan prosedur berkuat kuasa"
+      ],
+      "narration": "Setiap pelantikan memainkan peranan penting dalam memastikan pengurusan rekod, pengendalian dokumen Rahsia Rasmi dan pelaksanaan keselamatan perlindungan dilaksanakan secara teratur.\n\nSemua Pusat Tanggungjawab (PTj) hendaklah memastikan maklumat pelantikan yang dikemukakan adalah lengkap dan tepat serta mematuhi peraturan dan prosedur yang berkuat kuasa.\n\nBAHAGIAN ARKIB UNIVERSITI (BARU)  \nUNIVERSITI TEKNOLOGI MARA (UiTM)",
+      "role": 0,
+      "source_refs": [
+        {
+          "source": "teks_pengguna",
+          "section": "PENUTUP"
+        }
+      ],
+      "duration": 30.533333333333335,
+      "duration_frames": 916,
+      "audio_duration": 29.75496598639456,
+      "narration_offset": 0.25,
+      "narration_sha256": "04bf6bd54e7e482f9cbb4fe7a7029e90c5183188052f83c48d709f19a680853f"
+    }
+  ],
+  "duration_seconds": 834.6333333333333,
+  "narration_provider": "eSpeak NG / ms / suara sintetik Melayu luar talian",
+  "narration_status": "recorded_and_timed_from_final_scene_wavs"
+}

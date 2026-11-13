@@ -1,0 +1,761 @@
+{
+  "stage": "rendered_preview",
+  "samples_per_scene": 9,
+  "scenes": [
+    {
+      "id": "s01",
+      "sample_times": [
+        0.0,
+        0.693,
+        1.733,
+        4.333,
+        7.8,
+        11.267,
+        14.213,
+        16.467,
+        17.316
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s02",
+      "sample_times": [
+        0.0,
+        1.376,
+        3.44,
+        8.6,
+        15.48,
+        22.36,
+        28.208,
+        32.68,
+        34.366
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s03",
+      "sample_times": [
+        0.0,
+        0.915,
+        2.287,
+        5.717,
+        10.29,
+        14.863,
+        18.751,
+        21.723,
+        22.844
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s04",
+      "sample_times": [
+        0.0,
+        0.512,
+        1.28,
+        3.2,
+        5.76,
+        8.32,
+        10.496,
+        12.16,
+        12.787
+      ],
+      "text_within_canvas": true,
+      "text_samples": 62
+    },
+    {
+      "id": "s05",
+      "sample_times": [
+        0.0,
+        0.563,
+        1.407,
+        3.517,
+        6.33,
+        9.143,
+        11.535,
+        13.363,
+        14.053
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s06",
+      "sample_times": [
+        0.0,
+        0.256,
+        0.64,
+        1.6,
+        2.88,
+        4.16,
+        5.248,
+        6.08,
+        6.394
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s07",
+      "sample_times": [
+        0.0,
+        1.149,
+        2.873,
+        7.183,
+        12.93,
+        18.677,
+        23.561,
+        27.297,
+        28.705
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s08",
+      "sample_times": [
+        0.0,
+        0.396,
+        0.99,
+        2.475,
+        4.455,
+        6.435,
+        8.118,
+        9.405,
+        9.89
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s09",
+      "sample_times": [
+        0.0,
+        0.691,
+        1.727,
+        4.317,
+        7.77,
+        11.223,
+        14.159,
+        16.403,
+        17.249
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s10",
+      "sample_times": [
+        0.0,
+        0.575,
+        1.437,
+        3.592,
+        6.465,
+        9.338,
+        11.781,
+        13.648,
+        14.352
+      ],
+      "text_within_canvas": true,
+      "text_samples": 62
+    },
+    {
+      "id": "s11",
+      "sample_times": [
+        0.0,
+        0.557,
+        1.393,
+        3.483,
+        6.27,
+        9.057,
+        11.425,
+        13.237,
+        13.919
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s12",
+      "sample_times": [
+        0.0,
+        0.496,
+        1.24,
+        3.1,
+        5.58,
+        8.06,
+        10.168,
+        11.78,
+        12.388
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s13",
+      "sample_times": [
+        0.0,
+        1.092,
+        2.73,
+        6.825,
+        12.285,
+        17.745,
+        22.386,
+        25.935,
+        27.273
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s14",
+      "sample_times": [
+        0.0,
+        0.379,
+        0.947,
+        2.367,
+        4.26,
+        6.153,
+        7.763,
+        8.993,
+        9.457
+      ],
+      "text_within_canvas": true,
+      "text_samples": 62
+    },
+    {
+      "id": "s15",
+      "sample_times": [
+        0.0,
+        1.389,
+        3.473,
+        8.683,
+        15.63,
+        22.577,
+        28.481,
+        32.997,
+        34.699
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s16",
+      "sample_times": [
+        0.0,
+        0.771,
+        1.927,
+        4.817,
+        8.67,
+        12.523,
+        15.799,
+        18.303,
+        19.247
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s17",
+      "sample_times": [
+        0.0,
+        0.536,
+        1.34,
+        3.35,
+        6.03,
+        8.71,
+        10.988,
+        12.73,
+        13.387
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s18",
+      "sample_times": [
+        0.0,
+        0.629,
+        1.573,
+        3.933,
+        7.08,
+        10.227,
+        12.901,
+        14.947,
+        15.718
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s19",
+      "sample_times": [
+        0.0,
+        0.196,
+        0.49,
+        1.225,
+        2.205,
+        3.185,
+        4.018,
+        4.655,
+        4.895
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s20",
+      "sample_times": [
+        0.0,
+        0.555,
+        1.387,
+        3.467,
+        6.24,
+        9.013,
+        11.371,
+        13.173,
+        13.853
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s21",
+      "sample_times": [
+        0.0,
+        0.503,
+        1.257,
+        3.142,
+        5.655,
+        8.168,
+        10.305,
+        11.938,
+        12.554
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s22",
+      "sample_times": [
+        0.0,
+        0.821,
+        2.053,
+        5.133,
+        9.24,
+        13.347,
+        16.837,
+        19.507,
+        20.513
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s23",
+      "sample_times": [
+        0.0,
+        1.117,
+        2.793,
+        6.983,
+        12.57,
+        18.157,
+        22.905,
+        26.537,
+        27.905
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s24",
+      "sample_times": [
+        0.0,
+        0.921,
+        2.303,
+        5.758,
+        10.365,
+        14.972,
+        18.887,
+        21.882,
+        23.01
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s25",
+      "sample_times": [
+        0.0,
+        0.333,
+        0.833,
+        2.083,
+        3.75,
+        5.417,
+        6.833,
+        7.917,
+        8.325
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s26",
+      "sample_times": [
+        0.0,
+        0.749,
+        1.873,
+        4.683,
+        8.43,
+        12.177,
+        15.361,
+        17.797,
+        18.715
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s27",
+      "sample_times": [
+        0.0,
+        0.196,
+        0.49,
+        1.225,
+        2.205,
+        3.185,
+        4.018,
+        4.655,
+        4.895
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s28",
+      "sample_times": [
+        0.0,
+        0.591,
+        1.477,
+        3.692,
+        6.645,
+        9.598,
+        12.109,
+        14.028,
+        14.752
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s29",
+      "sample_times": [
+        0.0,
+        0.528,
+        1.32,
+        3.3,
+        5.94,
+        8.58,
+        10.824,
+        12.54,
+        13.187
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s30",
+      "sample_times": [
+        0.0,
+        0.823,
+        2.057,
+        5.142,
+        9.255,
+        13.368,
+        16.865,
+        19.538,
+        20.546
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s31",
+      "sample_times": [
+        0.0,
+        1.117,
+        2.793,
+        6.983,
+        12.57,
+        18.157,
+        22.905,
+        26.537,
+        27.905
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s32",
+      "sample_times": [
+        0.0,
+        0.955,
+        2.387,
+        5.967,
+        10.74,
+        15.513,
+        19.571,
+        22.673,
+        23.843
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s33",
+      "sample_times": [
+        0.0,
+        0.333,
+        0.833,
+        2.083,
+        3.75,
+        5.417,
+        6.833,
+        7.917,
+        8.325
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s34",
+      "sample_times": [
+        0.0,
+        0.901,
+        2.253,
+        5.633,
+        10.14,
+        14.647,
+        18.477,
+        21.407,
+        22.511
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s35",
+      "sample_times": [
+        0.0,
+        0.257,
+        0.643,
+        1.608,
+        2.895,
+        4.182,
+        5.275,
+        6.112,
+        6.427
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s36",
+      "sample_times": [
+        0.0,
+        0.88,
+        2.2,
+        5.5,
+        9.9,
+        14.3,
+        18.04,
+        20.9,
+        21.978
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s37",
+      "sample_times": [
+        0.0,
+        0.539,
+        1.347,
+        3.367,
+        6.06,
+        8.753,
+        11.043,
+        12.793,
+        13.453
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s38",
+      "sample_times": [
+        0.0,
+        1.283,
+        3.207,
+        8.017,
+        14.43,
+        20.843,
+        26.295,
+        30.463,
+        32.035
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s39",
+      "sample_times": [
+        0.0,
+        0.369,
+        0.923,
+        2.308,
+        4.155,
+        6.002,
+        7.571,
+        8.772,
+        9.224
+      ],
+      "text_within_canvas": true,
+      "text_samples": 62
+    },
+    {
+      "id": "s40",
+      "sample_times": [
+        0.0,
+        1.059,
+        2.647,
+        6.617,
+        11.91,
+        17.203,
+        21.703,
+        25.143,
+        26.44
+      ],
+      "text_within_canvas": true,
+      "text_samples": 89
+    },
+    {
+      "id": "s41",
+      "sample_times": [
+        0.0,
+        1.137,
+        2.843,
+        7.108,
+        12.795,
+        18.482,
+        23.315,
+        27.012,
+        28.405
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    },
+    {
+      "id": "s42",
+      "sample_times": [
+        0.0,
+        0.259,
+        0.647,
+        1.617,
+        2.91,
+        4.203,
+        5.303,
+        6.143,
+        6.46
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s43",
+      "sample_times": [
+        0.0,
+        0.597,
+        1.493,
+        3.733,
+        6.72,
+        9.707,
+        12.245,
+        14.187,
+        14.918
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s44",
+      "sample_times": [
+        0.0,
+        0.973,
+        2.433,
+        6.083,
+        10.95,
+        15.817,
+        19.953,
+        23.117,
+        24.309
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s45",
+      "sample_times": [
+        0.0,
+        0.929,
+        2.323,
+        5.808,
+        10.455,
+        15.102,
+        19.051,
+        22.072,
+        23.21
+      ],
+      "text_within_canvas": true,
+      "text_samples": 71
+    },
+    {
+      "id": "s46",
+      "sample_times": [
+        0.0,
+        0.267,
+        0.667,
+        1.667,
+        3.0,
+        4.333,
+        5.467,
+        6.333,
+        6.66
+      ],
+      "text_within_canvas": true,
+      "text_samples": 61
+    },
+    {
+      "id": "s47",
+      "sample_times": [
+        0.0,
+        1.221,
+        3.053,
+        7.633,
+        13.74,
+        19.847,
+        25.037,
+        29.007,
+        30.503
+      ],
+      "text_within_canvas": true,
+      "text_samples": 80
+    }
+  ],
+  "all_text_within_canvas": true,
+  "timing_basis": "actual_narration",
+  "note": "Text-bounds checks are supplemented by visual inspection."
+}
