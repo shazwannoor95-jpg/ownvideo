@@ -16,7 +16,7 @@ Arahan berterusan untuk agent: muat naik setiap video yang siap bersama fail ker
 
 Buka repo ini pada `main`, lampirkan bahan dan beri brief. Gunakan prompt berikut jika agent memerlukan titik mula.
 
-> Baca AGENTS.md. Gunakan bahan dan brief yang saya lampirkan untuk siapkan video MP4 Bahasa Melayu. Jana narasi Ludo untuk setiap babak, selaraskan sari kata, semak video akhir dan berikan pautan muat turun.
+> Baca `AGENTS.md`. Guna bahan dan brief yang aku lampirkan untuk siapkan video MP4 Bahasa Melayu. Guna suara Ludo, selaraskan sari kata, semak hasil akhir dan beri pautan muat turun.
 
 [AGENTS.md](AGENTS.md) menyimpan aliran penuh daripada sumber hingga publish. [Audit browser Codex](docs/codex-browser-audit/README.md) mendokumenkan pilihan UI dan ujian muat turun WAV manual.
 
