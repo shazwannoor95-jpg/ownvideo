@@ -1,0 +1,12 @@
+{
+  "source": "User-uploaded six documents; DEPENDECIES.MD normalized to DEPENDENCIES.md; case normalized for Linux",
+  "sha256": {
+    "SKILL.md": "2571c66dfd90bdbd79e6c1485527ee06739bdb8e57e21f2f48287152761fc5ad",
+    "BROWSER_AUTOMATION.md": "e5dc4babac6c1f98ea73e3d54157e8c9ab9036ce94a03ac4daedcf93ada09eaa",
+    "GOOGLE_AI_STUDIO_VOICEOVER.md": "e4c53d4508e25ac9fd79cf2a71cfe78e026f57978eb94843807e43c4994449a0",
+    "DEPENDENCIES.md": "5dc32ee6e4ffb9a4a97336fdf2864e8e72cbc2f83ac0eda62d18af993493bb83",
+    "MASTER_PROMPT.md": "517ef2254708a9396df9d05dec630fdcf939c9bc13f5870b38c2f037ed3a614c",
+    "EVIDENCE_REPORT.md": "04afc39832b4e943a9f1638a1f7967a2f2514f263e879dfe3cd28f5dfa6c1320"
+  },
+  "status": "documentation installed; browser/network/account separately required"
+}
