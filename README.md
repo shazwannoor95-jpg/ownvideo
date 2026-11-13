@@ -54,3 +54,7 @@ Narasi wajib ialah Google AI Studio **Ludo**. Ikut [skill suara](.agents/skills/
 MP4, sumber audio asal dan laporan disimpan pada branch video. Fail venv, model besar dan output perantaraan tidak dimuat naik. MP4 melebihi had GitHub 100 MiB ditolak oleh `publish`; gunakan Git LFS atau GitHub Releases bagi projek besar.
 
 Lihat [struktur projek dan pemulihan](docs/WORKFLOW.md). Ujian: `.venv/bin/python -m unittest discover -s tests -v`.
+
+## Aplikasi Google AI Studio Ludo
+
+Integrasi Electron: `bash tools/setup-ludo.sh`, kemudian `./ludo` pada desktop yang boleh dilihat. Pilih storyboard, login Google sendiri, semak skrip dan luluskan penjanaan WAV Ludo. Fail suara sedia ada tidak ditimpa. Lihat [pemasangan, aliran penggunaan dan status audit](docs/LUDO-DESKTOP.md).

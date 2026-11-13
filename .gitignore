@@ -15,3 +15,6 @@ __pycache__/
 **/storyboard.before-voice-timing.json
 **/qa/styleframes/
 **/qa/portable-smoke/
+
+node_modules/
+**/ludo-profile/

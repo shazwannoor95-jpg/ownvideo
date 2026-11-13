@@ -12,3 +12,5 @@
 - Jangan simpan token, kata laluan, cookie, fail .env, venv atau model besar dalam Git. Kekalkan lesen aset dan nota sumber. Gunakan credential platform sedia ada.
 
 - Selepas push, sahkan commit branch/tag remote. Berikan pautan muat turun GitHub terus kepada MP4, bukan hanya pautan fail `/workspace` dalam Codex. Bentuk pautan: `https://github.com/shazwannoor95-jpg/ownvideo/raw/<commit-SHA>/<laluan-MP4>?download=1`. Uji bacaan HTTP MP4 jika boleh; jangan dakwa pautan diuji jika hanya kewujudan Git disahkan.
+
+- Aplikasi narasi Ludo tersedia melalui `bash tools/setup-ludo.sh` dan `./ludo`; baca `docs/LUDO-DESKTOP.md`. Login mesti oleh pengguna pada tetingkap aplikasi yang boleh dilihat. Jangan menganggap paparan maya ujian bersambung kepada viewer Codex. Manifest `audio/ludo-generation.json` hanya mengesahkan fail dan hash, bukan sebutan atau penjajaran sari kata; jangan menandakan semakan manusia lulus secara automatik.
