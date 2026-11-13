@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "scenes": 8,
+  "samples_per_scene": 7,
+  "text_bounds": "passed",
+  "audio": "not generated",
+  "final_video": "not generated"
+}

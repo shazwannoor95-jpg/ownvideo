@@ -1,0 +1,20 @@
+{
+  "environment_id": "ccarenv_b64_Y2NhcmVudl83ZWQ5M2Q5YTE2ZDA4MTkxOWY1MzhlMzE2YWQ4NmMwYg",
+  "http_result": "CONNECT 403",
+  "browser_result": "ERR_TUNNEL_CONNECTION_FAILED",
+  "observed_spec_revision": "3",
+  "active_custom_allowed_hosts": [],
+  "draft_domains_added": [
+    "aistudio.google.com",
+    "accounts.google.com",
+    "www.gstatic.com",
+    "ssl.gstatic.com",
+    "fonts.gstatic.com",
+    "fonts.googleapis.com"
+  ],
+  "draft_saved": true,
+  "runtime_change_applied": false,
+  "Ludo_selected": false,
+  "Ludo_WAV_generated": false,
+  "remaining_action": "Review and save network draft in environment settings, then retry actual browser; user handles Google sign-in."
+}

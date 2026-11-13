@@ -1,0 +1,10 @@
+{
+  "ignored_pdf": true,
+  "reason": "Explicit user instruction: ABAIKAN PDF TU",
+  "authority": "Prior user supplied six-role text + master prompt; grades 5/1 reconfirmed",
+  "unresolved_fact_conflicts": [],
+  "audio_status": "Ludo not generated: AI Studio proxy CONNECT 403",
+  "planned_seconds": 330,
+  "actual_seconds": null,
+  "script_word_count": 640
+}
