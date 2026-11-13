@@ -1,5 +1,7 @@
 # Arahan produksi ownvideo
 
+Aliran kerja lalai apabila pengguna memuat naik bahan (PDF, PPTX, dokumen atau format lain) dan memberikan prompt video: gunakan kedua-duanya sebagai input, kemudian siapkan video dari mula hingga MP4 akhir. Ekstrak isi sumber, sediakan skrip dan storyboard, hasilkan visual dan aset audio yang diperlukan, jana narasi wajib Ludo melalui Google AI Studio atau Gemini API, selaraskan sari kata, gabungkan, render dan sahkan MP4 sebelum menyerahkannya. Teruskan langkah yang boleh dibuat tanpa menunggu arahan bagi setiap peringkat.
+
 - Bahasa Melayu untuk laporan dan narasi lalai. Gunakan checkout ini sahaja; jangan sentuh repo lain dan jangan cipta worktree tanpa permintaan pengguna.
 - Setiap permintaan video baharu MESTI menggunakan `./video new "<tajuk video>" --source <fail-teks>` dahulu. Arahan itu menjana slug tajuk, versi dan branch secara automatik daripada versi remote serta tempatan. Jangan cipta nombor sendiri atau simpan video pada main.
 - Tajuk sama ialah versi seterusnya; tajuk berbeza ialah siri sendiri. Jangan menimpa output atau tag versi yang sudah diterbitkan. Untuk pindaan video diterbitkan, cipta versi baharu dan bawa sumber yang perlu ke folder itu.
