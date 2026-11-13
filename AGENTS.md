@@ -6,7 +6,8 @@ Apabila pengguna beri bahan (PDF, PPTX, dokumen atau format lain) dan prompt vid
 2. Ikut brief pengguna untuk skrip Bahasa Melayu, storyboard, visual dan aset. Semak fakta dengan bahan asal.
 3. Jana narasi wajib **Ludo** untuk setiap babak. Utamakan Gemini API jika `GEMINI_API_KEY` tersedia dalam persekitaran agent. Guna [setup Ludo](README.md#jana-narasi-ludo) untuk memasang SDK **2.34.0** dan menjalankan skrip. Jika perlu gunakan UI Google AI Studio, pengguna mengurus login sendiri.
 4. Dengar semula WAV, semak sebutan dan padanan skrip, kemudian selaraskan durasi dan cues sari kata dengan audio sebenar. Rekod model dan suara untuk API, atau pilihan suara untuk UI.
-5. Render MP4, semak video, audio dan sari kata, kemudian publish branch dan tag versi selepas lulus. Serahkan pautan muat turun MP4 kepada pengguna.
+5. Tambah muzik latar instrumental korporat yang santai, tanpa vokal. Gunakan penjana muzik repo dan seimbangkan parasnya supaya setiap ayat Ludo jelas. Semak campuran dalam MP4 akhir. Ikut brief pengguna jika mereka minta gaya lain atau video tanpa muzik.
+6. Render MP4, semak video, audio dan sari kata, kemudian publish branch dan tag versi selepas lulus. Serahkan pautan muat turun MP4 kepada pengguna.
 
 - Bahasa Melayu untuk laporan dan narasi lalai. Gunakan checkout ini sahaja; jangan sentuh repo lain dan jangan cipta worktree tanpa permintaan pengguna.
 - Setiap permintaan video baharu MESTI menggunakan `./video new "<tajuk video>" --source <fail-teks>` dahulu. Arahan itu menjana slug tajuk, versi dan branch secara automatik daripada versi remote serta tempatan. Jangan cipta nombor sendiri atau simpan video pada main.
