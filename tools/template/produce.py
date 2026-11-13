@@ -290,7 +290,9 @@ def assemble(output_dir=OUTPUT):
            "-c:v", "copy", "-movflags", "+faststart", silent)
     print(f"Joined {len(scenes)} scenes: {duration:.3f}s", flush=True)
     music = AUDIO / "music-final.wav"
-    run([sys.executable, ROOT / "create_audio.py", "--duration", duration, "--output", music])
+    music_variant = f"{PROJECT['slug']}/{PROJECT['version']}"
+    run([sys.executable, ROOT / "create_audio.py", "--duration", duration,
+         "--output", music, "--variant", music_variant])
     mixed = AUDIO / "mix-before-mastering.wav"
     graph = ("[0:a]pan=stereo|c0=c0|c1=c0[voice];[1:a]volume=0.40[music];"
              f"[voice][music]amix=inputs=2:duration=first:dropout_transition=0:normalize=0,atrim=duration={duration}[mix]")
