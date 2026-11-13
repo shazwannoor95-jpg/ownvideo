@@ -12,6 +12,8 @@ Video v002: [Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai](videos/ringk
 
 Arahan berterusan untuk agent: muat naik setiap video yang siap bersama fail kerja dan alat yang diperlukan, kemudian berikan pautan muat turun GitHub. Branch serta tag versi dijana mengikut tajuk melalui workflow di bawah. Arahan operasi disimpan dalam `AGENTS.md`.
 
+Untuk ulang aliran storyboard → narasi Ludo → MP4 dari chat baharu, ikut [panduan dan audit browser Codex](docs/codex-browser-audit/README.md). Ujian satu babak lulus dengan muat turun WAV secara manual.
+
 ## Pasang
 
 Python 3.12+, FFmpeg/FFprobe dengan libx264 dan AAC, serta Git diperlukan. Pada Ubuntu/Debian, pasang pakej sistem melalui pengurus pakej yang dibenarkan oleh mesin anda. Tiada GPU diperlukan. Narasi produksi mesti menggunakan Google AI Studio dengan suara Ludo melalui akaun Google pengguna; aliran UI ini tidak memerlukan API key.
