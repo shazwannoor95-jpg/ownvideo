@@ -63,7 +63,11 @@
           "Tugas utama dan urutan tindakan yang disahkan"
         ]
       ],
-      "flow": []
+      "flow": [],
+      "duration": 18.166666666666668,
+      "duration_frames": 545,
+      "audio_duration": 17.16,
+      "narration_offset": 0.25
     },
     {
       "id": "s02",
@@ -113,7 +117,11 @@
           "Aliran permohonan khusus PTj / BARU belum dibekalkan"
         ]
       ],
-      "flow": []
+      "flow": [],
+      "duration": 36.666666666666664,
+      "duration_frames": 1100,
+      "audio_duration": 35.64,
+      "narration_offset": 0.25
     },
     {
       "id": "s03",
@@ -176,7 +184,11 @@
         "JPT",
         "BARU",
         "Pegawai dilantik"
-      ]
+      ],
+      "duration": 56.4,
+      "duration_frames": 1692,
+      "audio_duration": 55.4,
+      "narration_offset": 0.25
     },
     {
       "id": "s04",
@@ -233,7 +245,11 @@
         "ANM",
         "BARU",
         "Pegawai dilantik"
-      ]
+      ],
+      "duration": 49.666666666666664,
+      "duration_frames": 1490,
+      "audio_duration": 48.64,
+      "narration_offset": 0.25
     },
     {
       "id": "s05",
@@ -291,7 +307,11 @@
         "ANM",
         "BARU",
         "Pegawai dilantik"
-      ]
+      ],
+      "duration": 49.266666666666666,
+      "duration_frames": 1478,
+      "audio_duration": 48.24,
+      "narration_offset": 0.25
     },
     {
       "id": "s06",
@@ -349,7 +369,11 @@
         "Pegawai dilantik",
         "KPKK 22",
         "CGSO"
-      ]
+      ],
+      "duration": 41.93333333333333,
+      "duration_frames": 1258,
+      "audio_duration": 40.92,
+      "narration_offset": 0.25
     },
     {
       "id": "s07",
@@ -406,7 +430,11 @@
         "PTj",
         "BARU",
         "CGSO"
-      ]
+      ],
+      "duration": 45.166666666666664,
+      "duration_frames": 1355,
+      "audio_duration": 44.16,
+      "narration_offset": 0.25
     },
     {
       "id": "s08",
@@ -448,7 +476,11 @@
           "Bahagian Arkib Universiti • UiTM"
         ]
       ],
-      "flow": []
+      "flow": [],
+      "duration": 16.566666666666666,
+      "duration_frames": 497,
+      "audio_duration": 15.56,
+      "narration_offset": 0.25
     }
   ],
   "minimum_seconds": 300

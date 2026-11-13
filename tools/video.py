@@ -124,7 +124,7 @@ def package(p,info):
     chapterfile=p/'qa/chapters.ffmeta';chapterfile.parent.mkdir(exist_ok=True)
     chapterfile.write_text('\n'.join(metadata)+'\n')
     run(['ffmpeg','-v','error','-y','-i',base,'-i',srt,'-i',chapterfile,'-map_chapters','2','-map','0:v:0','-map','0:a:0','-map','1:0',
-         '-c','copy','-c:s','mov_text','-metadata:s:s:0','language=msa','-movflags','+faststart',final])
+         '-c','copy','-c:s','mov_text','-metadata:s:s:0','language=msa','-movie_timescale','1000','-movflags','+faststart+disable_chpl',final])
     run(['ffmpeg','-v','error','-i',final,'-map','0:v:0','-map','0:a:0','-f','null','-'])
     report=json.loads((p/'qa/final-technical-report.json').read_text())
     if not report['technical_checks_passed']:raise ValueError('Semakan teknikal gagal.')

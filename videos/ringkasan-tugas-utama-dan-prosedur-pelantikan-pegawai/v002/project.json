@@ -4,7 +4,7 @@
   "version": "v002",
   "branch": "video/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002",
   "tag": "ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v002",
-  "status": "DRAFT_WAITING_LUDO",
+  "status": "RENDERED",
   "voiceover": {
     "provider": "Google AI Studio",
     "voice": "Ludo"
@@ -14,5 +14,7 @@
   "minimum_seconds": 300,
   "maximum_seconds": 360,
   "required_voice": "Google AI Studio — Ludo",
-  "source_project_commit": "6cc96b2077e19600b1958c9721d1b6c5bedde9db"
+  "source_project_commit": "6cc96b2077e19600b1958c9721d1b6c5bedde9db",
+  "final_video": "outputs/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v002-kapsyen.mp4",
+  "final_sha256": "c236abe73c824b3ac6a0544422e332b2301323f826c2f0fbd4192f73caf5b47c"
 }

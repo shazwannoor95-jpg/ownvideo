@@ -1,17 +1,13 @@
 # Ringkasan pelantikan pegawai — v002
 
-Status: **DRAF MENUNGGU LUDO**, bukan hasil akhir.
+Status: **Video siap**. Lapan babak, 5 minit 14 saat, Full HD 1080p pada 30 fps. Narasi sintetik menggunakan Ludo dalam Google AI Studio.
 
-- Brief asal: `source/master-prompt.md`.
-- Fakta: teks pengguna daripada projek terdahulu; provenance dan baris rujukan dalam `storyboard.json`.
-- Skrip: `outputs/skrip_narasi_bm.md` (616 perkataan).
-- Storyboard: `outputs/storyboard_video.md` (8 babak, 29 visual beats).
-- Draf visual sebenar: `outputs/DRAF_330s_FHD_TANPA_AUDIO.mp4`, H264, Full HD, 30fps, 330s, tanpa audio. Masa anggaran sahaja.
-- Pratonton semua babak: `outputs/Pratonton_8_Babak.png`.
-- Fail final, WAV dan SRT akhir **belum dihasilkan**.
+- [Video akhir MP4](outputs/Video_Pelantikan_Pegawai_UiTM_Final.mp4) dengan sari kata Bahasa Melayu dan penanda babak.
+- [Sari kata SRT](outputs/Video_Pelantikan_Pegawai_UiTM.srt).
+- [Skrip narasi](outputs/skrip_narasi_bm.md) dan [storyboard](outputs/storyboard_video.md).
+- [WAV Ludo dan cap masa](audio/) untuk setiap babak.
+- [Laporan teknikal](qa/final-technical-report.json) dan [rekod semakan narasi](audio/ludo-review.json).
 
-Baca `outputs/PANDUAN_LUDO.md` untuk mendapatkan input sebenar. Jangan guna eSpeak atau audio tiruan. Jangan tandakan selesai atau cipta tag terbitan sehingga Ludo, penyegerakan, sari kata, visual dan semakan akhir disahkan.
+Semakan teknikal mengesahkan nyahkod penuh, format audio dan video serta tempoh garis masa. Semua bahagian skrip disemak melalui transkripsi setempat. Sebutan belum disemak melalui pendengaran manusia.
 
-Dari akar repo, jana semula draf visual dengan `.venv/bin/python videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002/render_fhd.py --draft`. Semakan fixture setempat: `.venv/bin/python videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002/verify_pipeline.py`. Fixture hanya menguji logik dan bukan Ludo sebenar.
-
-Selepas WAV Ludo, cues dan rekod semakan sah tersedia, `.venv/bin/python videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v002/finalise.py` akan menjalankan pipeline khusus versi dan mengeksport nama fail diminta. Pipeline akhir dengan Ludo belum diuji; semak laporan QA dan hasil sebelum publish.
+Jalankan `python finalise.py` dari folder ini untuk menghasilkan semula video menggunakan WAV, cap masa dan storyboard sedia ada. Persekitaran Python memerlukan Pillow, FFmpeg dan FFprobe. Brief asal tersedia dalam `source/master-prompt.md`.

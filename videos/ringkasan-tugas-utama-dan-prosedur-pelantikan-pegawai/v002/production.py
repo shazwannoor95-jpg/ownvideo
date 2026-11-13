@@ -60,7 +60,7 @@ def assemble():
     for s in story['scenes']:
         entries.append("file '"+str(cache/f"{s['id']}.mp4")+"'\n")
         dst=cache/f"{s['id']}-aligned.wav"
-        run(['ffmpeg','-v','error','-nostdin','-y','-i',ROOT/f"audio/{s['id']}.wav",'-af',f"loudnorm=I=-16:TP=-1.5:LRA=11,adelay=250:all=1,apad,atrim=duration={s['duration']},aresample=48000",'-ac','1','-c:a','pcm_s16le',dst]);audio.append(dst)
+        run(['ffmpeg','-v','error','-nostdin','-y','-i',ROOT/f"audio/{s['id']}.wav",'-af',f"loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000,asetpts=N/SR/TB,adelay=250:all=1,apad,atrim=end_sample={round(48000*s['duration'])}",'-ac','1','-c:a','pcm_s16le',dst]);audio.append(dst)
     listing=cache/'visual-concat.txt';listing.write_text(''.join(entries))
     audio_list=cache/'audio-concat.txt';audio_list.write_text(''.join(f"file '{p}'\n" for p in audio))
     mix=cache/'narration-master.wav'
@@ -69,7 +69,7 @@ def assemble():
     run(['ffmpeg','-v','error','-nostdin','-y','-f','concat','-safe','0','-i',listing,'-i',mix,'-map','0:v:0','-map','1:a:0','-c:v','copy','-c:a','aac','-b:a','192k','-t',str(timeline['duration_seconds']),'-movflags','+faststart',out])
     probe=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-show_format','-of','json',str(out)]))
     v=next(x for x in probe['streams'] if x['codec_type']=='video');a=next(x for x in probe['streams'] if x['codec_type']=='audio');seconds=float(probe['format']['duration'])
-    checks={'h264':v['codec_name']=='h264','full_hd':(v['width'],v['height'])==(1920,1080),'30fps':v['r_frame_rate']=='30/1','aac':a['codec_name']=='aac','duration_300_360':300<=seconds<=360,'measured_timing':abs(seconds-timeline['duration_seconds'])<.1}
+    checks={'h264':v['codec_name']=='h264','full_hd':(v['width'],v['height'])==(1920,1080),'30fps':v['r_frame_rate']=='30/1','aac':a['codec_name']=='aac','duration_300_360':300<=seconds<=360,'measured_timing':abs(seconds-timeline['duration_seconds'])<.1,'audio_timing':abs(float(a['duration'])-timeline['duration_seconds'])<.1}
     run(['ffmpeg','-v','error','-i',out,'-f','null','-']);checks['full_decode']=True
     write('qa/final-technical-report.json',{'technical_checks_passed':all(checks.values()),'checks':checks,'duration_seconds':seconds,'subtitles':'burned from supplied measured cues; human alignment review remains required','voice_source':'declared and hash-bound review; not machine identification of speaker'})
     if not all(checks.values()):raise ValueError('Semakan teknikal gagal.')
