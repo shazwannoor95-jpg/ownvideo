@@ -1,0 +1,18 @@
+{
+  "provider": "Gemini API",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Ludo",
+  "google_genai": "2.34.0",
+  "clips": [
+    {
+      "scene": "s01",
+      "duration": 4.08,
+      "sha256": "0d73619f9e423b5bcdd19fa9ad567259615d74ffb6f49bb3072e7f0bdf77f1a5"
+    },
+    {
+      "scene": "s02",
+      "duration": 4.08,
+      "sha256": "14ae9782af9ca562fe66af8a7dde9ff917e4486bc61aa72a6f64238499941cab"
+    }
+  ]
+}
