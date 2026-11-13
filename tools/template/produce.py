@@ -28,7 +28,8 @@ PROJECT = json.loads((ROOT / "project.json").read_text(encoding="utf-8"))
 OUTPUT_NAME = PROJECT["slug"] + "-" + PROJECT["version"] + ".mp4"
 FPS, SR = 30, 48000
 VOICE_OFFSET, GUARD = 0.25, 0.75
-VOICE = "eSpeak NG / ms / suara sintetik Melayu luar talian"
+voiceover = PROJECT.get("voiceover", {})
+VOICE = f"{voiceover.get('provider', 'Google AI Studio')} / {voiceover.get('voice', 'Ludo')}"
 _VISUAL_FILE_CACHE = {}
 
 

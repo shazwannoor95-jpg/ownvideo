@@ -73,12 +73,12 @@ def new(title,source):
     dest=REPO/'videos'/slug/version
     shutil.copytree(REPO/'tools/template',dest)
     for name in ['source','audio','qa','rendered','outputs']:(dest/name).mkdir(exist_ok=True)
-    (dest/'source/teks-pengguna.md').write_text(text)
-    (dest/'storyboard.json').write_text(json.dumps(story,ensure_ascii=False,indent=2)+'\n')
+    (dest/'source/teks-pengguna.md').write_text(text, encoding='utf-8')
+    (dest/'storyboard.json').write_text(json.dumps(story,ensure_ascii=False,indent=2)+'\n', encoding='utf-8')
     info={'title':title,'slug':slug,'version':version,'branch':branch,'tag':f'{slug}-{version}',
           'status':'DRAFT','voiceover':{'provider':'Google AI Studio','voice':'Ludo'},
           'created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat()}
-    (dest/'project.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n')
+    (dest/'project.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n', encoding='utf-8')
     print('Branch:',branch,'\nProjek:',dest.relative_to(REPO),'\nSeterusnya: ./video render',dest.relative_to(REPO))
     return dest
 
@@ -87,30 +87,30 @@ def project(path):
     if not p.is_absolute():p=REPO/p
     p=p.resolve()
     if not p.is_relative_to(REPO/'videos'):raise ValueError('Folder projek mesti berada dalam videos/.')
-    info=json.loads((p/'project.json').read_text())
+    info=json.loads((p/'project.json').read_text(encoding='utf-8-sig'))
     return p,info
 
 def captions(p):
-    story=json.loads((p/'storyboard.json').read_text());timings=json.loads((p/'timeline.json').read_text())
+    story=json.loads((p/'storyboard.json').read_text(encoding='utf-8-sig'));timings=json.loads((p/'timeline.json').read_text(encoding='utf-8-sig'))
     out=p/'outputs';out.mkdir(exist_ok=True);rows=[];script=[]
     def stamp(t):
         v=round(t*1000);h,v=divmod(v,3600000);m,v=divmod(v,60000);s,ms=divmod(v,1000)
         return f'{h:02}:{m:02}:{s:02},{ms:03}'
     for scene,timing in zip(story['scenes'],timings['scenes'],strict=True):
         script.append(scene['eyebrow']+' — '+scene['title']+'\n'+scene['narration']+'\n')
-        for cue in json.loads((p/'audio'/f"{scene['id']}.cues.json").read_text()):
+        for cue in json.loads((p/'audio'/f"{scene['id']}.cues.json").read_text(encoding='utf-8-sig')):
             a=timing['start_seconds']+.25+cue['start'];b=timing['start_seconds']+.25+cue['end']
             if b>timing['end_seconds']+.02:raise ValueError('Kapsyen melebihi masa babak.')
             rows.append(f'{len(rows)+1}\n{stamp(a)} --> {stamp(b)}\n'+'\n'.join(textwrap.wrap(cue['text'],72))+'\n')
-    (out/'Kapsyen_BM.srt').write_text('\n'.join(rows))
-    (out/'Skrip_Narasi_BM.txt').write_text('\n'.join(script))
+    (out/'Kapsyen_BM.srt').write_text('\n'.join(rows), encoding='utf-8')
+    (out/'Skrip_Narasi_BM.txt').write_text('\n'.join(script), encoding='utf-8')
     return out/'Kapsyen_BM.srt'
 
 def package(p,info):
     srt=captions(p);base=p/'outputs'/f"{info['slug']}-{info['version']}.mp4"
     final=base.with_name(base.stem+'-kapsyen.mp4')
-    story=json.loads((p/'storyboard.json').read_text())
-    timeline=json.loads((p/'timeline.json').read_text())
+    story=json.loads((p/'storyboard.json').read_text(encoding='utf-8-sig'))
+    timeline=json.loads((p/'timeline.json').read_text(encoding='utf-8-sig'))
     chapters=[]
     for scene,timing in zip(story['scenes'],timeline['scenes'],strict=True):
         label=scene.get('eyebrow') or scene['title']
@@ -122,26 +122,26 @@ def package(p,info):
         label=chapter['label'].replace('\\','\\\\').replace('=','\\=').replace(';','\\;').replace('#','\\#').replace('\n',' ')
         metadata+=['[CHAPTER]','TIMEBASE=1/1000',f"START={round(chapter['start']*1000)}",f"END={round(chapter['end']*1000)}",'title='+label]
     chapterfile=p/'qa/chapters.ffmeta';chapterfile.parent.mkdir(exist_ok=True)
-    chapterfile.write_text('\n'.join(metadata)+'\n')
+    chapterfile.write_text('\n'.join(metadata)+'\n', encoding='utf-8')
     run(['ffmpeg','-v','error','-y','-i',base,'-i',srt,'-i',chapterfile,'-map_chapters','2','-map','0:v:0','-map','0:a:0','-map','1:0',
          '-c','copy','-c:s','mov_text','-metadata:s:s:0','language=msa','-movie_timescale','1000','-movflags','+faststart+disable_chpl',final])
-    run(['ffmpeg','-v','error','-i',final,'-map','0:v:0','-map','0:a:0','-f','null','-'])
-    report=json.loads((p/'qa/final-technical-report.json').read_text())
+    run(['ffmpeg','-v','error','-xerror','-i',final,'-map','0:v:0','-map','0:a:0','-f','null','-'])
+    report=json.loads((p/'qa/final-technical-report.json').read_text(encoding='utf-8-sig'))
     if not report['technical_checks_passed']:raise ValueError('Semakan teknikal gagal.')
     info.update(status='RENDERED',final_video=final.relative_to(p).as_posix(),
         final_sha256=hashlib.sha256(final.read_bytes()).hexdigest())
-    (p/'project.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n')
+    (p/'project.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n', encoding='utf-8')
     print('SIAP:',final.relative_to(REPO))
 
 def render(path,workers,resynthesize=False,frames_only=False):
     p,info=project(path)
     if not 1<=workers<=4:raise ValueError('Pilih 1 hingga 4 worker.')
     if resynthesize:
-        raise ValueError('Jana semula narasi melalui Google AI Studio dengan suara Ludo, gantikan WAV dan cues yang telah disemak, kemudian render tanpa --resynthesize. Tiada fallback suara automatik.')
-    missing=[f"audio/{s['id']}{suffix}" for s in json.loads((p/'storyboard.json').read_text())['scenes']
+        raise ValueError('Jana semula narasi melalui Gemini API atau Google AI Studio dengan suara Ludo, gantikan WAV dan cues yang telah disemak, kemudian render tanpa --resynthesize. Tiada fallback suara automatik.')
+    missing=[f"audio/{s['id']}{suffix}" for s in json.loads((p/'storyboard.json').read_text(encoding='utf-8-sig'))['scenes']
              for suffix in ['.wav','.cues.json'] if not (p/'audio'/f"{s['id']}{suffix}").is_file()]
     if missing:
-        raise ValueError('WAV Ludo dan cap masa kapsyen diperlukan daripada Google AI Studio: '+', '.join(missing))
+        raise ValueError('WAV Ludo dan cap masa kapsyen diperlukan daripada Gemini API atau Google AI Studio: '+', '.join(missing))
     run([sys.executable,'produce.py','--prepare'],cwd=p)
     run([sys.executable,'render_video.py','--frames'],cwd=p)
     if frames_only:return
