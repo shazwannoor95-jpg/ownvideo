@@ -1,0 +1,12 @@
+{
+  "provider": "Gemini API",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Ludo",
+  "sdk": "google-genai 2.34.0",
+  "synthetic_voice": true,
+  "tempo_adjustment": 0.8403703703703703,
+  "target_seconds": 330,
+  "human_listening_verified": false,
+  "caption_alignment": "Estimated from actual recording durations and script word weights; not human verified.",
+  "independent_asr": "Unavailable: model download blocked by HTTP 403."
+}

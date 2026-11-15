@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "duration_5_to_6_minutes": true,
+    "full_hd": true,
+    "h264": true,
+    "aac": true,
+    "complete_decode": true,
+    "subtitle_track": true
+  },
+  "duration_seconds": 330.067,
+  "export_note": "Full HD export scaled from 1280x720 composition; captions visible and separate subtitle track.",
+  "sha256": "4d1e3ddae9e1c76b7b28967947796c20528a561703c9340ef758d8263b949d2e"
+}

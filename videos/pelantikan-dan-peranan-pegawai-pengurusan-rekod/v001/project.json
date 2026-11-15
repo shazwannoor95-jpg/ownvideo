@@ -1,0 +1,15 @@
+{
+  "title": "Pelantikan dan Peranan Pegawai Pengurusan Rekod",
+  "slug": "pelantikan-dan-peranan-pegawai-pengurusan-rekod",
+  "version": "v001",
+  "branch": "video/pelantikan-dan-peranan-pegawai-pengurusan-rekod/v001",
+  "tag": "pelantikan-dan-peranan-pegawai-pengurusan-rekod-v001",
+  "status": "RENDERED",
+  "voiceover": {
+    "provider": "Google AI Studio",
+    "voice": "Ludo"
+  },
+  "created_utc": "2026-11-15T05:53:45.964945+00:00",
+  "final_video": "outputs/Video_Penerangan_Pengurusan_Rekod_5m30s.mp4",
+  "final_sha256": "4d1e3ddae9e1c76b7b28967947796c20528a561703c9340ef758d8263b949d2e"
+}

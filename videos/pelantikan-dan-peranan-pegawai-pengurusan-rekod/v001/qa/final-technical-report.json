@@ -1,0 +1,259 @@
+{
+  "checked_at_utc": "2026-11-15T06:00:29.808274+00:00",
+  "file": "/workspace/ownvideo/videos/pelantikan-dan-peranan-pegawai-pengurusan-rekod/v001/outputs/pelantikan-dan-peranan-pegawai-pengurusan-rekod-v001.mp4",
+  "bytes": 12659963,
+  "sha256": "8b08492b3204775b240590d8e27247dc82a380e7cafd477f4ebb7abf7aebff65",
+  "duration_seconds": 330.06666666666666,
+  "duration_frames": 9902,
+  "scene_count": 8,
+  "checks": {
+    "h264": true,
+    "aac": true,
+    "1280x720": true,
+    "30fps": true,
+    "yuv420p": true,
+    "frame_count": true,
+    "duration": true,
+    "stereo_48khz": true,
+    "complete_decode": true,
+    "loudness_within_1_lu": true,
+    "true_peak_below_minus_1_db": true
+  },
+  "technical_checks_passed": true,
+  "ffprobe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1280,
+        "height": 720,
+        "coded_width": 1280,
+        "coded_height": 720,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 5069824,
+        "duration": "330.066667",
+        "bit_rate": "104240",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "9902",
+        "extradata_size": 46,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 15843168,
+        "duration": "330.066000",
+        "bit_rate": "193751",
+        "nb_frames": "15473",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/ownvideo/videos/pelantikan-dan-peranan-pegawai-pengurusan-rekod/v001/outputs/pelantikan-dan-peranan-pegawai-pengurusan-rekod-v001.partial.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "330.066667",
+      "size": "12659963",
+      "bit_rate": "306846",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "Pelantikan dan Peranan Pegawai Pengurusan Rekod",
+        "encoder": "Lavf61.7.103",
+        "comment": "Google AI Studio / Ludo"
+      }
+    }
+  },
+  "final_audio_measurements": {
+    "input_i": "-16.02",
+    "input_tp": "-3.11",
+    "input_lra": "3.30",
+    "input_thresh": "-26.52",
+    "output_i": "-16.00",
+    "output_tp": "-3.11",
+    "output_lra": "3.30",
+    "output_thresh": "-26.48",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.00"
+  },
+  "mix_measurements_before_mastering": {
+    "input_i": "-15.37",
+    "input_tp": "-2.48",
+    "input_lra": "3.40",
+    "input_thresh": "-25.86",
+    "output_i": "-16.00",
+    "output_tp": "-3.11",
+    "output_lra": "3.30",
+    "output_thresh": "-26.48",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.00"
+  },
+  "decode_log": "",
+  "voice_provider": "Google AI Studio / Ludo",
+  "voice_clip_hashes": {
+    "s01": "64f3474ff4c5c56019fe8d71b51212fb39182e2d26d2d745f63695cc6ca60d0c",
+    "s02": "06292455b809857f63dbd9f3b77201133503a8e3ac2d7c7cf2029c0132364edf",
+    "s03": "700466ab7b55c4b5e73e63ca07682b6cb610729ce79443f41493e13e4d6d942a",
+    "s04": "b6422a30f07c5c21154a969f4c201a9691044607e6f4508940da91e2f408a78a",
+    "s05": "d985d8fd91f3d762c8277e102ba4b61ff90c50b656862a4324206782fd27e5e6",
+    "s06": "76def0b972ed6bd4f496b48f982f6ca7891c58e8db3c14dfd6e1d833ea78e81f",
+    "s07": "c6876b0a25482240ddc6897b485458ea189e5fe9c697e9b1685b5e6f92bfeb30",
+    "s08": "dfd163b800e028a862f6064c54bec5aab53dc6d676717f024a80ba888861d1d9"
+  },
+  "render_provenance": {
+    "s01": {
+      "scene_id": "s01",
+      "visual_signature": "3e926fb859dc2fba55a685b57b57e03bec805d4fea3063926aeff278097007c0",
+      "output_sha256": "fb6cd8c6f3829df60af7966a47400f981c7ee9ab1e5a48f4bd3cc054c0dd2107",
+      "duration_frames": 1187
+    },
+    "s02": {
+      "scene_id": "s02",
+      "visual_signature": "6da3618d24bbb4868a590ab71c868336cc194a28b82da22ba29607286a649e31",
+      "output_sha256": "f22c76effea095d1829d7776aef35b8e84c9c8ed8e40aca90b96b0fb90e9bb25",
+      "duration_frames": 1229
+    },
+    "s03": {
+      "scene_id": "s03",
+      "visual_signature": "7b849cee5fb426a859c92bb55148728a9034d4e7cda7ded76988236b42aad4db",
+      "output_sha256": "7f6a043dc5d62e04a3ae886796e8eb062c9d2ebee0dafb0ac45f3cd74df8801d",
+      "duration_frames": 1178
+    },
+    "s04": {
+      "scene_id": "s04",
+      "visual_signature": "7cb7886914259f4599dfbee95d754ece50e553e12bddb79e64ac47570ebd2c2d",
+      "output_sha256": "01e562d4e11848670ceee0b90bda30e085212f30d14cd0c5bd4a559e3d88e82d",
+      "duration_frames": 1181
+    },
+    "s05": {
+      "scene_id": "s05",
+      "visual_signature": "7c73059805124348be5df3c7b5b89b466d0db9a37451950c9ef0bc4b9f63e71d",
+      "output_sha256": "7f9c440d638c7cb0f8a9070478023757f45d3453b22c5f3468339f41532ed8a5",
+      "duration_frames": 1366
+    },
+    "s06": {
+      "scene_id": "s06",
+      "visual_signature": "0549a9fab11676b49307b2c9a75440d0eeceec99b4bc1b1bbd024adb768b4d4e",
+      "output_sha256": "0d456c9b1b5497e42370951ffb7f6a666e88db9105e7603c01ba145605658adb",
+      "duration_frames": 1187
+    },
+    "s07": {
+      "scene_id": "s07",
+      "visual_signature": "5de7915c6d9277d1963f080c088968e03bc28c1016208a9414d129a4f122275d",
+      "output_sha256": "9e17b8271fc4a2a93b187072433c02509accca1ae28983926655c2a9bea34208",
+      "duration_frames": 1098
+    },
+    "s08": {
+      "scene_id": "s08",
+      "visual_signature": "3830afd79cb586b4d83a187dd9fcc89c7a6643b6ae03db1ed7f6ecd248a135c1",
+      "output_sha256": "5e60d2334e173a1a76ea17352266275f426f01d749562fd0d62d43cbb94a02ee",
+      "duration_frames": 1476
+    }
+  },
+  "review_limit": "Automated technical verification does not establish factual accuracy or perfect pronunciation. Refer to the separate content, visual and audio transcript reviews.",
+  "audio_content_review": {
+    "method": "PCM/WAV integrity, duration and loudness checks; script to PDF comparison.",
+    "synthetic_voice": "Ludo / gemini-3.8-flash-tts",
+    "human_listening_passed": false,
+    "pronunciation_verified": false,
+    "caption_alignment_verified": false,
+    "caption_method": "Estimated from script word weights and actual audio duration.",
+    "independent_asr": "Model download returned HTTP 403; unavailable.",
+    "notes": "No claim of human audio approval. Review pronunciation and caption sync before formal use."
+  }
+}

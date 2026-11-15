@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "title": "Pelantikan dan Peranan Pegawai Pengurusan Rekod",
+  "output_file": "pelantikan-dan-peranan-pegawai-pengurusan-rekod-v001.mp4",
+  "duration_seconds": 330.06666666666666,
+  "fps": 30,
+  "default_voice": "Google AI Studio / Ludo",
+  "chapters": [
+    {
+      "id": "pegawai_pengelas",
+      "order": 1,
+      "title": "Pelantikan dan Peranan Pegawai Pengurusan Rekod",
+      "scene_ids": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s05",
+        "s06",
+        "s07",
+        "s08"
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "order": 1,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 0.0,
+      "end_seconds": 39.56666666666667,
+      "visual": {
+        "description": "Gambaran keseluruhan",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Gambaran keseluruhan",
+        "Dokumen rahsia rasmi: empat peranan",
+        "Rekod terbuka: dua peranan",
+        "Fokus: tugas, kuasa dan prosedur"
+      ],
+      "narration": {
+        "text": "Video ini menerangkan pelantikan dan peranan pegawai pengurusan rekod berdasarkan dokumen yang dibekalkan. Kandungannya meliputi dua kumpulan, iaitu pengurusan dokumen rahsia rasmi dan pengurusan rekod terbuka. Bagi dokumen rahsia rasmi, terdapat Pegawai Pengelas, Pegawai Pengelas Semula, Pendaftar Rahsia dan Pendaftar Kecil Rahsia. Bagi rekod terbuka pula, terdapat Pegawai Rekod Jabatan dan Pembantu Tadbir Rekod Jabatan. Mari kita lihat perbezaan tugas, pihak yang melantik, serta perkara penting dalam urusan pelantikan mereka.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s01.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 5, 6",
+          "reference": "user_pdf",
+          "claim": "Video ini menerangkan pelantikan dan peranan pegawai pengurusan rekod berdasarkan dokumen yang dibekalkan. Kandungannya meliputi dua kumpulan, iaitu pengurusan dokumen rahsia rasmi dan pengurusan rekod terbuka. Bagi dokumen rahsia rasmi, terdapat Pegawai Pengelas, Pegawai Pengelas Semula, Pendaftar Rahsia dan Pendaftar Kecil Rahsia. Bagi rekod terbuka pula, terdapat Pegawai Rekod Jabatan dan Pembantu Tadbir Rekod Jabatan. Mari kita lihat perbezaan tugas, pihak yang melantik, serta perkara penting dalam urusan pelantikan mereka."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s02",
+      "order": 2,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 39.56666666666667,
+      "end_seconds": 80.53333333333333,
+      "visual": {
+        "description": "Pegawai Pengelas",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Pegawai Pengelas",
+        "Mengelaskan: Rahsia Besar, Rahsia, Sulit atau Terhad",
+        "Seksyen 2B, Akta Rahsia Rasmi 1972 (Akta 88)",
+        "Pelantik: Menteri Pendidikan Tinggi"
+      ],
+      "narration": {
+        "text": "Pertama, Pegawai Pengelas. Tugas utamanya ialah mengelaskan perkara rasmi, maklumat atau bahan kepada peringkat Rahsia Besar, Rahsia, Sulit atau Terhad. Jadual pelantikan dalam sumber menyatakan seksyen dua B, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua, atau Akta lapan puluh lapan, sebagai sumber lantikan. Pihak yang melantik ialah Menteri Pendidikan Tinggi. Jawatan yang dinyatakan termasuk Ketua Jabatan, Timbalan Ketua Jabatan, Ketua Bahagian, serta pegawai awam lain yang difikirkan perlu oleh Ketua Jabatan.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s02.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 2, 5",
+          "reference": "user_pdf",
+          "claim": "Pertama, Pegawai Pengelas. Tugas utamanya ialah mengelaskan perkara rasmi, maklumat atau bahan kepada peringkat Rahsia Besar, Rahsia, Sulit atau Terhad. Jadual pelantikan dalam sumber menyatakan seksyen dua B, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua, atau Akta lapan puluh lapan, sebagai sumber lantikan. Pihak yang melantik ialah Menteri Pendidikan Tinggi. Jawatan yang dinyatakan termasuk Ketua Jabatan, Timbalan Ketua Jabatan, Ketua Bahagian, serta pegawai awam lain yang difikirkan perlu oleh Ketua Jabatan."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s03",
+      "order": 3,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 80.53333333333333,
+      "end_seconds": 119.8,
+      "visual": {
+        "description": "Prosedur Pegawai Pengelas",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Prosedur Pegawai Pengelas",
+        "Permohonan dengan pengesahan Ketua Jabatan",
+        "Selepas dilantik: borang maklumat pegawai",
+        "KPKK 9 + salinan sijil: dalam 30 hari bekerja",
+        "Lulus tapisan keselamatan dan ikuti kursus CGSO"
+      ],
+      "narration": {
+        "text": "Untuk memohon, gunakan Borang Permohonan Pelantikan Pegawai Awam Sebagai Pegawai Pengelas, dengan pengesahan Ketua Jabatan. Selepas dilantik, lengkapkan borang maklumat pegawai yang telah dilantik di bawah seksyen dua B. Borang K P K K sembilan, bersama salinan sijil perakuan, perlu dikemukakan dalam tempoh tiga puluh hari bekerja dari sijil perakuan. Tarikh lantikan mengikut tarikh sijil perakuan lantikan oleh Menteri. Sumber turut menetapkan keperluan menjalani dan lulus tapisan keselamatan, serta kursus Pegawai Pengelas anjuran C G S O.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s03.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 3, 4",
+          "reference": "user_pdf",
+          "claim": "Untuk memohon, gunakan Borang Permohonan Pelantikan Pegawai Awam Sebagai Pegawai Pengelas, dengan pengesahan Ketua Jabatan. Selepas dilantik, lengkapkan borang maklumat pegawai yang telah dilantik di bawah seksyen dua B. Borang K P K K sembilan, bersama salinan sijil perakuan, perlu dikemukakan dalam tempoh tiga puluh hari bekerja dari sijil perakuan. Tarikh lantikan mengikut tarikh sijil perakuan lantikan oleh Menteri. Sumber turut menetapkan keperluan menjalani dan lulus tapisan keselamatan, serta kursus Pegawai Pengelas anjuran C G S O."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s04",
+      "order": 4,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 119.8,
+      "end_seconds": 159.16666666666666,
+      "visual": {
+        "description": "Pegawai Pengelas Semula",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Pegawai Pengelas Semula",
+        "Kuasa di bawah Seksyen 2C, Akta 88",
+        "UiTM Shah Alam: Naib Canselor; cawangan: Rektor",
+        "Selepas pengelasan semula, bahan terhenti menjadi rahsia rasmi"
+      ],
+      "narration": {
+        "text": "Kedua, Pegawai Pengelas Semula. Sumber menerangkan bahawa kuasa ini diberikan melalui seksyen dua C, Akta lapan puluh lapan, dan tidak memerlukan pelantikan. Dalam konteks yang dinyatakan, Ketua Agensi ialah Naib Canselor bagi Universiti Teknologi MARA Shah Alam, dan Rektor bagi cawangan. Peranan pegawai ini ialah mengelaskan semula suratan dalam Jadual kepada Akta tersebut, atau suratan rasmi, maklumat dan bahan yang telah dikelaskan. Selepas pengelasan semula, suratan, maklumat atau bahan berkenaan terhenti menjadi rahsia rasmi.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s04.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 2, 5",
+          "reference": "user_pdf",
+          "claim": "Kedua, Pegawai Pengelas Semula. Sumber menerangkan bahawa kuasa ini diberikan melalui seksyen dua C, Akta lapan puluh lapan, dan tidak memerlukan pelantikan. Dalam konteks yang dinyatakan, Ketua Agensi ialah Naib Canselor bagi Universiti Teknologi MARA Shah Alam, dan Rektor bagi cawangan. Peranan pegawai ini ialah mengelaskan semula suratan dalam Jadual kepada Akta tersebut, atau suratan rasmi, maklumat dan bahan yang telah dikelaskan. Selepas pengelasan semula, suratan, maklumat atau bahan berkenaan terhenti menjadi rahsia rasmi."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s05",
+      "order": 5,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 159.16666666666666,
+      "end_seconds": 204.7,
+      "visual": {
+        "description": "Pewakilan kuasa pengelasan semula",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Pewakilan kuasa pengelasan semula",
+        "Menurut Seksyen 5 dan 9, Akta 358",
+        "KPKK 9A bersama salinan Warta Kerajaan",
+        "Ketua Jabatan → Penasihat Undang-Undang → CGSO"
+      ],
+      "narration": {
+        "text": "Jika berkaitan, jabatan boleh menetapkan pegawai awam untuk menerima pewakilan kuasa Pegawai Pengelas Semula, menurut seksyen lima dan seksyen sembilan, Akta tiga ratus lima puluh lapan. Jawatan yang dinyatakan termasuk Timbalan Ketua Jabatan serta Ketua atau Pengarah Bahagian. Borang K P K K sembilan A dikemukakan bersama salinan Warta Kerajaan bagi maksud pewakilan kuasa. Urusan diselaraskan oleh Ketua Jabatan, disemak oleh Penasihat Undang-Undang Jabatan, kemudian diserahkan kepada C G S O. Pewakilan diperakukan oleh Menteri melalui Surat Pemberitahuan.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s05.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 2, 3",
+          "reference": "user_pdf",
+          "claim": "Jika berkaitan, jabatan boleh menetapkan pegawai awam untuk menerima pewakilan kuasa Pegawai Pengelas Semula, menurut seksyen lima dan seksyen sembilan, Akta tiga ratus lima puluh lapan. Jawatan yang dinyatakan termasuk Timbalan Ketua Jabatan serta Ketua atau Pengarah Bahagian. Borang K P K K sembilan A dikemukakan bersama salinan Warta Kerajaan bagi maksud pewakilan kuasa. Urusan diselaraskan oleh Ketua Jabatan, disemak oleh Penasihat Undang-Undang Jabatan, kemudian diserahkan kepada C G S O. Pewakilan diperakukan oleh Menteri melalui Surat Pemberitahuan."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s06",
+      "order": 6,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 204.7,
+      "end_seconds": 244.26666666666668,
+      "visual": {
+        "description": "Pendaftar Rahsia dan Pendaftar Kecil Rahsia",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Pendaftar Rahsia dan Pendaftar Kecil Rahsia",
+        "Pendaftar Rahsia: mengurus Buku Daftar Rahsia Rasmi",
+        "Pendaftar Kecil Rahsia: mengurus fail terperingkat",
+        "Gred 1 ke atas; dilantik Ketua Jabatan/Bahagian/Unit"
+      ],
+      "narration": {
+        "text": "Seterusnya, Pendaftar Rahsia mengurus Buku Daftar Rahsia Rasmi, termasuk pendaftaran, pengelasan semula dan edaran. Sumber lantikannya ialah perenggan lapan puluh satu, Arahan Keselamatan, Semakan dan Pindaan dua ribu tujuh belas. Pendaftar Kecil Rahsia pula mengurus fail terperingkat di Jabatan, Bahagian atau Unit. Sumber lantikannya ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Bagi kedua-dua peranan, pegawai yang dinyatakan ialah Gred satu ke atas yang berkenaan, dan pelantiknya ialah Ketua Jabatan, Bahagian atau Unit.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s06.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 5",
+          "reference": "user_pdf",
+          "claim": "Seterusnya, Pendaftar Rahsia mengurus Buku Daftar Rahsia Rasmi, termasuk pendaftaran, pengelasan semula dan edaran. Sumber lantikannya ialah perenggan lapan puluh satu, Arahan Keselamatan, Semakan dan Pindaan dua ribu tujuh belas. Pendaftar Kecil Rahsia pula mengurus fail terperingkat di Jabatan, Bahagian atau Unit. Sumber lantikannya ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Bagi kedua-dua peranan, pegawai yang dinyatakan ialah Gred satu ke atas yang berkenaan, dan pelantiknya ialah Ketua Jabatan, Bahagian atau Unit."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s07",
+      "order": 7,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 244.26666666666668,
+      "end_seconds": 280.8666666666667,
+      "visual": {
+        "description": "Pengurusan rekod terbuka",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Pengurusan rekod terbuka",
+        "PRJ: menyelia pengurusan fail; Gred 9 ke atas",
+        "Jika tiada, PRJ boleh dilantik daripada Gred 5 ke atas",
+        "PTRJ: mengurus pengurusan fail; Gred 1 ke atas",
+        "Pelantik kedua-duanya: Arkib Negara Malaysia"
+      ],
+      "narration": {
+        "text": "Bagi rekod terbuka, Pegawai Rekod Jabatan, atau P R J, menyelia pengurusan fail di Jabatan, Bahagian atau Unit. Pegawai yang dinyatakan ialah Gred sembilan ke atas. Jika tiada, pegawai Gred lima ke atas boleh dilantik. Pembantu Tadbir Rekod Jabatan, atau P T R J, pula mengurus pengurusan fail dan melibatkan pegawai Gred satu ke atas. Kedua-dua peranan merujuk Panduan Pengurusan Rekod Sektor Awam, Arkib Negara Malaysia, sebagai sumber lantikan. Pihak yang melantik kedua-duanya ialah Arkib Negara Malaysia.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s07.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 6",
+          "reference": "user_pdf",
+          "claim": "Bagi rekod terbuka, Pegawai Rekod Jabatan, atau P R J, menyelia pengurusan fail di Jabatan, Bahagian atau Unit. Pegawai yang dinyatakan ialah Gred sembilan ke atas. Jika tiada, pegawai Gred lima ke atas boleh dilantik. Pembantu Tadbir Rekod Jabatan, atau P T R J, pula mengurus pengurusan fail dan melibatkan pegawai Gred satu ke atas. Kedua-dua peranan merujuk Panduan Pengurusan Rekod Sektor Awam, Arkib Negara Malaysia, sebagai sumber lantikan. Pihak yang melantik kedua-duanya ialah Arkib Negara Malaysia."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s08",
+      "order": 8,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 280.8666666666667,
+      "end_seconds": 330.06666666666666,
+      "visual": {
+        "description": "Pembatalan dan rumusan",
+        "layout": "source_cards",
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "PENGURUSAN REKOD • RINGKASAN",
+        "Pembatalan dan rumusan",
+        "Perubahan jawatan atau penempatan; meninggalkan perkhidmatan",
+        "Pelanggaran peraturan/tatatertib atau tidak melaksanakan tugas",
+        "Pegawai Pengelas: serahkan kembali sijil kepada BARU/UAC",
+        "Kenal pasti peranan, kuasa dan borang yang berkaitan"
+      ],
+      "narration": {
+        "text": "Akhir sekali, sumber menyenaraikan pembatalan lantikan apabila berlaku perubahan jawatan atau penempatan, bersara, berhenti atau tamat perkhidmatan. Jadual pengurusan rekod turut menyenaraikan pelanggaran peraturan atau tatatertib, serta tidak melaksanakan tugas. Bagi Pegawai Pengelas, perubahan nama juga disenaraikan, bersama penyerahan kembali sijil perakuan kepada B A R U atau U A C. Bagi Pegawai Pengelas Semula dan penerima pewakilan, sumber menyebut pertukaran jabatan atau meninggalkan perkhidmatan. Sebagai rumusan, kenal pasti peranan, kuasa dan borang yang berkaitan supaya urusan pelantikan dapat difahami dengan jelas.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s08.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 3, 5, 6",
+          "reference": "user_pdf",
+          "claim": "Akhir sekali, sumber menyenaraikan pembatalan lantikan apabila berlaku perubahan jawatan atau penempatan, bersara, berhenti atau tamat perkhidmatan. Jadual pengurusan rekod turut menyenaraikan pelanggaran peraturan atau tatatertib, serta tidak melaksanakan tugas. Bagi Pegawai Pengelas, perubahan nama juga disenaraikan, bersama penyerahan kembali sijil perakuan kepada B A R U atau U A C. Bagi Pegawai Pengelas Semula dan penerima pewakilan, sumber menyebut pertukaran jabatan atau meninggalkan perkhidmatan. Sebagai rumusan, kenal pasti peranan, kuasa dan borang yang berkaitan supaya urusan pelantikan dapat difahami dengan jelas."
+        }
+      ],
+      "claim_ids": []
+    }
+  ],
+  "brand_reference": "assets/brand/brand-notes.md",
+  "palette": "assets/brand/palette.json"
+}

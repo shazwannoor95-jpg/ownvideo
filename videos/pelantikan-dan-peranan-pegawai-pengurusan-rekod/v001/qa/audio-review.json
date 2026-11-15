@@ -1,0 +1,10 @@
+{
+  "method": "PCM/WAV integrity, duration and loudness checks; script to PDF comparison.",
+  "synthetic_voice": "Ludo / gemini-3.8-flash-tts",
+  "human_listening_passed": false,
+  "pronunciation_verified": false,
+  "caption_alignment_verified": false,
+  "caption_method": "Estimated from script word weights and actual audio duration.",
+  "independent_asr": "Model download returned HTTP 403; unavailable.",
+  "notes": "No claim of human audio approval. Review pronunciation and caption sync before formal use."
+}

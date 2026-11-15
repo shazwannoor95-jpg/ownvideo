@@ -1,0 +1,137 @@
+{
+  "stage": "rendered_preview",
+  "samples_per_scene": 9,
+  "scenes": [
+    {
+      "id": "s01",
+      "sample_times": [
+        0.0,
+        1.583,
+        3.957,
+        9.892,
+        17.805,
+        25.718,
+        32.445,
+        37.588,
+        39.527
+      ],
+      "text_within_canvas": true,
+      "text_samples": 96
+    },
+    {
+      "id": "s02",
+      "sample_times": [
+        0.0,
+        1.639,
+        4.097,
+        10.242,
+        18.435,
+        26.628,
+        33.593,
+        38.918,
+        40.926
+      ],
+      "text_within_canvas": true,
+      "text_samples": 96
+    },
+    {
+      "id": "s03",
+      "sample_times": [
+        0.0,
+        1.571,
+        3.927,
+        9.817,
+        17.67,
+        25.523,
+        32.199,
+        37.303,
+        39.227
+      ],
+      "text_within_canvas": true,
+      "text_samples": 105
+    },
+    {
+      "id": "s04",
+      "sample_times": [
+        0.0,
+        1.575,
+        3.937,
+        9.842,
+        17.715,
+        25.588,
+        32.281,
+        37.398,
+        39.327
+      ],
+      "text_within_canvas": true,
+      "text_samples": 96
+    },
+    {
+      "id": "s05",
+      "sample_times": [
+        0.0,
+        1.821,
+        4.553,
+        11.383,
+        20.49,
+        29.597,
+        37.337,
+        43.257,
+        45.488
+      ],
+      "text_within_canvas": true,
+      "text_samples": 96
+    },
+    {
+      "id": "s06",
+      "sample_times": [
+        0.0,
+        1.583,
+        3.957,
+        9.892,
+        17.805,
+        25.718,
+        32.445,
+        37.588,
+        39.527
+      ],
+      "text_within_canvas": true,
+      "text_samples": 96
+    },
+    {
+      "id": "s07",
+      "sample_times": [
+        0.0,
+        1.464,
+        3.66,
+        9.15,
+        16.47,
+        23.79,
+        30.012,
+        34.77,
+        36.563
+      ],
+      "text_within_canvas": true,
+      "text_samples": 105
+    },
+    {
+      "id": "s08",
+      "sample_times": [
+        0.0,
+        1.968,
+        4.92,
+        12.3,
+        22.14,
+        31.98,
+        40.344,
+        46.74,
+        49.151
+      ],
+      "text_within_canvas": true,
+      "text_samples": 105
+    }
+  ],
+  "all_text_within_canvas": true,
+  "timing_basis": "actual_narration",
+  "note": "Text-bounds checks are supplemented by visual inspection."
+}
