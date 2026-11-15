@@ -1,0 +1,62 @@
+{
+  "scenes": [
+    {
+      "id": "s01",
+      "start_seconds": 0,
+      "end_seconds": 18.166666666666668,
+      "duration_seconds": 18.166666666666668,
+      "audio_seconds": 17.16
+    },
+    {
+      "id": "s02",
+      "start_seconds": 18.166666666666668,
+      "end_seconds": 54.833333333333336,
+      "duration_seconds": 36.666666666666664,
+      "audio_seconds": 35.64
+    },
+    {
+      "id": "s03",
+      "start_seconds": 54.833333333333336,
+      "end_seconds": 111.23333333333333,
+      "duration_seconds": 56.4,
+      "audio_seconds": 55.4
+    },
+    {
+      "id": "s04",
+      "start_seconds": 111.23333333333333,
+      "end_seconds": 160.9,
+      "duration_seconds": 49.666666666666664,
+      "audio_seconds": 48.64
+    },
+    {
+      "id": "s05",
+      "start_seconds": 160.9,
+      "end_seconds": 210.16666666666666,
+      "duration_seconds": 49.266666666666666,
+      "audio_seconds": 48.24
+    },
+    {
+      "id": "s06",
+      "start_seconds": 210.16666666666666,
+      "end_seconds": 252.1,
+      "duration_seconds": 41.93333333333333,
+      "audio_seconds": 40.92
+    },
+    {
+      "id": "s07",
+      "start_seconds": 252.1,
+      "end_seconds": 297.26666666666665,
+      "duration_seconds": 45.166666666666664,
+      "audio_seconds": 44.16
+    },
+    {
+      "id": "s08",
+      "start_seconds": 297.26666666666665,
+      "end_seconds": 313.8333333333333,
+      "duration_seconds": 16.566666666666666,
+      "audio_seconds": 15.56
+    }
+  ],
+  "duration_seconds": 313.8333333333333,
+  "basis": "measured real PCM WAV + 0.25s lead + 0.75s guard"
+}

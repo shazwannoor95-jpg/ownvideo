@@ -1,0 +1,6 @@
+{
+  "destination": "aistudio.google.com/generate-speech",
+  "status": "blocked",
+  "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://aistudio.google.com/generate-speech\n",
+  "ludo_generated": false
+}

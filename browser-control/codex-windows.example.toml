@@ -1,0 +1,6 @@
+# Example only. tools/setup-browser-control.ps1 finds Chrome and adds the section
+# to the LOCAL Windows Codex config without replacing other settings.
+[mcp_servers.chrome-devtools]
+command = "cmd"
+args = ["/d", "/c", "npx", "-y", "chrome-devtools-mcp@1.13.0", "--headless=false", "--no-usage-statistics", "--no-performance-crux"]
+startup_timeout_sec = 60
