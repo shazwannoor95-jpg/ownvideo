@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "title": "Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai",
+  "output_file": "ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v003.mp4",
+  "duration_seconds": 330.06666666666666,
+  "fps": 30,
+  "default_voice": "Google AI Studio / Ludo",
+  "chapters": [
+    {
+      "id": "pegawai_pengelas",
+      "order": 1,
+      "title": "Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai",
+      "scene_ids": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s05",
+        "s06",
+        "s07",
+        "s08"
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "order": 1,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 0.0,
+      "end_seconds": 17.933333333333334,
+      "visual": {
+        "description": "Enam pelantikan • satu ringkasan",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pembukaan",
+        "Enam pelantikan • satu ringkasan",
+        "DOKUMEN RAHSIA RASMI",
+        "Pengelas Semula • Pengelas • Pendaftar Rahsia • Pendaftar Kecil Rahsia"
+      ],
+      "narration": {
+        "text": "Enam pelantikan menyokong pengurusan rekod dan dokumen rasmi di Universiti Teknologi MARA. Ringkasan ini menerangkan tugas utama, kelayakan, borang dan urutan tindakan, dengan penyelarasan Bahagian Arkib Universiti, atau BARU.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s01.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 5, 6",
+          "reference": "user_pdf",
+          "claim": "Enam pelantikan menyokong pengurusan rekod dan dokumen rasmi di Universiti Teknologi MARA. Ringkasan ini menerangkan tugas utama, kelayakan, borang dan urutan tindakan, dengan penyelarasan Bahagian Arkib Universiti, atau BARU."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Enam pelantikan menyokong pengurusan rekod dan dokumen rasmi di Universiti Teknologi MARA. Ringkasan ini menerangkan tugas utama, kelayakan, borang dan urutan tindakan, dengan penyelarasan Bahagian Arkib Universiti, atau BARU."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s02",
+      "order": 2,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 17.933333333333334,
+      "end_seconds": 61.06666666666667,
+      "visual": {
+        "description": "Kuasa untuk mengelaskan semula",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pegawai Pengelas Semula",
+        "Kuasa untuk mengelaskan semula",
+        "Seksyen 2C • Akta Rahsia Rasmi 1972",
+        "Naib Canselor: UiTM Shah Alam | Rektor: UiTM Cawangan"
+      ],
+      "narration": {
+        "text": "Pegawai Pengelas Semula mengelaskan semula suratan, maklumat atau bahan yang telah dikelaskan. Selepas pengelasan semula, bahan berkenaan terhenti menjadi rahsia rasmi. Kuasa langsung diberikan melalui seksyen dua C, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua. Bagi konteks dalam sumber, Naib Canselor bertindak bagi Shah Alam, manakala Rektor bagi cawangan. Kuasa langsung tidak memerlukan pelantikan berasingan. Jika kuasa diwakilkan, Borang K P K K sembilan A bersama salinan Warta Kerajaan digunakan. Aliran permohonan khusus melalui BARU tidak dibekalkan.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s02.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 2, 3",
+          "reference": "user_pdf",
+          "claim": "Pegawai Pengelas Semula mengelaskan semula suratan, maklumat atau bahan yang telah dikelaskan. Selepas pengelasan semula, bahan berkenaan terhenti menjadi rahsia rasmi. Kuasa langsung diberikan melalui seksyen dua C, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua. Bagi konteks dalam sumber, Naib Canselor bertindak bagi Shah Alam, manakala Rektor bagi cawangan. Kuasa langsung tidak memerlukan pelantikan berasingan. Jika kuasa diwakilkan, Borang K P K K sembilan A bersama salinan Warta Kerajaan digunakan. Aliran permohonan khusus melalui BARU tidak dibekalkan."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Pegawai Pengelas Semula mengelaskan semula suratan, maklumat atau bahan yang telah dikelaskan. Selepas pengelasan semula, bahan berkenaan terhenti menjadi rahsia rasmi. Kuasa langsung diberikan melalui seksyen dua C, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua. Bagi konteks dalam sumber, Naib Canselor bertindak bagi Shah Alam, manakala Rektor bagi cawangan. Kuasa langsung tidak memerlukan pelantikan berasingan. Jika kuasa diwakilkan, Borang K P K K sembilan A bersama salinan Warta Kerajaan digunakan. Aliran permohonan khusus melalui BARU tidak dibekalkan."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s03",
+      "order": 3,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 61.06666666666667,
+      "end_seconds": 128.33333333333334,
+      "visual": {
+        "description": "Pengelasan dokumen dan urusan pelantikan",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pegawai Pengelas",
+        "Pengelasan dokumen dan urusan pelantikan",
+        "Rahsia Besar • Rahsia • Sulit • Terhad",
+        "Pelantik: Menteri Pendidikan Tinggi | Seksyen 2B, Akta 88"
+      ],
+      "narration": {
+        "text": "Pegawai Pengelas mengelaskan perkara rasmi, maklumat atau bahan sebagai Rahsia Besar, Rahsia, Sulit atau Terhad. Pelantiknya ialah Menteri Pendidikan Tinggi, di bawah seksyen dua B, Akta Rahsia Rasmi. Jawatan yang dinyatakan termasuk Ketua Jabatan, Timbalan Ketua Jabatan, Ketua Bahagian dan pegawai awam lain yang difikirkan perlu. Untuk urusan permohonan, pusat tanggungjawab menyediakan Borang Pelantikan Seksyen dua B dan dua salinan Borang K P K K sembilan. Carta alir bergerak daripada pusat tanggungjawab kepada BARU, kemudian Jabatan Pendidikan Tinggi, kembali kepada BARU dan seterusnya pegawai dilantik. Sijil pelantikan turut dipaparkan sebagai dokumen penting. Selepas itu, pemakluman dibuat kepada C G S O. PDF menetapkan Borang K P K K sembilan bersama salinan sijil dalam tempoh tiga puluh hari bekerja dari sijil perakuan. Pegawai juga perlu lulus tapisan keselamatan dan mengikuti kursus anjuran C G S O.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s03.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 2, 3, 4, 5",
+          "reference": "user_pdf",
+          "claim": "Pegawai Pengelas mengelaskan perkara rasmi, maklumat atau bahan sebagai Rahsia Besar, Rahsia, Sulit atau Terhad. Pelantiknya ialah Menteri Pendidikan Tinggi, di bawah seksyen dua B, Akta Rahsia Rasmi. Jawatan yang dinyatakan termasuk Ketua Jabatan, Timbalan Ketua Jabatan, Ketua Bahagian dan pegawai awam lain yang difikirkan perlu. Untuk urusan permohonan, pusat tanggungjawab menyediakan Borang Pelantikan Seksyen dua B dan dua salinan Borang K P K K sembilan. Carta alir bergerak daripada pusat tanggungjawab kepada BARU, kemudian Jabatan Pendidikan Tinggi, kembali kepada BARU dan seterusnya pegawai dilantik. Sijil pelantikan turut dipaparkan sebagai dokumen penting. Selepas itu, pemakluman dibuat kepada C G S O. PDF menetapkan Borang K P K K sembilan bersama salinan sijil dalam tempoh tiga puluh hari bekerja dari sijil perakuan. Pegawai juga perlu lulus tapisan keselamatan dan mengikuti kursus anjuran C G S O."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Pegawai Pengelas mengelaskan perkara rasmi, maklumat atau bahan sebagai Rahsia Besar, Rahsia, Sulit atau Terhad. Pelantiknya ialah Menteri Pendidikan Tinggi, di bawah seksyen dua B, Akta Rahsia Rasmi. Jawatan yang dinyatakan termasuk Ketua Jabatan, Timbalan Ketua Jabatan, Ketua Bahagian dan pegawai awam lain yang difikirkan perlu. Untuk urusan permohonan, pusat tanggungjawab menyediakan Borang Pelantikan Seksyen dua B dan dua salinan Borang K P K K sembilan. Carta alir bergerak daripada pusat tanggungjawab kepada BARU, kemudian Jabatan Pendidikan Tinggi, kembali kepada BARU dan seterusnya pegawai dilantik. Sijil pelantikan turut dipaparkan sebagai dokumen penting. Selepas itu, pemakluman dibuat kepada C G S O. PDF menetapkan Borang K P K K sembilan bersama salinan sijil dalam tempoh tiga puluh hari bekerja dari sijil perakuan. Pegawai juga perlu lulus tapisan keselamatan dan mengikuti kursus anjuran C G S O."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s04",
+      "order": 4,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 128.33333333333334,
+      "end_seconds": 180.56666666666666,
+      "visual": {
+        "description": "Menyelia pengurusan fail",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pegawai Rekod Jabatan — PRJ",
+        "Menyelia pengurusan fail",
+        "Tugas: menyelia pengurusan fail",
+        "Jabatan • Bahagian • Unit"
+      ],
+      "narration": {
+        "text": "Pegawai Rekod Jabatan, atau P R J, menyelia pengurusan fail di jabatan, bahagian atau unit. PDF menyatakan pegawai Gred sembilan dan ke atas. Jika tiada, pegawai Gred lima dan ke atas boleh dilantik. Pihak pelantik yang dinyatakan ialah Arkib Negara Malaysia, atau A N M. Sumber lantikannya merujuk Panduan Pengurusan Rekod Sektor Awam. Bagi prosedur dalam brief projek ini, gunakan Borang S K L lapan. Urutan permohonan ialah pusat tanggungjawab, BARU, A N M, kembali kepada BARU dan kemudian pegawai dilantik. Visual membezakan pihak pemohon, penyelaras dan agensi yang terlibat. Dengan melihat carta alir ini, urutan tindakan dapat difahami tanpa membaca semua butiran serentak.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s04.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 6",
+          "reference": "user_pdf",
+          "claim": "Pegawai Rekod Jabatan, atau P R J, menyelia pengurusan fail di jabatan, bahagian atau unit. PDF menyatakan pegawai Gred sembilan dan ke atas. Jika tiada, pegawai Gred lima dan ke atas boleh dilantik. Pihak pelantik yang dinyatakan ialah Arkib Negara Malaysia, atau A N M. Sumber lantikannya merujuk Panduan Pengurusan Rekod Sektor Awam. Bagi prosedur dalam brief projek ini, gunakan Borang S K L lapan. Urutan permohonan ialah pusat tanggungjawab, BARU, A N M, kembali kepada BARU dan kemudian pegawai dilantik. Visual membezakan pihak pemohon, penyelaras dan agensi yang terlibat. Dengan melihat carta alir ini, urutan tindakan dapat difahami tanpa membaca semua butiran serentak."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Pegawai Rekod Jabatan, atau P R J, menyelia pengurusan fail di jabatan, bahagian atau unit. PDF menyatakan pegawai Gred sembilan dan ke atas. Jika tiada, pegawai Gred lima dan ke atas boleh dilantik. Pihak pelantik yang dinyatakan ialah Arkib Negara Malaysia, atau A N M. Sumber lantikannya merujuk Panduan Pengurusan Rekod Sektor Awam. Bagi prosedur dalam brief projek ini, gunakan Borang S K L lapan. Urutan permohonan ialah pusat tanggungjawab, BARU, A N M, kembali kepada BARU dan kemudian pegawai dilantik. Visual membezakan pihak pemohon, penyelaras dan agensi yang terlibat. Dengan melihat carta alir ini, urutan tindakan dapat difahami tanpa membaca semua butiran serentak."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s05",
+      "order": 5,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 180.56666666666666,
+      "end_seconds": 225.7,
+      "visual": {
+        "description": "Mengurus pengurusan fail",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pembantu Tadbir Rekod Jabatan — PTRJ",
+        "Mengurus pengurusan fail",
+        "Gred 1 ke atas",
+        "Pelantik: Arkib Negara Malaysia"
+      ],
+      "narration": {
+        "text": "Pembantu Tadbir Rekod Jabatan, atau P T R J, mengurus pengurusan fail di jabatan, bahagian atau unit. Kelayakan yang dinyatakan ialah Gred satu dan ke atas. Seperti P R J, pihak pelantiknya dalam PDF ialah Arkib Negara Malaysia. Panduan Pengurusan Rekod Sektor Awam menjadi sumber lantikan. Prosedur dalam brief menggunakan Borang S K L lapan dan carta alir yang sama: pusat tanggungjawab kepada BARU, kemudian A N M, kembali melalui BARU kepada pegawai dilantik. Perbezaan utama yang perlu diingat ialah P R J menyelia, manakala P T R J mengurus pengurusan fail.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s05.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 6",
+          "reference": "user_pdf",
+          "claim": "Pembantu Tadbir Rekod Jabatan, atau P T R J, mengurus pengurusan fail di jabatan, bahagian atau unit. Kelayakan yang dinyatakan ialah Gred satu dan ke atas. Seperti P R J, pihak pelantiknya dalam PDF ialah Arkib Negara Malaysia. Panduan Pengurusan Rekod Sektor Awam menjadi sumber lantikan. Prosedur dalam brief menggunakan Borang S K L lapan dan carta alir yang sama: pusat tanggungjawab kepada BARU, kemudian A N M, kembali melalui BARU kepada pegawai dilantik. Perbezaan utama yang perlu diingat ialah P R J menyelia, manakala P T R J mengurus pengurusan fail."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Pembantu Tadbir Rekod Jabatan, atau P T R J, mengurus pengurusan fail di jabatan, bahagian atau unit. Kelayakan yang dinyatakan ialah Gred satu dan ke atas. Seperti P R J, pihak pelantiknya dalam PDF ialah Arkib Negara Malaysia. Panduan Pengurusan Rekod Sektor Awam menjadi sumber lantikan. Prosedur dalam brief menggunakan Borang S K L lapan dan carta alir yang sama: pusat tanggungjawab kepada BARU, kemudian A N M, kembali melalui BARU kepada pegawai dilantik. Perbezaan utama yang perlu diingat ialah P R J menyelia, manakala P T R J mengurus pengurusan fail."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s06",
+      "order": 6,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 225.7,
+      "end_seconds": 268.53333333333336,
+      "visual": {
+        "description": "Buku Daftar Rahsia Rasmi",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pendaftar Rahsia",
+        "Buku Daftar Rahsia Rasmi",
+        "Gred 1 ke atas yang berkenaan",
+        "Pelantik: Ketua Jabatan / Bahagian / Unit"
+      ],
+      "narration": {
+        "text": "Pendaftar Rahsia mengurus Buku Daftar Rahsia Rasmi, termasuk pendaftaran, pengelasan semula dan edaran. Pegawai yang dinyatakan ialah Gred satu dan ke atas yang berkenaan, dengan pelantikan oleh Ketua Jabatan, Bahagian atau Unit. Brief projek menetapkan pelantikan melalui surat rasmi, berasaskan perenggan tujuh puluh sembilan Arahan Keselamatan. Perenggan lapan puluh satu berkaitan tanggungjawab menyelia Bahagian Pendaftaran Rahsia. Untuk pemakluman, gunakan Borang K P K K dua puluh dua. Prosedur terperinci penghantaran melalui BARU tidak dibekalkan; oleh itu, tiada langkah tambahan dimasukkan dalam carta alir ini.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s06.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 5",
+          "reference": "user_pdf",
+          "claim": "Pendaftar Rahsia mengurus Buku Daftar Rahsia Rasmi, termasuk pendaftaran, pengelasan semula dan edaran. Pegawai yang dinyatakan ialah Gred satu dan ke atas yang berkenaan, dengan pelantikan oleh Ketua Jabatan, Bahagian atau Unit. Brief projek menetapkan pelantikan melalui surat rasmi, berasaskan perenggan tujuh puluh sembilan Arahan Keselamatan. Perenggan lapan puluh satu berkaitan tanggungjawab menyelia Bahagian Pendaftaran Rahsia. Untuk pemakluman, gunakan Borang K P K K dua puluh dua. Prosedur terperinci penghantaran melalui BARU tidak dibekalkan; oleh itu, tiada langkah tambahan dimasukkan dalam carta alir ini."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Pendaftar Rahsia mengurus Buku Daftar Rahsia Rasmi, termasuk pendaftaran, pengelasan semula dan edaran. Pegawai yang dinyatakan ialah Gred satu dan ke atas yang berkenaan, dengan pelantikan oleh Ketua Jabatan, Bahagian atau Unit. Brief projek menetapkan pelantikan melalui surat rasmi, berasaskan perenggan tujuh puluh sembilan Arahan Keselamatan. Perenggan lapan puluh satu berkaitan tanggungjawab menyelia Bahagian Pendaftaran Rahsia. Untuk pemakluman, gunakan Borang K P K K dua puluh dua. Prosedur terperinci penghantaran melalui BARU tidak dibekalkan; oleh itu, tiada langkah tambahan dimasukkan dalam carta alir ini."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s07",
+      "order": 7,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 268.53333333333336,
+      "end_seconds": 309.23333333333335,
+      "visual": {
+        "description": "Mengurus fail terperingkat",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Pendaftar Kecil Rahsia",
+        "Mengurus fail terperingkat",
+        "Gred 1 ke atas yang berkenaan",
+        "Pelantik: Ketua Jabatan / Bahagian / Unit"
+      ],
+      "narration": {
+        "text": "Pendaftar Kecil Rahsia mengurus fail terperingkat di jabatan, bahagian atau unit. Pegawai Gred satu dan ke atas yang berkenaan dilantik oleh Ketua Jabatan, Bahagian atau Unit. Sumber lantikannya ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Prosedur yang diberikan dalam brief bergerak daripada Ketua Jabatan kepada pusat tanggungjawab, BARU dan seterusnya C G S O. Borang yang dipaparkan ialah K P K K dua puluh dua. Aliran ini diringkaskan secara visual supaya hubungan antara pelantikan dan pemakluman mudah diikuti.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s07.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 5",
+          "reference": "user_pdf",
+          "claim": "Pendaftar Kecil Rahsia mengurus fail terperingkat di jabatan, bahagian atau unit. Pegawai Gred satu dan ke atas yang berkenaan dilantik oleh Ketua Jabatan, Bahagian atau Unit. Sumber lantikannya ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Prosedur yang diberikan dalam brief bergerak daripada Ketua Jabatan kepada pusat tanggungjawab, BARU dan seterusnya C G S O. Borang yang dipaparkan ialah K P K K dua puluh dua. Aliran ini diringkaskan secara visual supaya hubungan antara pelantikan dan pemakluman mudah diikuti."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Pendaftar Kecil Rahsia mengurus fail terperingkat di jabatan, bahagian atau unit. Pegawai Gred satu dan ke atas yang berkenaan dilantik oleh Ketua Jabatan, Bahagian atau Unit. Sumber lantikannya ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Prosedur yang diberikan dalam brief bergerak daripada Ketua Jabatan kepada pusat tanggungjawab, BARU dan seterusnya C G S O. Borang yang dipaparkan ialah K P K K dua puluh dua. Aliran ini diringkaskan secara visual supaya hubungan antara pelantikan dan pemakluman mudah diikuti."
+        }
+      ],
+      "claim_ids": []
+    },
+    {
+      "id": "s08",
+      "order": 8,
+      "chapter_id": "pegawai_pengelas",
+      "start_seconds": 309.23333333333335,
+      "end_seconds": 330.06666666666666,
+      "visual": {
+        "description": "Peranan jelas • urusan teratur",
+        "layout": null,
+        "motion": "Layered vector, text and process-diagram animation with eased transitions."
+      },
+      "on_screen_text": [
+        "Penutup",
+        "Peranan jelas • urusan teratur",
+        "Kenal pasti peranan dan kelayakan",
+        "Gunakan borang yang berkaitan"
+      ],
+      "narration": {
+        "text": "Kenal pasti peranan dan kelayakan, gunakan borang yang berkaitan, serta ikuti urutan tindakan yang diberikan. Enam pelantikan ini meliputi pengelasan, pengelasan semula, pendaftaran rahsia dan pengurusan rekod terbuka. Bahagian Arkib Universiti, Universiti Teknologi MARA.",
+        "voice_id": "Google AI Studio / Ludo",
+        "audio_file": "audio/s08.wav",
+        "offset_seconds": 0.25
+      },
+      "transition_in": {
+        "type": "cut"
+      },
+      "requires_source": true,
+      "sources": [
+        {
+          "id": "user_pdf",
+          "title": "video unit konsultasi (1).pdf",
+          "path": "source/video-unit-konsultasi.pdf",
+          "packaged_path": "source/video-unit-konsultasi.pdf",
+          "source": "user_pdf",
+          "section": "Halaman PDF 5, 6",
+          "reference": "user_pdf",
+          "claim": "Kenal pasti peranan dan kelayakan, gunakan borang yang berkaitan, serta ikuti urutan tindakan yang diberikan. Enam pelantikan ini meliputi pengelasan, pengelasan semula, pendaftaran rahsia dan pengurusan rekod terbuka. Bahagian Arkib Universiti, Universiti Teknologi MARA."
+        },
+        {
+          "id": "user_brief",
+          "title": "MASTER PROMPT pengguna",
+          "path": "source/master-prompt.md",
+          "source": "user_brief",
+          "section": "Seksyen 4–7",
+          "reference": "user_brief",
+          "claim": "Kenal pasti peranan dan kelayakan, gunakan borang yang berkaitan, serta ikuti urutan tindakan yang diberikan. Enam pelantikan ini meliputi pengelasan, pengelasan semula, pendaftaran rahsia dan pengurusan rekod terbuka. Bahagian Arkib Universiti, Universiti Teknologi MARA."
+        }
+      ],
+      "claim_ids": []
+    }
+  ],
+  "brand_reference": "assets/brand/brand-notes.md",
+  "palette": "assets/brand/palette.json"
+}

@@ -1,0 +1,83 @@
+{
+  "provider": "Gemini API",
+  "voice": "Ludo",
+  "synthetic": true,
+  "sdk": "google-genai 2.34.0",
+  "tempo_factor": 0.8804938271604937,
+  "clips": [
+    {
+      "id": "s01",
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Ludo",
+      "raw_sha256": "d0cbc9948c351d61ac0046213194544222af6702a916cea45bbbabe6ff1ac085",
+      "audio_seconds": 17.15175,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 12
+    },
+    {
+      "id": "s02",
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Ludo",
+      "raw_sha256": "826edfc0669130f6ac7b3f5b360add0a89c1aa169432cba5d7de79a10d073b4b",
+      "audio_seconds": 42.36675,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 28
+    },
+    {
+      "id": "s03",
+      "model": "gemini-3.8-flash-tts",
+      "voice": "Ludo",
+      "raw_sha256": "5bc88c84bb2025db3c5cfb6906e62339739da5a2866ee017dd529a7decbc0296",
+      "audio_seconds": 66.49116666666667,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 37
+    },
+    {
+      "id": "s04",
+      "model": "gemini-3.8-flash-lite-tts",
+      "voice": "Ludo",
+      "raw_sha256": "4c82da56ef05b8e03c4b47601c912afb78957d2b1ceafe537ed38c8615585d32",
+      "audio_seconds": 51.46,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 34
+    },
+    {
+      "id": "s05",
+      "model": "gemini-3.8-flash-lite-tts",
+      "voice": "Ludo",
+      "raw_sha256": "7f85198b271cdd621bd98d56cdad7a3058d378b36d4aad58a5d94e8d67eb2f2e",
+      "audio_seconds": 44.372083333333336,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 17
+    },
+    {
+      "id": "s06",
+      "model": "gemini-3.8-flash-lite-tts",
+      "voice": "Ludo",
+      "raw_sha256": "d401b656f11be6fc4bea7052926c6461b33429d4b625e9e30bf5d681b3c88b67",
+      "audio_seconds": 42.051375,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 19
+    },
+    {
+      "id": "s07",
+      "model": "gemini-3.8-flash-lite-tts",
+      "voice": "Ludo",
+      "raw_sha256": "1e608c452db8e0bf9fd642b4cd3a67141c075927c6eeb0b280da32e02a0f792f",
+      "audio_seconds": 39.929208333333335,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 17
+    },
+    {
+      "id": "s08",
+      "model": "gemini-3.8-flash-lite-tts",
+      "voice": "Ludo",
+      "raw_sha256": "4bbdff749ad2a53a85d5fb393da32ca17f2a1c97963e3e3f3256346fa840ea43",
+      "audio_seconds": 20.067416666666666,
+      "sentence_boundary_method": "weighted script position snapped to measured silences within 1.1 seconds; estimated, not human verified",
+      "detected_silence_count": 13
+    }
+  ],
+  "human_listening_verified": false,
+  "subtitle_alignment_verified": false
+}

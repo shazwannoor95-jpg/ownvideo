@@ -1,0 +1,256 @@
+{
+  "checked_at_utc": "2026-11-15T06:42:46.742840+00:00",
+  "file": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v003/outputs/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v003.mp4",
+  "bytes": 13468284,
+  "sha256": "89a9d38570fb3adba515529dae1d98710ac5772037b62eea489d8e6fe30d430f",
+  "duration_seconds": 330.06666666666666,
+  "duration_frames": 9902,
+  "scene_count": 8,
+  "checks": {
+    "h264": true,
+    "aac": true,
+    "1920x1080": true,
+    "30fps": true,
+    "yuv420p": true,
+    "frame_count": true,
+    "duration": true,
+    "stereo_48khz": true,
+    "complete_decode": true,
+    "loudness_within_1_lu": true,
+    "true_peak_below_minus_1_db": true
+  },
+  "technical_checks_passed": true,
+  "ffprobe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 5069824,
+        "duration": "330.066667",
+        "bit_rate": "123522",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "9902",
+        "extradata_size": 45,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 15843168,
+        "duration": "330.066000",
+        "bit_rate": "194082",
+        "nb_frames": "15473",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v003/outputs/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v003.partial.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "330.066667",
+      "size": "13468284",
+      "bit_rate": "326437",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai",
+        "encoder": "Lavf61.7.103",
+        "comment": "Google AI Studio / Ludo"
+      }
+    }
+  },
+  "final_audio_measurements": {
+    "input_i": "-16.03",
+    "input_tp": "-3.03",
+    "input_lra": "3.60",
+    "input_thresh": "-26.66",
+    "output_i": "-16.10",
+    "output_tp": "-3.08",
+    "output_lra": "3.40",
+    "output_thresh": "-26.72",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "mix_measurements_before_mastering": {
+    "input_i": "-15.39",
+    "input_tp": "-2.27",
+    "input_lra": "3.50",
+    "input_thresh": "-26.01",
+    "output_i": "-16.10",
+    "output_tp": "-3.02",
+    "output_lra": "3.40",
+    "output_thresh": "-26.72",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "decode_log": "",
+  "voice_provider": "Google AI Studio / Ludo",
+  "voice_clip_hashes": {
+    "s01": "dd3c3a5691600aca05710419d983c1a38005963353d2e7079edc7042fd474312",
+    "s02": "3fb9d95af9402f86a4bd7d984ed46c10c7f4d1ae56abf7d691643266e1b28b10",
+    "s03": "2a739f9716950609695b00b771f4cf2fa7e20b392d4ddebb920948285229229b",
+    "s04": "94a1a64a29d72feb8c3f87cbca941e21c7abc00d447409d9eabb9fc1adce8ca1",
+    "s05": "a1549bb9f6061e254030532d06f6d1099f1cf625122a7b00ce2a82370ffb909d",
+    "s06": "3eab4fdd28b5578a8ec57f83da33f4417ef6857e7fd07edcf80b4b9d410da03f",
+    "s07": "6cb03720e03b8a6d10d3857e57e0c2851b298415657f96f92e1d8bd80c5f3bca",
+    "s08": "c710e44359c82f32bcad766adaa34e41c21fec5932a05ab4e4992b6523b22761"
+  },
+  "render_provenance": {
+    "s01": {
+      "scene_id": "s01",
+      "visual_signature": "14431319e677bf90707f59d0c9d763560c1eec8b0dd832cb1d26229794aeb255",
+      "output_sha256": "5ced371a9e2a59490db3ebda0cf28e7c6db951b5f15de93e9b215ad874989ba5",
+      "duration_frames": 538
+    },
+    "s02": {
+      "scene_id": "s02",
+      "visual_signature": "55144d61bf3dbc0b1b845c3f63bf765b8d32d7d23ee8ef20d0ca5ecafc2ec701",
+      "output_sha256": "d54974748a9385b339d9d92523b6a11742e50f6bf1c6017846ee04ab5c4c7452",
+      "duration_frames": 1294
+    },
+    "s03": {
+      "scene_id": "s03",
+      "visual_signature": "096edf3666a949007af4d868ceda98e4d07136c6fb809ba097c3ced07b52e8b8",
+      "output_sha256": "3de048fbc856099fc332c6312dbdf8c5a44946705daeb46ac31e2301f05f925c",
+      "duration_frames": 2018
+    },
+    "s04": {
+      "scene_id": "s04",
+      "visual_signature": "cb4374a8ce28fecc7e99d910ddb988125f2c6c99c589cf52d0c38f8ec39a6deb",
+      "output_sha256": "00683f52be7b37830c1dd6419b63c84822948ddc4c1a0a44360ca9805f2aa0c1",
+      "duration_frames": 1567
+    },
+    "s05": {
+      "scene_id": "s05",
+      "visual_signature": "11c2a2d9255f8d937822e753f81052327d9e97690547eebfb4ed12932272d334",
+      "output_sha256": "34b6b7c872f65d7e5f49f8afd0e6041d9e084c5afbef4aebe441a93867925bc4",
+      "duration_frames": 1354
+    },
+    "s06": {
+      "scene_id": "s06",
+      "visual_signature": "5c80b09417360c704d8ceb0d919f6915c55b61c3f4eac361489502dcf12beab1",
+      "output_sha256": "98dc49e24cb4c9e831f17e04d0c0ba61cbb8b72f4d1974993e4ec29946c3fec7",
+      "duration_frames": 1285
+    },
+    "s07": {
+      "scene_id": "s07",
+      "visual_signature": "18cc8c2176ff8bb96ad35a85081785af9e67b76e5ecd80c988c3357162bf1baa",
+      "output_sha256": "22e56f3dd387b67129ec7025b58f6a9d274acdf2ef89439b60e6af330bbd587a",
+      "duration_frames": 1221
+    },
+    "s08": {
+      "scene_id": "s08",
+      "visual_signature": "af4e3454042eb7454b621bf4d04893be006f007c47ab5375888e0bf2b14cb3a1",
+      "output_sha256": "6d7e8a10ea26b7cef42d87a7d9b8d4cd5491c38b74a4fa8858877ad9f4e727a3",
+      "duration_frames": 625
+    }
+  },
+  "review_limit": "Automated technical verification does not establish factual accuracy or perfect pronunciation. Refer to the separate content, visual and audio transcript reviews.",
+  "audio_content_review": {
+    "technical_audio_integrity": "WAV PCM verified; actual durations measured",
+    "voice": "Ludo (configured in all API calls)",
+    "human_pronunciation_verified": false,
+    "independent_transcription": "Unavailable in this environment",
+    "caption_alignment": "Estimated using measured silence boundaries and script weights; not human verified"
+  }
+}

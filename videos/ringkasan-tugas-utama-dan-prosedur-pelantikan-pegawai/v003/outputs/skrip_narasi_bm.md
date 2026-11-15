@@ -1,0 +1,33 @@
+# Skrip Narasi BM
+
+## s01 — Pembukaan
+
+Enam pelantikan menyokong pengurusan rekod dan dokumen rasmi di Universiti Teknologi MARA. Ringkasan ini menerangkan tugas utama, kelayakan, borang dan urutan tindakan, dengan penyelarasan Bahagian Arkib Universiti, atau BARU.
+
+## s02 — Pegawai Pengelas Semula
+
+Pegawai Pengelas Semula mengelaskan semula suratan, maklumat atau bahan yang telah dikelaskan. Selepas pengelasan semula, bahan berkenaan terhenti menjadi rahsia rasmi. Kuasa langsung diberikan melalui seksyen dua C, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua. Bagi konteks dalam sumber, Naib Canselor bertindak bagi Shah Alam, manakala Rektor bagi cawangan. Kuasa langsung tidak memerlukan pelantikan berasingan. Jika kuasa diwakilkan, Borang K P K K sembilan A bersama salinan Warta Kerajaan digunakan. Aliran permohonan khusus melalui BARU tidak dibekalkan.
+
+## s03 — Pegawai Pengelas
+
+Pegawai Pengelas mengelaskan perkara rasmi, maklumat atau bahan sebagai Rahsia Besar, Rahsia, Sulit atau Terhad. Pelantiknya ialah Menteri Pendidikan Tinggi, di bawah seksyen dua B, Akta Rahsia Rasmi. Jawatan yang dinyatakan termasuk Ketua Jabatan, Timbalan Ketua Jabatan, Ketua Bahagian dan pegawai awam lain yang difikirkan perlu. Untuk urusan permohonan, pusat tanggungjawab menyediakan Borang Pelantikan Seksyen dua B dan dua salinan Borang K P K K sembilan. Carta alir bergerak daripada pusat tanggungjawab kepada BARU, kemudian Jabatan Pendidikan Tinggi, kembali kepada BARU dan seterusnya pegawai dilantik. Sijil pelantikan turut dipaparkan sebagai dokumen penting. Selepas itu, pemakluman dibuat kepada C G S O. PDF menetapkan Borang K P K K sembilan bersama salinan sijil dalam tempoh tiga puluh hari bekerja dari sijil perakuan. Pegawai juga perlu lulus tapisan keselamatan dan mengikuti kursus anjuran C G S O.
+
+## s04 — Pegawai Rekod Jabatan — PRJ
+
+Pegawai Rekod Jabatan, atau P R J, menyelia pengurusan fail di jabatan, bahagian atau unit. PDF menyatakan pegawai Gred sembilan dan ke atas. Jika tiada, pegawai Gred lima dan ke atas boleh dilantik. Pihak pelantik yang dinyatakan ialah Arkib Negara Malaysia, atau A N M. Sumber lantikannya merujuk Panduan Pengurusan Rekod Sektor Awam. Bagi prosedur dalam brief projek ini, gunakan Borang S K L lapan. Urutan permohonan ialah pusat tanggungjawab, BARU, A N M, kembali kepada BARU dan kemudian pegawai dilantik. Visual membezakan pihak pemohon, penyelaras dan agensi yang terlibat. Dengan melihat carta alir ini, urutan tindakan dapat difahami tanpa membaca semua butiran serentak.
+
+## s05 — Pembantu Tadbir Rekod Jabatan — PTRJ
+
+Pembantu Tadbir Rekod Jabatan, atau P T R J, mengurus pengurusan fail di jabatan, bahagian atau unit. Kelayakan yang dinyatakan ialah Gred satu dan ke atas. Seperti P R J, pihak pelantiknya dalam PDF ialah Arkib Negara Malaysia. Panduan Pengurusan Rekod Sektor Awam menjadi sumber lantikan. Prosedur dalam brief menggunakan Borang S K L lapan dan carta alir yang sama: pusat tanggungjawab kepada BARU, kemudian A N M, kembali melalui BARU kepada pegawai dilantik. Perbezaan utama yang perlu diingat ialah P R J menyelia, manakala P T R J mengurus pengurusan fail.
+
+## s06 — Pendaftar Rahsia
+
+Pendaftar Rahsia mengurus Buku Daftar Rahsia Rasmi, termasuk pendaftaran, pengelasan semula dan edaran. Pegawai yang dinyatakan ialah Gred satu dan ke atas yang berkenaan, dengan pelantikan oleh Ketua Jabatan, Bahagian atau Unit. Brief projek menetapkan pelantikan melalui surat rasmi, berasaskan perenggan tujuh puluh sembilan Arahan Keselamatan. Perenggan lapan puluh satu berkaitan tanggungjawab menyelia Bahagian Pendaftaran Rahsia. Untuk pemakluman, gunakan Borang K P K K dua puluh dua. Prosedur terperinci penghantaran melalui BARU tidak dibekalkan; oleh itu, tiada langkah tambahan dimasukkan dalam carta alir ini.
+
+## s07 — Pendaftar Kecil Rahsia
+
+Pendaftar Kecil Rahsia mengurus fail terperingkat di jabatan, bahagian atau unit. Pegawai Gred satu dan ke atas yang berkenaan dilantik oleh Ketua Jabatan, Bahagian atau Unit. Sumber lantikannya ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Prosedur yang diberikan dalam brief bergerak daripada Ketua Jabatan kepada pusat tanggungjawab, BARU dan seterusnya C G S O. Borang yang dipaparkan ialah K P K K dua puluh dua. Aliran ini diringkaskan secara visual supaya hubungan antara pelantikan dan pemakluman mudah diikuti.
+
+## s08 — Penutup
+
+Kenal pasti peranan dan kelayakan, gunakan borang yang berkaitan, serta ikuti urutan tindakan yang diberikan. Enam pelantikan ini meliputi pengelasan, pengelasan semula, pendaftaran rahsia dan pengurusan rekod terbuka. Bahagian Arkib Universiti, Universiti Teknologi MARA.

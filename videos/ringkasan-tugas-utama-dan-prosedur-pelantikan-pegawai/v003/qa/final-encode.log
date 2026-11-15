@@ -1,0 +1,91 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v003/rendered/silent-full.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Duration: 00:05:30.07, start: 0.000000, bitrate: 126 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 123 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+Input #1, wav, from '/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v003/audio/mix-before-mastering.wav':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Duration: 00:05:30.07, bitrate: 2304 kb/s
+  Stream #1:0: Audio: pcm_s24le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s32 (24 bit), 2304 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (pcm_s24le (native) -> aac (native))
+Output #0, mp4, to '/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v003/outputs/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v003.partial.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Google AI Studio / Ludo
+    title           : Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, q=2-31, 123 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 aac
+frame=  267 fps=0.0 q=-1.0 size=     256KiB time=00:00:08.70 bitrate= 241.0kbits/s speed=17.4x    
+frame=  549 fps=549 q=-1.0 size=     768KiB time=00:00:18.11 bitrate= 347.4kbits/s speed=18.1x    
+frame=  825 fps=550 q=-1.0 size=    1024KiB time=00:00:27.30 bitrate= 307.2kbits/s speed=18.2x    
+frame= 1082 fps=541 q=-1.0 size=    1280KiB time=00:00:35.88 bitrate= 292.2kbits/s speed=17.9x    
+frame= 1346 fps=538 q=-1.0 size=    1792KiB time=00:00:44.67 bitrate= 328.6kbits/s speed=17.9x    
+frame= 1627 fps=542 q=-1.0 size=    2048KiB time=00:00:54.03 bitrate= 310.5kbits/s speed=  18x    
+frame= 1892 fps=540 q=-1.0 size=    2560KiB time=00:01:02.89 bitrate= 333.5kbits/s speed=  18x    
+frame= 2133 fps=533 q=-1.0 size=    2816KiB time=00:01:10.91 bitrate= 325.3kbits/s speed=17.7x    
+frame= 2390 fps=531 q=-1.0 size=    3072KiB time=00:01:19.48 bitrate= 316.6kbits/s speed=17.7x    
+frame= 2647 fps=529 q=-1.0 size=    3584KiB time=00:01:28.04 bitrate= 333.5kbits/s speed=17.6x    
+frame= 2877 fps=523 q=-1.0 size=    3840KiB time=00:01:35.72 bitrate= 328.6kbits/s speed=17.4x    
+frame= 3084 fps=514 q=-1.0 size=    4096KiB time=00:01:42.61 bitrate= 327.0kbits/s speed=17.1x    
+frame= 3304 fps=508 q=-1.0 size=    4352KiB time=00:01:49.95 bitrate= 324.3kbits/s speed=16.9x    
+frame= 3471 fps=496 q=-1.0 size=    4608KiB time=00:01:55.52 bitrate= 326.8kbits/s speed=16.5x    
+frame= 3680 fps=490 q=-1.0 size=    4864KiB time=00:02:02.49 bitrate= 325.3kbits/s speed=16.3x    
+frame= 3961 fps=495 q=-1.0 size=    5120KiB time=00:02:11.84 bitrate= 318.1kbits/s speed=16.5x    
+frame= 4229 fps=497 q=-1.0 size=    5376KiB time=00:02:20.80 bitrate= 312.8kbits/s speed=16.6x    
+frame= 4471 fps=497 q=-1.0 size=    5888KiB time=00:02:28.84 bitrate= 324.1kbits/s speed=16.5x    
+frame= 4670 fps=491 q=-1.0 size=    6144KiB time=00:02:35.47 bitrate= 323.7kbits/s speed=16.4x    
+frame= 4948 fps=494 q=-1.0 size=    6400KiB time=00:02:44.75 bitrate= 318.2kbits/s speed=16.5x    
+frame= 5182 fps=493 q=-1.0 size=    6656KiB time=00:02:52.54 bitrate= 316.0kbits/s speed=16.4x    
+frame= 5461 fps=496 q=-1.0 size=    7168KiB time=00:03:01.86 bitrate= 322.9kbits/s speed=16.5x    
+frame= 5700 fps=495 q=-1.0 size=    7424KiB time=00:03:09.82 bitrate= 320.4kbits/s speed=16.5x    
+frame= 5911 fps=492 q=-1.0 size=    7680KiB time=00:03:16.84 bitrate= 319.6kbits/s speed=16.4x    
+frame= 6121 fps=489 q=-1.0 size=    7936KiB time=00:03:23.84 bitrate= 318.9kbits/s speed=16.3x    
+frame= 6329 fps=487 q=-1.0 size=    8192KiB time=00:03:30.79 bitrate= 318.4kbits/s speed=16.2x    
+frame= 6531 fps=483 q=-1.0 size=    8448KiB time=00:03:37.51 bitrate= 318.2kbits/s speed=16.1x    
+frame= 6795 fps=485 q=-1.0 size=    8704KiB time=00:03:46.32 bitrate= 315.0kbits/s speed=16.2x    
+frame= 7078 fps=488 q=-1.0 size=    8960KiB time=00:03:55.75 bitrate= 311.3kbits/s speed=16.2x    
+frame= 7421 fps=494 q=-1.0 size=    9472KiB time=00:04:07.16 bitrate= 313.9kbits/s speed=16.5x    
+frame= 7729 fps=498 q=-1.0 size=    9984KiB time=00:04:17.45 bitrate= 317.7kbits/s speed=16.6x    
+frame= 8078 fps=505 q=-1.0 size=   10496KiB time=00:04:29.09 bitrate= 319.5kbits/s speed=16.8x    
+frame= 8376 fps=507 q=-1.0 size=   10752KiB time=00:04:39.01 bitrate= 315.7kbits/s speed=16.9x    
+frame= 8681 fps=510 q=-1.0 size=   11264KiB time=00:04:49.17 bitrate= 319.1kbits/s speed=  17x    
+frame= 8961 fps=512 q=-1.0 size=   11520KiB time=00:04:58.53 bitrate= 316.1kbits/s speed=  17x    
+frame= 9248 fps=513 q=-1.0 size=   11776KiB time=00:05:08.09 bitrate= 313.1kbits/s speed=17.1x    
+frame= 9568 fps=517 q=-1.0 size=   12288KiB time=00:05:18.74 bitrate= 315.8kbits/s speed=17.2x    
+frame= 9785 fps=515 q=-1.0 size=   12544KiB time=00:05:25.97 bitrate= 315.2kbits/s speed=17.1x    
+[Parsed_loudnorm_0 @ 0x7fd534002ec0] 
+{
+	"input_i" : "-15.35",
+	"input_tp" : "-2.27",
+	"input_lra" : "3.50",
+	"input_thresh" : "-25.97",
+	"output_i" : "-15.96",
+	"output_tp" : "-2.88",
+	"output_lra" : "3.50",
+	"output_thresh" : "-26.58",
+	"normalization_type" : "linear",
+	"target_offset" : "-0.04"
+}
+[mp4 @ 0x562c788d43c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x562c788d42c0] video:4977KiB audio:7820KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.777074%
+frame= 9902 fps=513 q=-1.0 Lsize=   13153KiB time=00:05:30.00 bitrate= 326.5kbits/s speed=17.1x    
+[aac @ 0x562c788d3440] Qavg: 753.564

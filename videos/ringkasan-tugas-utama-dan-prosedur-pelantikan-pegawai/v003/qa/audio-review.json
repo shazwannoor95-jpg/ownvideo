@@ -1,0 +1,7 @@
+{
+  "technical_audio_integrity": "WAV PCM verified; actual durations measured",
+  "voice": "Ludo (configured in all API calls)",
+  "human_pronunciation_verified": false,
+  "independent_transcription": "Unavailable in this environment",
+  "caption_alignment": "Estimated using measured silence boundaries and script weights; not human verified"
+}

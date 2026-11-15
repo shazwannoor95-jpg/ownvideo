@@ -1,0 +1,49 @@
+{
+  "all_text_within_canvas": true,
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "text_bounds_checked": true,
+      "beats": 2
+    },
+    {
+      "id": "s02",
+      "text_bounds_checked": true,
+      "beats": 4
+    },
+    {
+      "id": "s03",
+      "text_bounds_checked": true,
+      "beats": 6
+    },
+    {
+      "id": "s04",
+      "text_bounds_checked": true,
+      "beats": 4
+    },
+    {
+      "id": "s05",
+      "text_bounds_checked": true,
+      "beats": 4
+    },
+    {
+      "id": "s06",
+      "text_bounds_checked": true,
+      "beats": 4
+    },
+    {
+      "id": "s07",
+      "text_bounds_checked": true,
+      "beats": 3
+    },
+    {
+      "id": "s08",
+      "text_bounds_checked": true,
+      "beats": 2
+    }
+  ]
+}
