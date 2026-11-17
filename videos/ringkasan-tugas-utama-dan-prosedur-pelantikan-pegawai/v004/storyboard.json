@@ -1,0 +1,463 @@
+{
+  "title": "Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai",
+  "language": "ms-MY",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "minimum_seconds": 300,
+  "target_seconds": 360,
+  "maximum_seconds": 420,
+  "required_voice": "Google AI Studio — Ludo",
+  "status": "DRAFT_WAITING_LUDO",
+  "sources": [
+    {
+      "id": "uploaded_pptx",
+      "path": "source/Slide_Pelantikan_Pegawai_UiTM_Motion_Graphic.pptx",
+      "extracted_text": "source/teks-pengguna.md",
+      "sha256": "32aaafcbd27a0157b32f2d31df82bced238cdc55e94f33fefeba339c75631b83"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "Ringkasan tugas utama dan prosedur pelantikan pegawai",
+      "chapter": "Ringkasan tugas utama dan prosedur pelantikan pegawai",
+      "eyebrow": "Ringkasan tugas utama dan prosedur pelantikan pegawai",
+      "duration_target": 24,
+      "narration": "Bagaimanakah enam pelantikan pegawai menyokong pengurusan rekod dan keselamatan dokumen di Universiti Teknologi MARA? Video ini memperkenalkan peranan, kelayakan, agensi, borang dan aliran urusan berdasarkan slaid Bahagian Arkib Universiti. Beberapa syarat serta laluan dalaman masih memerlukan pengesahan, seperti yang dinyatakan dalam sumber.",
+      "beats": [
+        {
+          "title": "Enam peranan. Urusan lebih teratur.",
+          "items": [
+            "Kenali tugas setiap pegawai",
+            "Semak kelayakan dan borang",
+            "Fahami aliran urusan"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 1
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s01.wav",
+      "kind": "intro",
+      "word_count": 42
+    },
+    {
+      "id": "s02",
+      "title": "Enam pelantikan, tiga bidang utama",
+      "chapter": "Enam pelantikan, tiga bidang utama",
+      "eyebrow": "Enam pelantikan, tiga bidang utama",
+      "duration_target": 30,
+      "narration": "Enam pelantikan ini meliputi tiga bidang utama. Pertama, pengelasan rahsia rasmi: Pegawai Pengelas Semula dan Pegawai Pengelas. Kedua, pengurusan rekod: Pegawai Rekod Jabatan dan Pembantu Tadbir Rekod Jabatan. Ketiga, pendaftaran rahsia: Pendaftar Rahsia dan Pendaftar Kecil Rahsia. Kita akan melihat kelayakan, pihak pelantik, tugas dan borang setiap peranan. Pusat tanggungjawab disebut sebagai P T J. Bahagian Arkib Universiti pula diringkaskan sebagai BARU.",
+      "beats": [
+        {
+          "title": "Pengelasan rahsia rasmi",
+          "items": [
+            "Pegawai Pengelas Semula",
+            "Pegawai Pengelas"
+          ]
+        },
+        {
+          "title": "Pengurusan rekod",
+          "items": [
+            "Pegawai Rekod Jabatan (PRJ)",
+            "Pembantu Tadbir Rekod Jabatan (PTRJ)"
+          ]
+        },
+        {
+          "title": "Pendaftaran rahsia",
+          "items": [
+            "Pendaftar Rahsia",
+            "Pendaftar Kecil Rahsia"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 2
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s02.wav",
+      "kind": "overview",
+      "word_count": 62
+    },
+    {
+      "id": "s03",
+      "title": "Pegawai Pengelas Semula",
+      "chapter": "Pegawai Pengelas Semula",
+      "eyebrow": "Pegawai Pengelas Semula",
+      "duration_target": 44,
+      "narration": "Pertama, Pegawai Pengelas Semula. Slaid menyenaraikan Naib Canselor dan Rektor, dengan kuasa menurut Seksyen dua C, Akta Rahsia Rasmi seribu sembilan ratus tujuh puluh dua, atau pewakilan sah. Pegawai menyemak dokumen rahsia rasmi daripada jabatan sendiri, kemudian menilai sama ada kandungannya masih menjejaskan keselamatan atau kepentingan negara. Penilaian ini menentukan dokumen yang sesuai dikelaskan semula menjadi terbuka. Borang rujukannya ialah K P K K sembilan A, dengan penglibatan Kementerian Pendidikan Tinggi dan C G S O mengikut urusan. Prosedur permohonan khusus melalui P T J dan BARU belum dibekalkan dalam slaid.",
+      "beats": [
+        {
+          "title": "Semak sebelum pengelasan semula",
+          "items": [
+            "Semak dokumen rahsia rasmi jabatan sendiri",
+            "Nilai kesan kepada keselamatan atau kepentingan negara",
+            "Tentukan dokumen yang sesuai menjadi terbuka"
+          ]
+        },
+        {
+          "title": "Kuasa dan dokumen rujukan",
+          "items": [
+            "Seksyen 2C • Akta Rahsia Rasmi 1972",
+            "Kuasa mengikut seksyen atau pewakilan sah",
+            "KPT dan CGSO mengikut urusan"
+          ]
+        },
+        {
+          "title": "Prosedur khusus belum dibekalkan",
+          "items": [
+            "Laluan permohonan PTj / BARU belum diperincikan",
+            "Rujukan dalam slaid: Seksyen 2C dan KPKK 9(A)"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 3
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s03.wav",
+      "kind": "role",
+      "number": "01",
+      "eligible": "Naib Canselor dan Rektor",
+      "appoint": "Kuasa Seksyen 2C / pewakilan sah",
+      "agency": "KPT • CGSO",
+      "form": "KPKK 9(A)",
+      "flow": [],
+      "reference": "Seksyen 2C • Akta Rahsia Rasmi 1972 (Akta 88)",
+      "note": "Prosedur khusus PTj / BARU belum dibekalkan.",
+      "word_count": 91
+    },
+    {
+      "id": "s04",
+      "title": "Pegawai Pengelas",
+      "chapter": "Pegawai Pengelas",
+      "eyebrow": "Pegawai Pengelas",
+      "duration_target": 50,
+      "narration": "Kedua, Pegawai Pengelas. Ketua jabatan, bahagian atau unit dilantik oleh Menteri Pendidikan Tinggi di bawah Seksyen dua B, Akta Rahsia Rasmi. Pegawai menyemak dan menentukan taraf keselamatan dokumen, kemudian menandakan serta mendaftarkannya mengikut peringkat. Pegawai juga mengawal penyimpanan dan daftar, serta memaklumkan urusan pengelasan semula berkaitan. Dokumen pelantikan ialah Borang Seksyen dua B dan dua salinan K P K K sembilan. Alirannya daripada P T J kepada BARU, seterusnya Jabatan Pendidikan Tinggi, kemudian kembali melalui BARU kepada pegawai. Selepas pelantikan, BARU menghantar K P K K sembilan bersama salinan sijil kepada C G S O. Agensi terlibat ialah Jabatan Pendidikan Tinggi, Kementerian Pendidikan Tinggi dan C G S O.",
+      "beats": [
+        {
+          "title": "Tentukan taraf keselamatan",
+          "items": [
+            "Semak dan tentukan taraf keselamatan dokumen",
+            "Tandakan serta daftarkan mengikut peringkat",
+            "Kawal penyimpanan, daftar dan urusan pengelasan semula"
+          ]
+        },
+        {
+          "title": "Sediakan dokumen pelantikan",
+          "items": [
+            "Borang Seksyen 2B",
+            "Dua salinan Borang KPKK 9",
+            "Agensi: JPT, KPT dan CGSO"
+          ]
+        },
+        {
+          "title": "Ikuti aliran urusan",
+          "items": [
+            "PTj → BARU → JPT → BARU → Pegawai",
+            "Selepas pelantikan: BARU menghantar KPKK 9",
+            "Salinan sijil turut dikemukakan kepada CGSO"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 4
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s04.wav",
+      "kind": "role",
+      "number": "02",
+      "eligible": "Ketua Jabatan / Bahagian / Unit",
+      "appoint": "Menteri Pendidikan Tinggi",
+      "agency": "JPT • KPT • CGSO",
+      "form": "Seksyen 2B + 2 salinan KPKK 9",
+      "flow": [
+        "PTj",
+        "BARU",
+        "JPT",
+        "BARU",
+        "Pegawai"
+      ],
+      "reference": "Seksyen 2B • Akta Rahsia Rasmi 1972 (Akta 88)",
+      "note": "Selepas pelantikan: KPKK 9 dan salinan sijil → CGSO.",
+      "word_count": 109
+    },
+    {
+      "id": "s05",
+      "title": "Pegawai Rekod Jabatan",
+      "chapter": "Pegawai Rekod Jabatan",
+      "eyebrow": "Pegawai Rekod Jabatan",
+      "duration_target": 49,
+      "narration": "Ketiga, Pegawai Rekod Jabatan, atau P R J. Pegawai gred lima dan ke atas dilantik oleh Ketua Jabatan atau Ketua Pejabat Awam. P R J menjadi penghubung dengan Arkib Negara Malaysia serta menyelaras program dan latihan rekod. Pegawai memantau keselamatan, penjagaan dan penyimpanan rekod awam. Pelupusan serta pemindahan perlu mengikut peraturan, dengan kerja pengurusan rekod diselia oleh P R J. Gunakan Borang S K L lapan. Alirannya ialah P T J, BARU, Arkib Negara Malaysia, kemudian kembali kepada BARU dan pegawai. Sijil P R J dikeluarkan Arkib Negara Malaysia selepas kursus yang ditetapkan. Rujukannya ialah Panduan Pengurusan Rekod Sektor Awam.",
+      "beats": [
+        {
+          "title": "Penyelaras pengurusan rekod",
+          "items": [
+            "Penghubung dengan Arkib Negara Malaysia",
+            "Selaras program serta latihan rekod",
+            "Selia kerja pengurusan rekod jabatan"
+          ]
+        },
+        {
+          "title": "Jaga rekod sepanjang urusan",
+          "items": [
+            "Pantau keselamatan, penjagaan dan penyimpanan",
+            "Pastikan pelupusan mengikut peraturan",
+            "Pastikan pemindahan rekod mengikut peraturan"
+          ]
+        },
+        {
+          "title": "Borang dan pensijilan",
+          "items": [
+            "Gunakan Borang SKL 8",
+            "PTj → BARU → ANM → BARU → Pegawai",
+            "Sijil ANM selepas mengikuti kursus yang ditetapkan"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 5
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s05.wav",
+      "kind": "role",
+      "number": "03",
+      "eligible": "Pegawai Gred 5 dan ke atas",
+      "appoint": "Ketua Jabatan / Ketua Pejabat Awam",
+      "agency": "Arkib Negara Malaysia (ANM)",
+      "form": "SKL 8",
+      "flow": [
+        "PTj",
+        "BARU",
+        "ANM",
+        "BARU",
+        "Pegawai"
+      ],
+      "reference": "Panduan Pengurusan Rekod Sektor Awam",
+      "note": "Sijil PRJ dikeluarkan ANM selepas kursus yang ditetapkan.",
+      "short": "PRJ",
+      "word_count": 100
+    },
+    {
+      "id": "s06",
+      "title": "Pembantu Tadbir Rekod Jabatan",
+      "chapter": "Pembantu Tadbir Rekod Jabatan",
+      "eyebrow": "Pembantu Tadbir Rekod Jabatan",
+      "duration_target": 46,
+      "narration": "Keempat, Pembantu Tadbir Rekod Jabatan, atau P T R J. Peranan ini membantu P R J mengurus rekod, fail, program dan latihan. Tugasnya turut meliputi bantuan pemantauan keselamatan, penjagaan dan penyimpanan rekod awam, pelupusan mengikut peraturan, serta urusan dengan Arkib Negara Malaysia. Pelantiknya ialah Ketua Jabatan atau Ketua Pejabat Awam. Slaid menyatakan gred satu dan ke atas, berpandukan jadual UiTM. Syarat terkini perlu disemak sebelum edaran rasmi. Gunakan Borang S K L lapan, melalui aliran P T J, BARU, Arkib Negara Malaysia, kemudian kembali kepada BARU dan pegawai.",
+      "beats": [
+        {
+          "title": "Membantu PRJ melaksanakan urusan",
+          "items": [
+            "Bantu urus rekod, fail, program dan latihan",
+            "Bantu pantau keselamatan serta penyimpanan",
+            "Bantu pelupusan dan urusan dengan ANM"
+          ]
+        },
+        {
+          "title": "Kelayakan perlu disemak",
+          "items": [
+            "Slaid menyatakan Gred 1 dan ke atas*",
+            "Gred berpandukan jadual UiTM",
+            "Semak syarat terkini sebelum edaran rasmi"
+          ]
+        },
+        {
+          "title": "Borang dan laluan urusan",
+          "items": [
+            "Gunakan Borang SKL 8",
+            "PTj → BARU → ANM → BARU → Pegawai",
+            "Pelantik: Ketua Jabatan / Ketua Pejabat Awam"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 6
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s06.wav",
+      "kind": "role",
+      "number": "04",
+      "eligible": "Pegawai Gred 1 dan ke atas*",
+      "appoint": "Ketua Jabatan / Ketua Pejabat Awam",
+      "agency": "Arkib Negara Malaysia (ANM)",
+      "form": "SKL 8",
+      "flow": [
+        "PTj",
+        "BARU",
+        "ANM",
+        "BARU",
+        "Pegawai"
+      ],
+      "reference": "Panduan Pengurusan Rekod Sektor Awam",
+      "note": "*Gred berpandukan jadual UiTM; semak syarat terkini.",
+      "short": "PTRJ",
+      "word_count": 88
+    },
+    {
+      "id": "s07",
+      "title": "Pendaftar Rahsia",
+      "chapter": "Pendaftar Rahsia",
+      "eyebrow": "Pendaftar Rahsia",
+      "duration_target": 47,
+      "narration": "Kelima, Pendaftar Rahsia. Pegawai gred satu dan ke atas yang berkenaan dilantik oleh pihak diberi kuasa atau Ketua Jabatan. Rujukannya ialah perenggan tujuh puluh sembilan dan lapan puluh satu Arahan Keselamatan. Pegawai menyelia Bahagian Pendaftaran Rahsia, memantau pendaftaran, pengendalian dan keselamatan dokumen, serta memastikan penyimpanan mengikut Arahan Keselamatan. Pemakluman pelantikan kepada C G S O menggunakan Borang K P K K dua puluh dua. Alirannya bermula daripada pihak berkuasa, diikuti surat pelantikan kepada pegawai, kemudian borang tersebut kepada C G S O. Pelantikan berkuat kuasa mulai tarikh surat. Laluan melalui BARU belum disahkan dalam slaid.",
+      "beats": [
+        {
+          "title": "Selia Bahagian Pendaftaran Rahsia",
+          "items": [
+            "Seliaan sebagaimana perenggan 81",
+            "Pantau pendaftaran dan pengendalian dokumen",
+            "Pastikan keselamatan serta penyimpanan teratur"
+          ]
+        },
+        {
+          "title": "Pelantikan dan pemakluman",
+          "items": [
+            "Pihak diberi kuasa / Ketua Jabatan melantik",
+            "Berkuat kuasa mulai tarikh surat pelantikan",
+            "Borang KPKK 22 untuk pemakluman kepada CGSO"
+          ]
+        },
+        {
+          "title": "Laluan dalaman belum disahkan",
+          "items": [
+            "Pihak berkuasa → Surat → Pegawai → KPKK 22 → CGSO",
+            "Laluan khusus melalui BARU belum disahkan",
+            "Kekalkan rujukan kepada Arahan Keselamatan"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 7
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s07.wav",
+      "kind": "role",
+      "number": "05",
+      "eligible": "Gred 1 dan ke atas yang berkenaan",
+      "appoint": "Pihak diberi kuasa / Ketua Jabatan",
+      "agency": "CGSO • pemakluman pelantikan",
+      "form": "KPKK 22",
+      "flow": [
+        "Pihak berkuasa",
+        "Surat",
+        "Pegawai",
+        "KPKK 22",
+        "CGSO"
+      ],
+      "reference": "Perenggan 79 dan 81 • Arahan Keselamatan",
+      "note": "Kuat kuasa mulai tarikh surat; laluan BARU belum disahkan.",
+      "word_count": 95
+    },
+    {
+      "id": "s08",
+      "title": "Pendaftar Kecil Rahsia",
+      "chapter": "Pendaftar Kecil Rahsia",
+      "eyebrow": "Pendaftar Kecil Rahsia",
+      "duration_target": 42,
+      "narration": "Keenam, Pendaftar Kecil Rahsia. Peranan ini mengurus fail rahsia rasmi di jabatan, bahagian atau unit. Pegawai gred satu dan ke atas yang berkenaan dilantik oleh Ketua Jabatan, bahagian atau unit. Rujukan slaid ialah Surat Pekeliling Am Bilangan lapan tahun dua ribu dua puluh empat. Pemakluman pelantikan kepada C G S O menggunakan Borang K P K K dua puluh dua. Alirannya daripada Ketua Jabatan kepada P T J, seterusnya BARU dan C G S O. P T J menyertakan surat iringan. BARU mengaku terima dan mengemukakan borang kepada C G S O.",
+      "beats": [
+        {
+          "title": "Skop pada peringkat jabatan",
+          "items": [
+            "Urus fail-fail rahsia rasmi",
+            "Meliputi jabatan, bahagian atau unit",
+            "Pelantik: Ketua Jabatan / Bahagian / Unit"
+          ]
+        },
+        {
+          "title": "Lengkapkan urusan pemakluman",
+          "items": [
+            "Gunakan Borang KPKK 22",
+            "PTj menyertakan surat iringan",
+            "BARU mengaku terima dan menghantar borang ke CGSO"
+          ]
+        },
+        {
+          "title": "Ikuti laluan yang ditunjukkan",
+          "items": [
+            "Ketua Jabatan → PTj → BARU → CGSO",
+            "Rujukan: Surat Pekeliling Am Bil. 8 Tahun 2024",
+            "Kekalkan pengurusan fail dalam skop unit berkenaan"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 8
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s08.wav",
+      "kind": "role",
+      "number": "06",
+      "eligible": "Gred 1 dan ke atas yang berkenaan",
+      "appoint": "Ketua Jabatan / Bahagian / Unit",
+      "agency": "CGSO • pemakluman pelantikan",
+      "form": "KPKK 22",
+      "flow": [
+        "Ketua Jabatan",
+        "PTj",
+        "BARU",
+        "CGSO"
+      ],
+      "reference": "Surat Pekeliling Am Bil. 8 Tahun 2024",
+      "note": "PTj: surat iringan • BARU: akuan terima dan penghantaran.",
+      "word_count": 92
+    },
+    {
+      "id": "s09",
+      "title": "Peranan jelas, tindakan teratur",
+      "chapter": "Peranan jelas, tindakan teratur",
+      "eyebrow": "Peranan jelas, tindakan teratur",
+      "duration_target": 28,
+      "narration": "Ringkasnya, Pengelas Semula menggunakan K P K K sembilan A. Pegawai Pengelas menggunakan Borang Seksyen dua B dan K P K K sembilan. P R J serta P T R J menggunakan S K L lapan. Kedua-dua peranan pendaftar rahsia menggunakan K P K K dua puluh dua. Sebelum edaran rasmi, BARU perlu menyemak gred P T R J dan aliran dalaman yang belum disahkan. Kenal pasti peranan dan gunakan borang yang bersesuaian.",
+      "beats": [
+        {
+          "title": "Padankan peranan dengan borang",
+          "items": [
+            "Pengelas Semula • KPKK 9(A)",
+            "Pengelas • Seksyen 2B + KPKK 9",
+            "PRJ / PTRJ • SKL 8",
+            "Pendaftar Rahsia / Kecil Rahsia • KPKK 22"
+          ]
+        }
+      ],
+      "source_refs": [
+        {
+          "source": "uploaded_pptx",
+          "slide": 9
+        }
+      ],
+      "status": "WAITING_LUDO_AUDIO",
+      "audio_file": "audio/s09.wav",
+      "kind": "summary",
+      "word_count": 73
+    }
+  ],
+  "timing_basis": "Estimated editorial timing; must realign after verified Ludo WAVs."
+}

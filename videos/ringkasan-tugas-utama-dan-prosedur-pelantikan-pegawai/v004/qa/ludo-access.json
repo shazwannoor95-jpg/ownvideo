@@ -1,0 +1,11 @@
+{
+  "status": "blocked",
+  "method": "host CUA browser automation",
+  "error": "the gaas-browser node_repl sandbox cannot be disabled",
+  "editor_checked": false,
+  "account_checked": false,
+  "ludo_checked": false,
+  "quota_checked": false,
+  "speech_generated": false,
+  "fallback_used": false
+}

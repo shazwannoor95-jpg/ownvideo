@@ -1,0 +1,30 @@
+{
+  "artifact": "DRAF_6_MINIT_MUZIK_MENUNGGU_LUDO.mp4",
+  "duration_seconds": 360.0,
+  "bytes": 15154098,
+  "sha256": "8d6fd5beddfecd192376f47d113d4b08f7141b10c25875d32b12aa6c4b3096a4",
+  "preview_checks": {
+    "h264": true,
+    "native_full_hd": true,
+    "fps_30": true,
+    "six_minutes": true,
+    "frames_10800": true,
+    "aac": true,
+    "stereo": true,
+    "sample_rate_48khz": true,
+    "full_decode": true
+  },
+  "preview_technical_checks_passed": true,
+  "audio_loudness": [
+    "[Parsed_volumedetect_0 @ 0x7fce28001d40] mean_volume: -34.2 dB",
+    "[Parsed_volumedetect_0 @ 0x7fce28001d40] max_volume: -17.5 dB"
+  ],
+  "audio_content": "original instrumental music only, no speech",
+  "narration_generated": false,
+  "narration_voice_verified": false,
+  "caption_alignment_verified": false,
+  "estimated_timing": true,
+  "final_video_complete": false,
+  "publish_ready": false,
+  "remaining": "Google AI Studio Ludo WAVs, actual audio review, timing alignment, visible captions, final voice/music mix and final QA."
+}

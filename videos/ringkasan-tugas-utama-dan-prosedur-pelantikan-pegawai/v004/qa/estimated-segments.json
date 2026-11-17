@@ -1,0 +1,522 @@
+[
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s01_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s01_00.mp4",
+    "start_seconds": 0,
+    "duration": 8.0,
+    "frames": 240,
+    "scene": "s01"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s01_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s01_01.mp4",
+    "start_seconds": 8.0,
+    "duration": 8.0,
+    "frames": 240,
+    "scene": "s01"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s01_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s01_02.mp4",
+    "start_seconds": 16.0,
+    "duration": 8.0,
+    "frames": 240,
+    "scene": "s01"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s02_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s02_00.mp4",
+    "start_seconds": 24.0,
+    "duration": 10.0,
+    "frames": 300,
+    "scene": "s02"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s02_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s02_01.mp4",
+    "start_seconds": 34.0,
+    "duration": 10.0,
+    "frames": 300,
+    "scene": "s02"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s02_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s02_02.mp4",
+    "start_seconds": 44.0,
+    "duration": 10.0,
+    "frames": 300,
+    "scene": "s02"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_00.mp4",
+    "start_seconds": 54.0,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_01.mp4",
+    "start_seconds": 59.5,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_02.mp4",
+    "start_seconds": 65.0,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_03.mp4",
+    "start_seconds": 70.5,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_04.mp4",
+    "start_seconds": 76.0,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_05.mp4",
+    "start_seconds": 81.5,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_06.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_06.mp4",
+    "start_seconds": 87.0,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_07.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s03_07.mp4",
+    "start_seconds": 92.5,
+    "duration": 5.5,
+    "frames": 165,
+    "scene": "s03"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_00.mp4",
+    "start_seconds": 98.0,
+    "duration": 5.566666666666666,
+    "frames": 167,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_01.mp4",
+    "start_seconds": 103.56666666666666,
+    "duration": 5.533333333333333,
+    "frames": 166,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_02.mp4",
+    "start_seconds": 109.1,
+    "duration": 5.566666666666666,
+    "frames": 167,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_03.mp4",
+    "start_seconds": 114.66666666666666,
+    "duration": 5.566666666666666,
+    "frames": 167,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_04.mp4",
+    "start_seconds": 120.23333333333332,
+    "duration": 5.533333333333333,
+    "frames": 166,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_05.mp4",
+    "start_seconds": 125.76666666666665,
+    "duration": 5.566666666666666,
+    "frames": 167,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_06.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_06.mp4",
+    "start_seconds": 131.33333333333331,
+    "duration": 5.566666666666666,
+    "frames": 167,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_07.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_07.mp4",
+    "start_seconds": 136.89999999999998,
+    "duration": 5.533333333333333,
+    "frames": 166,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_08.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s04_08.mp4",
+    "start_seconds": 142.4333333333333,
+    "duration": 5.566666666666666,
+    "frames": 167,
+    "scene": "s04"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_00.mp4",
+    "start_seconds": 147.99999999999997,
+    "duration": 5.433333333333334,
+    "frames": 163,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_01.mp4",
+    "start_seconds": 153.4333333333333,
+    "duration": 5.466666666666667,
+    "frames": 164,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_02.mp4",
+    "start_seconds": 158.89999999999998,
+    "duration": 5.433333333333334,
+    "frames": 163,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_03.mp4",
+    "start_seconds": 164.33333333333331,
+    "duration": 5.433333333333334,
+    "frames": 163,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_04.mp4",
+    "start_seconds": 169.76666666666665,
+    "duration": 5.466666666666667,
+    "frames": 164,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_05.mp4",
+    "start_seconds": 175.23333333333332,
+    "duration": 5.433333333333334,
+    "frames": 163,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_06.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_06.mp4",
+    "start_seconds": 180.66666666666666,
+    "duration": 5.433333333333334,
+    "frames": 163,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_07.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_07.mp4",
+    "start_seconds": 186.1,
+    "duration": 5.466666666666667,
+    "frames": 164,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_08.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s05_08.mp4",
+    "start_seconds": 191.56666666666666,
+    "duration": 5.433333333333334,
+    "frames": 163,
+    "scene": "s05"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_00.mp4",
+    "start_seconds": 197.0,
+    "duration": 5.1,
+    "frames": 153,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_01.mp4",
+    "start_seconds": 202.1,
+    "duration": 5.133333333333334,
+    "frames": 154,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_02.mp4",
+    "start_seconds": 207.23333333333332,
+    "duration": 5.1,
+    "frames": 153,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_03.mp4",
+    "start_seconds": 212.33333333333331,
+    "duration": 5.1,
+    "frames": 153,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_04.mp4",
+    "start_seconds": 217.4333333333333,
+    "duration": 5.133333333333334,
+    "frames": 154,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_05.mp4",
+    "start_seconds": 222.56666666666663,
+    "duration": 5.1,
+    "frames": 153,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_06.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_06.mp4",
+    "start_seconds": 227.66666666666663,
+    "duration": 5.1,
+    "frames": 153,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_07.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_07.mp4",
+    "start_seconds": 232.76666666666662,
+    "duration": 5.133333333333334,
+    "frames": 154,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_08.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s06_08.mp4",
+    "start_seconds": 237.89999999999995,
+    "duration": 5.1,
+    "frames": 153,
+    "scene": "s06"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_00.mp4",
+    "start_seconds": 242.99999999999994,
+    "duration": 5.233333333333333,
+    "frames": 157,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_01.mp4",
+    "start_seconds": 248.23333333333326,
+    "duration": 5.2,
+    "frames": 156,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_02.mp4",
+    "start_seconds": 253.43333333333325,
+    "duration": 5.233333333333333,
+    "frames": 157,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_03.mp4",
+    "start_seconds": 258.6666666666666,
+    "duration": 5.233333333333333,
+    "frames": 157,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_04.mp4",
+    "start_seconds": 263.8999999999999,
+    "duration": 5.2,
+    "frames": 156,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_05.mp4",
+    "start_seconds": 269.0999999999999,
+    "duration": 5.233333333333333,
+    "frames": 157,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_06.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_06.mp4",
+    "start_seconds": 274.33333333333326,
+    "duration": 5.233333333333333,
+    "frames": 157,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_07.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_07.mp4",
+    "start_seconds": 279.5666666666666,
+    "duration": 5.2,
+    "frames": 156,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_08.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s07_08.mp4",
+    "start_seconds": 284.7666666666666,
+    "duration": 5.233333333333333,
+    "frames": 157,
+    "scene": "s07"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_00.mp4",
+    "start_seconds": 289.99999999999994,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_01.mp4",
+    "start_seconds": 294.66666666666663,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_02.mp4",
+    "start_seconds": 299.3333333333333,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_03.mp4",
+    "start_seconds": 304.0,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_04.mp4",
+    "start_seconds": 308.6666666666667,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_05.mp4",
+    "start_seconds": 313.33333333333337,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_06.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_06.mp4",
+    "start_seconds": 318.00000000000006,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_07.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_07.mp4",
+    "start_seconds": 322.66666666666674,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_08.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s08_08.mp4",
+    "start_seconds": 327.3333333333334,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s08"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_00.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_00.mp4",
+    "start_seconds": 332.0000000000001,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s09"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_01.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_01.mp4",
+    "start_seconds": 336.6666666666668,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s09"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_02.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_02.mp4",
+    "start_seconds": 341.3333333333335,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s09"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_03.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_03.mp4",
+    "start_seconds": 346.00000000000017,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s09"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_04.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_04.mp4",
+    "start_seconds": 350.66666666666686,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s09"
+  },
+  {
+    "source": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_05.png",
+    "target": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/rendered/s09_05.mp4",
+    "start_seconds": 355.33333333333354,
+    "duration": 4.666666666666667,
+    "frames": 140,
+    "scene": "s09"
+  }
+]

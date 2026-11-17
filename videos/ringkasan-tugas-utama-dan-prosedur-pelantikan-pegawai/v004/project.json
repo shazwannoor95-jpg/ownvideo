@@ -1,0 +1,21 @@
+{
+  "title": "Ringkasan Tugas Utama dan Prosedur Pelantikan Pegawai",
+  "slug": "ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai",
+  "version": "v004",
+  "branch": "video/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004",
+  "tag": "ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai-v004",
+  "status": "DRAFT_WAITING_LUDO",
+  "voiceover": {
+    "provider": "Google AI Studio",
+    "voice": "Ludo"
+  },
+  "created_utc": "2026-11-17T02:02:31.359583+00:00",
+  "target_seconds": 360,
+  "requested_duration_range_seconds": [
+    300,
+    420
+  ],
+  "source_file": "source/Slide_Pelantikan_Pegawai_UiTM_Motion_Graphic.pptx",
+  "draft_video": "outputs/DRAF_6_MINIT_MUZIK_MENUNGGU_LUDO.mp4",
+  "narration_status": "not generated: browser runtime blocked"
+}

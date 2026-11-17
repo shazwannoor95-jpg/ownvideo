@@ -1,0 +1,19 @@
+{
+  "status": "DRAFT_WAITING_LUDO",
+  "preview_duration_seconds": 360,
+  "preview_technical_qa": "passed",
+  "source_slides": 9,
+  "narration_words": 752,
+  "narration_status": "blocked by host browser runtime failure",
+  "narration_origin_verified": false,
+  "final_captions": "not generated; require real WAV alignment",
+  "final_video_complete": false,
+  "publication": "draft branch checkpoint only; no final version tag",
+  "remaining_steps": [
+    "Generate and verify Google AI Studio Ludo WAVs",
+    "Review pronunciation and completeness",
+    "Align visuals and visible captions to actual recording",
+    "Mix voice with music",
+    "Verify final 5–7 minute MP4 and publish through repo workflow"
+  ]
+}

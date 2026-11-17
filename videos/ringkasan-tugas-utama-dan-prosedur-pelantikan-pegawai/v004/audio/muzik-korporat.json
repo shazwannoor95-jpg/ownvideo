@@ -1,0 +1,17 @@
+{
+  "file": "/workspace/ownvideo/videos/ringkasan-tugas-utama-dan-prosedur-pelantikan-pegawai/v004/audio/muzik-korporat.wav",
+  "duration_seconds": 360.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "sample_format": "signed PCM 16-bit",
+  "tempo_bpm": 76.0,
+  "music_variant": null,
+  "transpose_semitones": 0,
+  "peak_linear": 0.2045959085226059,
+  "peak_dbfs": -13.78,
+  "rms_dbfs": -30.46,
+  "finite_samples": true,
+  "clipped_samples": 0,
+  "scene_accents": 0,
+  "original_procedural_composition": true
+}
